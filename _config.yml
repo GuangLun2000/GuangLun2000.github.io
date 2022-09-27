@@ -13,8 +13,8 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
-  github: jansel
-  linkedin: jansel
+  github: https://github.com/GuangLun2000
+  linkedin: https://www.linkedin.com/in/hanlin-cai-07b53b23b/
   scholar: https://scholar.google.com/citations?user=jDNYtP0AAAAJ
   instagram:
   lastfm:
@@ -40,7 +40,7 @@ links:
     url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: America/New_York
+timezone: China/Beijing
 future: true
 highlighter: rouge
 # markdown: kramdown
