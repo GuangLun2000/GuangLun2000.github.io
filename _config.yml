@@ -12,13 +12,15 @@ owner:
   email:          hanlin.cai@ieee.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: https://twitter.com/lancecai2002
-  facebook:
+  # facebook:
   github: https://github.com/GuangLun2000
   linkedin: https://www.linkedin.com/in/hanlin-cai-07b53b23b/
   scholar: https://scholar.google.com/
-  instagram:
-  lastfm:
-  tumblr:
+  bilibili: https://space.bilibili.com/594030035?spm_id_from=333.1007.0.0
+  zhihu: https://www.zhihu.com/people/chlire
+  # instagram:
+  # lastfm:
+  # tumblr:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
