@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/hanlin.jpg">
+<img src="/images/hanlin.jpg" class="floatpic" width="300" height="400">
 My name is Hanlin Cai.  This page is my temporary template.
 
 Before Facebook, I was at GoDaddy helping build a deep learning platform
