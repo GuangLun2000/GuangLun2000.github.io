@@ -4,8 +4,10 @@ layout: page
 
 # About Me
 
-<img src="/images/hanlin.jpg" class="floatpic" width="300" height="300">
-My name is Hanlin Cai.  This page is my temporary template.
+<img src="/images/hanlin.jpg" class="floatpic" width="300" height="400">
+My name is Hanlin Cai.  I am currently a junior at Fuzhou University, China.
+
+This page is my temporary template.
 
 Before Facebook, I was at GoDaddy helping build a deep learning platform
 for predicting small business behavior and personalizing experiences across
