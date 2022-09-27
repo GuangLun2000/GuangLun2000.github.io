@@ -31,7 +31,7 @@ for running untrusted machine code in the web browser.  We
 
 # Research Projects
 
-## [OpenTuner]
+## [IoT System]
 
 [OpenTuner] is an open-source framework building domain-specific
 multi-objective program autotuners.  OpenTuner supports customizable
@@ -91,5 +91,4 @@ need to focus on the speed of your algorithm.
 [PetaBricks]: http://projects.csail.mit.edu/petabricks/
 [Kendo]: http://projects.csail.mit.edu/kendo/
 [DMTCP]: http://dmtcp.sourceforge.net/
-
 

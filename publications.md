@@ -307,11 +307,9 @@ pubs:
     {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
     {% endif %}
-{% endunless %}
-{% endfor %}
+    {% endunless %}
+    {% endfor %}
 
 # Patents
 
-See [Google Patent Search results](https://patents.google.com/?inventor=Jason+Ansel,-Lango&num=100&sort=old).
-
-
+Null.
