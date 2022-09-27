@@ -33,7 +33,7 @@ for running untrusted machine code in the web browser.  We
 
 ## [IoT System]
 
-[OpenTuner] is an open-source framework building domain-specific
+[IoT System] is an open-source framework building domain-specific
 multi-objective program autotuners.  OpenTuner supports customizable
 configuration representations, an extensible technique representation
 to allow for domain-specific techniques, and an easy to use interface for
@@ -87,7 +87,7 @@ need to focus on the speed of your algorithm.
 [GitHub Page]: https://github.com/jansel
 [ShowDB]: https://github.com/jansel/showdb
 [LendingClubChecker]: https://github.com/jansel/lendingclubchecker
-[OpenTuner]: http://opentuner.org/
+[IoT System]: https://www.dropbox.com/s/m86cpwse9iybyda/An%20IoT%20Garbage%20Monitoring%20System%20for%20Effective%20Garbage%20Management.pdf?dl=0
 [PetaBricks]: http://projects.csail.mit.edu/petabricks/
 [Kendo]: http://projects.csail.mit.edu/kendo/
 [DMTCP]: http://dmtcp.sourceforge.net/
