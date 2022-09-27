@@ -7,16 +7,16 @@ layout: nil
       <loc>https://caihanlin.com/</loc>
     </url>
     <url>
-      <loc>https://jasonansel.com/projects/</loc>
+      <loc>https://caihanlin.com/projects/</loc>
     </url>
     <url>
-      <loc>https://jasonansel.com/publications/</loc>
+      <loc>https://caihanlin.com/publications/</loc>
     </url>
     <url>
-      <loc>https://jasonansel.com/experience/</loc>
+      <loc>https://caihanlin.com/experience/</loc>
     </url>
     <url>
-      <loc>https://jasonansel.com/hobbies/</loc>
+      <loc>https://caihanlin.com/hobbies/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}
