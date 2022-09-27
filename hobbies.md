@@ -26,7 +26,6 @@ building tables to explore the search space of roasting parameters.
 <img src="/images/food1.jpg">
 <img src="/images/food2.jpg">
 </div>
-
 I love extremely spicy food and cooking. I taught myself cooking by trying
 to reproduce spicy dishes I like and with the help of many friends who have
 taught me dishes from their home countries. Recently I have been learning

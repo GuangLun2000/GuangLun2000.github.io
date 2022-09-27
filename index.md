@@ -6,15 +6,9 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="300" height="400">
 
-My name is Hanlin Cai.  I am currently a junior at Fuzhou University, China. This page is my temporary template.
+My name is Hanlin Cai.  I am currently a junior at [Fuzhou University], China.
 
-Before Facebook, I was at GoDaddy helping build a deep learning platform
-for predicting small business behavior and personalizing experiences across
-the company.  I also created [GoDaddy Domain Appraisals], which uses neural
-networks to predict the resale value of a domain name better than a human
-expert.  I joined GoDaddy in 2013 as part of the [acquisition] of the startup
-[Locu], which I joined in 2011 while I was simultaneously getting my Ph.D. at
-[MIT][MIT] [CSAIL].
+Before Facebook, I was at GoDaddy helping build a deep learning platform for predicting small business behavior and personalizing experiences across the company.  I also created [GoDaddy Domain Appraisals], which uses neural networks to predict the resale value of a domain name better than a human expert.  I joined GoDaddy in 2013 as part of the [acquisition] of the startup [Locu], which I joined in 2011 while I was simultaneously getting my Ph.D. at [MIT][MIT] [CSAIL].
 
 I did my Ph.D. dissertation in the [Commit] group lead by  [Saman Amarasinghe].
 I started the [OpenTuner] project, an extensible framework for program
@@ -24,6 +18,7 @@ explore search spaces of program implementations.  As an undergraduate, I did
 research with [Gene Cooperman] and helped create [DMTCP], a user-level
 distributed checkpoint/restart system.
 
+[Fuzhou University]: https://www.fzu.edu.cn/
 [GoDaddy Domain Appraisals]: https://www.godaddy.com/engineering/2019/07/26/domain-name-valuation/
 [acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
 [CSAIL]: http://www.csail.mit.edu/
