@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/caihanlin.jpg" class="floatpic" width="300" height="400">
+<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="300" height="400">
 
 My name is Hanlin Cai.  I am currently a junior at Fuzhou University, China. This page is my temporary template.
 
