@@ -1,8 +1,9 @@
 ---
 
 this is just a template page.
+
 layout: page
-permalink: /publications/index.html
+permalink: /publications/index.htmlf
 title: Publications
 pubs:
   - author: "Jason Ansel, Marek Olszewski"
