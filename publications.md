@@ -1,5 +1,4 @@
 ---
-**Lance: just a template page right now.**
 
 layout: page
 permalink: /publications/index.html
