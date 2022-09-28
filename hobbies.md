@@ -6,6 +6,8 @@ title: Hobbies
 
 # Hobbies
 
+**Lance: just a template page right now.**
+
 ## Coffee Roasting
 
 <img src="/images/coffee.jpg" class="floatpic">

@@ -6,6 +6,8 @@ title: Projects
 
 # Work Projects
 
+**Lance: just a template page right now.**
+
 ## GoDaddy Domain Appraisals
 
 While at GoDaddy, I created a system that uses neural networks to predict the
