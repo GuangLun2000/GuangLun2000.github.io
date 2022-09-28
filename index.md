@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://www.caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-您好👋 這裡是蔡漢霖的學術主頁。
+您好👋 這裡是**蔡漢霖**的學術主頁（需要注意，这个网站尚在维护更新中）
 
 My name is **Hanlin Cai**. I am a junior majoring in Automation at [Fuzhou University] (China) and Robotics and Intelligent Devices at [Maynooth University] (Ireland, Combined Degrees). I gain a CGPA of 3.79/4.00, ranking top 10% in my major. Recently, I am nominated for the 2021-2022 **China National Scholarship** (top 1%). 🎊
 
