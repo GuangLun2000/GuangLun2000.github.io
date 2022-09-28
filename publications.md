@@ -1,5 +1,6 @@
 ---
 
+this is just a template page.
 layout: page
 permalink: /publications/index.html
 title: Publications
