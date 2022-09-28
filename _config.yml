@@ -40,6 +40,8 @@ links:
     url: /publications/
   - title: Hobbies
     url: /hobbies/
+  - title: Records
+    url: /records/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
