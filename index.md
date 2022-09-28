@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://www.caihanlin.com/caihanlin.jpg" class="floatpic" width="300" height="400">
+<img src="https://www.caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 您好👋 這裡是蔡漢霖的學術主頁。
 
@@ -12,7 +12,9 @@ My name is **Hanlin Cai**. I am a junior majoring in Automation at [Fuzhou Unive
 
 Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Learning)**. Also, the IEEE conference paper focusing on the IoT in smart cities in CENIM 2022 with the aid of my supervisor ([Chin-Hong Wong]) will be published in Oct. 2022. Besides, I am currently attending a summer research project organized by the University of Cambridge (CCISTC) under the guidance of [Prof. Pietro Lio'] and exploring an ML-based scheme for IoT security. 🚀
 
-📮 My Email: hanlin.cai@ieee.org
+
+
+📮 My Email: [hanlin.cai@ieee.org](hanlin.cai@ieee.org)
 
 👨🏻‍💻 [My Personal Web]
 
