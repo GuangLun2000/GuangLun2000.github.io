@@ -40,8 +40,8 @@ links:
     url: /publications/
   - title: Hobbies
     url: /hobbies/
-  - title: Records
-    url: https://mieclance.club/bao/lance-memoirs
+  # - title: Records
+    # url: https://mieclance.club/bao/lance-memoirs
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
