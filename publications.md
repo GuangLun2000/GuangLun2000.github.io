@@ -9,7 +9,7 @@ pubs:
     month: "Dec"
     year: "2022"
     booktitle: "Whitepaper"
-    url: "https://caihanlin.com/mypaper/2022cenim.pdf"
+    url: "https://caihanlin.com/mypaper/202208cenim.pdf"
 
   - author: "Jason Ansel, Marek Olszewski"
     title: "BFTree - Scaling HotStuff to Millions of Validators"
