@@ -6,9 +6,10 @@ title: Publications
 pubs:
   - author: "Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong"
     title: "An IoT Garbage Monitoring System for Effective Garbage Management"
-    month: "Dec"
+    keywords: "IoT"
+    month: "December"
     year: "2022"
-    booktitle: "Whitepaper"
+    booktitle: "International Conference on Computer Engineering, Network and Intelligent Multimedia (CENIM) 2022"
     url: "https://caihanlin.com/mypaper/202208cenim.pdf"
 
   - author: "Jason Ansel, Marek Olszewski"
