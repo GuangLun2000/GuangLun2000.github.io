@@ -4,6 +4,13 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+  - author: "Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong"
+    title: "An IoT Garbage Monitoring System for Effective Garbage Management"
+    month: "Dec"
+    year: "2022"
+    booktitle: "Whitepaper"
+    url: "https://caihanlin.com/mypaper/2022cenim.pdf"
+
   - author: "Jason Ansel, Marek Olszewski"
     title: "BFTree - Scaling HotStuff to Millions of Validators"
     month: "June"
