@@ -12,9 +12,7 @@ My name is **Hanlin Cai**. I am a junior majoring in Automation at [Fuzhou Unive
 
 Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Learning)**. The paper focusing on the IoT real-time intelligent garbage monitoring system with the aid of my supervisor ([Chin-Hong Wong]) will be published in Dec. 2022 in [IEEE CENIM]. Besides, I am currently attending a summer research project organized by the University of Cambridge under the guidance of [Prof. Pietro Lio'] to design an ML-based testbed for IoT cybersecurity research. 🚀
 
-[My Website] averages over 1000+ visits monthly, [my Zhihu] account has more than 1200+ followers and 10000+ likes. In addition, [my Bilibili] account possesses around 2000 fans. 🥰
-
-Ultimately, if you are interested in my experience, here is [my resume (CV)]. 👨🏻‍💻
+[My Website] averages over 1000+ visits monthly, [my Zhihu] account has more than 1200+ followers and 10000+ likes. In addition, [my Bilibili] account possesses around 2000 fans. 🥰 Ultimately, if you are interested in my experience, here is [my resume (CV)]. 👨🏻‍💻
 
 
 
