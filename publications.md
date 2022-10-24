@@ -1,7 +1,7 @@
 ---
 
 layout: page
-permalink: /publications/index.htmlf
+permalink: /publications/index.html
 title: Publications
 pubs:
   - author: "Jason Ansel, Marek Olszewski"
