@@ -11,7 +11,7 @@ pubs:
     month: "November"
     year: "2022"
     address: "Surabaya, Malaysia"
-    booktitle: "International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM]) 2022"
+    booktitle: "International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM])"
     url: "https://caihanlin.com/mypaper/202208cenim.pdf"
 
 
@@ -41,6 +41,6 @@ pubs:
 
 
 
-
+---
 
 [CENIM]: http://cenim.its.ac.id/#pdfexpress
