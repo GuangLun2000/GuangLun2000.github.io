@@ -14,7 +14,6 @@ pubs:
     booktitle: "International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM]) 2022"
     url: "https://caihanlin.com/mypaper/202208cenim.pdf"
 
-[CENIM]:http://cenim.its.ac.id/#pdfexpress
 
 
 
@@ -40,3 +39,8 @@ pubs:
     {% endunless %}
     {% endfor %}
 
+
+
+
+
+[CENIM]: http://cenim.its.ac.id/#pdfexpress
