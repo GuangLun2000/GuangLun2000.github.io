@@ -14,6 +14,8 @@ Abstract—This paper proposes a real-time intelligent garbage monitoring system
 
 **Index Terms—IoT Cybersecurity, Multiple-mix-attacks, Learning Based Detection**
 
+<!--[RIGMS Testbed] is still under working.-->
+
 [RIGMS Testbed]:https://caihanlin.com/mypaper/202210camb.pdf
 
 
@@ -28,15 +30,19 @@ Abstract—Nowadays, with the increasing output of municipal waste, the pressure
 
 **Index Terms—IoT, Garbage Management, Data Visualization**
 
+<!--[Garbage Manager] have been ACCEPTED by [2022 IEEE CENIM].!-->
+
 [Garbage Manager]: https://caihanlin.com/mypaper/202208cenim.pdf
+
+[2022 IEEE CENIM]:http://cenim.its.ac.id/#pdfexpress
+
+
+
+
 
 
 
 ---
-
-
-
-
 
 # Open-source Projects
 
