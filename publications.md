@@ -8,11 +8,13 @@ pubs:
   - author: "Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong"
     title: "An IoT Garbage Monitoring System for Effective Garbage Management"
     keywords: "IoT"
-    month: "December"
+    month: "November"
     year: "2022"
-    booktitle: "International Conference on Computer Engineering, Network and Intelligent Multimedia (CENIM) 2022"
+    address: "Surabaya, Malaysia"
+    booktitle: "International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM]) 2022"
     url: "https://caihanlin.com/mypaper/202208cenim.pdf"
 
+[CENIM]:http://cenim.its.ac.id/#pdfexpress
 
 
 
@@ -38,6 +40,3 @@ pubs:
     {% endunless %}
     {% endfor %}
 
-# Patents
-
-Null.

@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-**Lance: just a template page right now.**
+## **Lance: just a template page right now !**
 
 ## Coffee Roasting
 
