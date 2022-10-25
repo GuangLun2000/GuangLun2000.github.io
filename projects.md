@@ -6,18 +6,6 @@ title: Projects
 
 # Research Projects
 
-## [Garbage Manager]
-
-*Intelligent garbage management system for urban communities: [Garbage Manager].*
-
-Abstract—Nowadays, with the increasing output of municipal waste, the pressure on municipal waste treatment is increasing. In this case, utilizing low-cost and low-power IoT technology to improve urban waste management has become a popular trend. This paper proposes an intelligent garbage management system for urban communities: Garbage Manager. The Garbage Manager aspires to create energy-efficient and real-time waste detection based on IoT and data visualization technology. In this work, the NodeMCU chip integrated with a high-precision ultrasonic sensor is used to measure the height of the waste in the garbage bin and transmits the data to the database through the Ali-cloud IoT platform. In addition, a web page is created as a graphical user interface to display the status of the garbage bins in real-time. Experimental results show that the Garbage Manager is able to decrease the manpower from clearing the garbage by 24.07 % and reduce the garbage overflow times by 83.33 %.
-
-**Index Terms—IoT, Garbage Management, Data Visualization**
-
-[Garbage Manager]: https://caihanlin.com/mypaper/202208cenim.pdf
-
-
-
 ## [RIGMS Testbed]
 
 *Real-time Intelligent Garbage Monitering System ([RIGMS Testbed]) for IoT Cybersecurity.*
@@ -29,6 +17,18 @@ Abstract—This paper proposes a real-time intelligent garbage monitoring system
 [RIGMS Testbed]:https://caihanlin.com/mypaper/202210camb.pdf
 
 
+
+
+
+## [Garbage Manager]
+
+*Intelligent garbage management system for urban communities: [Garbage Manager].*
+
+Abstract—Nowadays, with the increasing output of municipal waste, the pressure on municipal waste treatment is increasing. In this case, utilizing low-cost and low-power IoT technology to improve urban waste management has become a popular trend. This paper proposes an intelligent garbage management system for urban communities: Garbage Manager. The Garbage Manager aspires to create energy-efficient and real-time waste detection based on IoT and data visualization technology. In this work, the NodeMCU chip integrated with a high-precision ultrasonic sensor is used to measure the height of the waste in the garbage bin and transmits the data to the database through the Ali-cloud IoT platform. In addition, a web page is created as a graphical user interface to display the status of the garbage bins in real-time. Experimental results show that the Garbage Manager is able to decrease the manpower from clearing the garbage by 24.07 % and reduce the garbage overflow times by 83.33 %.
+
+**Index Terms—IoT, Garbage Management, Data Visualization**
+
+[Garbage Manager]: https://caihanlin.com/mypaper/202208cenim.pdf
 
 
 
