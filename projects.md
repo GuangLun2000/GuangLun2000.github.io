@@ -32,6 +32,12 @@ Abstract—This paper proposes a real-time intelligent garbage monitoring system
 
 
 
+---
+
+
+
+
+
 # Open-source Projects
 
 ## [miec-lance-club]
