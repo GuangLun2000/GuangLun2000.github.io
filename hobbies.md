@@ -9,9 +9,9 @@ title: Hobbies
 ## Swimming & Surfing
 
 <div class="third">
-<img src="/images/water1.jpg">
-<img src="/images/water2.jpg">
-<img src="/images/water3.jpg">
+<img src="/images/water1.JPG">
+<img src="/images/water2.JPG">
+<img src="/images/water3.JPG">
 </div>
 
 
