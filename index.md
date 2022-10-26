@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://www.caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Hi 👋 My name is **[Hanlin Cai 蔡汉霖]**
+Hi 👋 My name is **Hanlin Cai (蔡汉霖)**. Here is [my latest CV].
 
 I am a junior majoring in Automation at [Fuzhou University] (China) and Robotics and Intelligent Devices at [Maynooth University] (Ireland, Combined Degrees). I gain a CGPA of 3.79/4.00, ranking top 10% in my major. Recently, I have been nominated for the 2021-2022 **China National Scholarship** (top 1%). 🎊
 
@@ -16,7 +16,7 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 
 
-[Hanlin Cai 蔡汉霖]:https://caihanlin.com/file/CV-HanlinCAI.pdf
+[my latest CV]:https://caihanlin.com/file/CV-HanlinCAI.pdf
 [Fuzhou University]: https://www.fzu.edu.cn/
 [Maynooth University]: https://maynoothuniversity.ie/
 [IEEE CENIM]:http://cenim.its.ac.id/#pdfexpress
