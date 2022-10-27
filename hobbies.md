@@ -11,7 +11,7 @@ title: Hobbies
 <div class="third">
 <img src="/images/prelection1.JPG">
 <img src="/images/speech1.JPG">
-<img src="/images/speech.JPG">
+<img src="/images/speech3.JPG">
 </div>
 
 
