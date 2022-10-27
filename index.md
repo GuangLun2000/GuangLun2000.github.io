@@ -12,7 +12,7 @@ I am a junior majoring in Automation at [Fuzhou University] (China) and Robotics
 
 Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Learning)**. The paper focusing on the IoT real-time intelligent garbage monitoring system with the aid of my supervisor ([Chin-Hong Wong]) has been ACCEPTED by 2022  [IEEE CENIM]. Besides, I am currently attending a summer research project organized by the University of Cambridge under the guidance of [Prof. Pietro Lio'] to design an ML-based testbed for IoT cybersecurity research. 🚀
 
-[My Chinese Website] averages over 1000+ visits monthly, [My Zhihu] account has more than 1200+ followers and 10000+ likes. In addition, [My Bilibili] account possesses around 2000 fans. 🥰 Ultimately, if you are interested in my experience, here is [My resume (CV)]. 👨🏻‍💻
+[My Chinese Website] averages over 300+ unique visits monthly, [My Zhihu] account has more than 1200+ followers and 12000+ likes. In addition, [My Bilibili] account possesses around 2000 fans. 🥰 Ultimately, if you are interested in my experience, here is [My resume (CV)]. 👨🏻‍💻
 
 
 
