@@ -16,6 +16,8 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 ## Recent Awards & Honors
 
+**Update in 29th Oct. 2022**
+
 *Oct 2022:* Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team** in my major)
 
 *Sep 2022*: First Prize Scholarship of FZU (**Only One Student** in my major, **1/60**) 🎉
