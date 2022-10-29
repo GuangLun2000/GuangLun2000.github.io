@@ -47,7 +47,7 @@ pubs:
 
 ## Working Paper
 
-- *Real-time Intelligent Garbage Monitering System Testbed for IoT Cybersecurity*. The latest manuscript can be found [Here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 30th Oct 2022)
+- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. *The latest manuscript can be found [Here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 30th Oct 2022)*
 
 
 
