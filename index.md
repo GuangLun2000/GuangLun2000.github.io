@@ -32,7 +32,7 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 *May 2022:* Third Prize (Top 10%, Short Videos Group) in China National College Student New Media Competition
 
-*April 2022:* **Top 10 Best Volunteers** of the academic year 2021/2022 at Fuzhou University
+*April 2022:* **Top 10 Best Volunteers (Only 10/30000)** of the year 2021-2022 at Fuzhou University 🥰
 
 ## My Social Media
 
