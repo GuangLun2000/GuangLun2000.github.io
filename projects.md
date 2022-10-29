@@ -40,11 +40,15 @@ Accepted by International Conference on Computer Engineering, Network and Intell
 
 [CENIM]:http://cenim.its.ac.id/#pdfexpress
 
+ 
+
 
 
 
 
 ---
+
+
 
 # Working Project
 
@@ -57,9 +61,9 @@ Accepted by International Conference on Computer Engineering, Network and Intell
 
 The working paper can be found [Here](https://caihanlin.com/mypaper/ResNet-TSDS-v1-1029.pdf ) (Update in 30th Oct 2022)
 
-**Index Terms—Traffic Sign Detection System, Residual Neural Network, Deep Learning**
-
 [Deep ResNet for TSDS]: https://caihanlin.com/mypaper/ResNet-TSDS-v1-1029.pdf
+
+
 
 
 
