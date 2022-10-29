@@ -20,9 +20,9 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 *Oct 2022:* Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team** in my major)
 
-*Sep 2022*: First Prize Scholarship of FZU (**Only One Student** in my major, **1/60**) 🎉
+*Sep 2022*: First Prize Scholarship of FZU (**Only Best Student** in my major, **1/60**) 🎉
 
-*Aug 2022:*  Third Prize (Top 5%, **Only One Team** in Fuzhou University) in China National College Student Computer Design Competition
+*Aug 2022:*  Third Prize (Top 5%, **Only One Team** at Fuzhou University) in China National College Student Computer Design Competition
 
 *June 2022:* Second Prize (Top 10%) in Fujian College Student Computer Design Competition
 
