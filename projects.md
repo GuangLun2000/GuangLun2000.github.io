@@ -8,7 +8,7 @@ title: Projects
 
 ## [RIGMS Testbed]
 
-*Real-time Intelligent Garbage Monitering System (RIGMS) Testbed for IoT Cybersecurity.*
+*Real-time Intelligent Garbage Monitering System ([RIGMS Testbed]) for IoT Cybersecurity.*
 
 1. Responsible for the establishment and improvement of the Real-time Intelligent Garbage Monitoring System (RIGMS) Testbed for IoT cybersecurity research;
 
