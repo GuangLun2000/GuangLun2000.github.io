@@ -47,11 +47,7 @@ pubs:
 
 ## Working Paper
 
-- *Real-time Intelligent Garbage Monitering System Testbed for IoT Cybersecurity*.
-- Under the guidance of [Prof. Pietro Lio'](https://www.cl.cam.ac.uk/~pl219/ ) and [Chin-Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong )
-- Support by the Cyber Range Lab at Fuzhou University  
-- Expect to submit to Rivest, Shamir and Adleman (RSA) conference 2023  
-- The latest manuscript can be found [Here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 29th Oct 2022)  
+- *Real-time Intelligent Garbage Monitering System Testbed for IoT Cybersecurity*. Expect to submit to Rivest, Shamir and Adleman (RSA) conference 2023. The latest manuscript can be found [Here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 29th Oct 2022)
 
 
 
