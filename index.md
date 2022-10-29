@@ -26,7 +26,7 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 *June 2022:* Second Prize (Top 10%) in Fujian College Student Computer Design Competition
 
-*June 2022:* Third Prize (Top 15%) in the 2022 13th "NANWEI" Mathematical Modeling Competition
+*June 2022:* Third Prize (Top 15%) in the 2022 13th "NANWEI" Cup Mathematical Modeling Competition
 
 *June 2022:* **Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University 🏅️
 
