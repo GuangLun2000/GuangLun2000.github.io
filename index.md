@@ -28,7 +28,7 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 *June 2022:* Third Prize (Top 15%) in the 2022 13th "NANWEI" Mathematical Modeling Competition
 
-*June 2022:* **Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
+*June 2022:* **Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University 🏅️
 
 *May 2022:* Third Prize (Top 10%, Short Videos Group) in China National College Student New Media Competition
 
@@ -36,7 +36,7 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 ## My Social Media
 
-[My Chinese Website] averages over 1000+ unique visits monthly, [My Zhihu] account has more than 1200+ followers and 13000+ likes. In addition, [My Bilibili] (Chinese YouTube) account possesses around 2000 fans. 🥰 Ultimately, if you are interested in my experience, here is [My resume (CV)]. 👨🏻‍💻
+[My Chinese Website] averages over 1000+ unique visits monthly, [My Zhihu] account has more than 1200+ followers and 13000+ likes. In addition, [My Bilibili] (Chinese YouTube) account possesses around 2000 fans. 🌟 Ultimately, if you are interested in my experience, here is [My resume (CV)]. 👨🏻‍💻
 
 
 [my latest CV]:https://caihanlin.com/file/CV-HanlinCAI.pdf
