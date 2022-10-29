@@ -47,7 +47,7 @@ pubs:
 
 ## Working Paper
 
-- *Real-time Intelligent Garbage Monitering System Testbed for IoT Cybersecurity*. Expect to submit to Rivest, Shamir and Adleman (RSA) conference 2023. The latest manuscript can be found [Here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 29th Oct 2022)
+- *Real-time Intelligent Garbage Monitering System Testbed for IoT Cybersecurity*. The latest manuscript can be found [Here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 30th Oct 2022)
 
 
 
