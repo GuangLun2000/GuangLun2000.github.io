@@ -23,7 +23,7 @@ The latest manuscript can be found [Here](https://caihanlin.com/mypaper/202210ca
 
 ## [Garbage Manager]
 
-*Intelligent garbage management system for urban communities: [Garbage Manager].*
+*Intelligent Garbage Management System for Urban Communities: [Garbage Manager].*
 
 1. Took charge of the software and hardware interface part of the IoT Monitoring System, thousands of lines of high-quality and efficient code writing, and the technical documentation preparation of this system;
 1. Grasped the comprehensive knowledge of IoT systems and learned how to connect software with hardware and how to use cloud computing to process IoT-generated data, etc.;
