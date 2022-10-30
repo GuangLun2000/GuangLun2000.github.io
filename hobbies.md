@@ -37,9 +37,7 @@ Swimming removes my worries, refreshes my body, and brings me courage to address
 I previously enjoyed long-distance running, vlog making, and computer game developing/playing. However, I have not had time to do any of these things recently.
 
 <div>
-<img src="/images/mycat.JPG">
+<img src="/images/cat.JPG">
 </div>
-
-
 
 Finally, this is my cat. Her name is Claire.
