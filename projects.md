@@ -3,7 +3,6 @@ layout: page
 permalink: /projects/index.html
 title: Projects
 
-<script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
 ---
 
 # Research Projects
