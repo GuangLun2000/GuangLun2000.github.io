@@ -38,6 +38,8 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 [My Chinese Website] averages over 1000+ unique visits monthly, [My Zhihu] account has more than 1200+ followers and 13000+ likes. In addition, [My Bilibili] (Chinese YouTube) account possesses around 2000 fans. 🌟 Ultimately, if you are interested in my experience, here is [My resume (CV)]. 👨🏻‍💻
 
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3248959&c=9747190" alt="AmazingCounters.com"></a></div>
+
 
 [my latest CV]:https://caihanlin.com/file/CV-HanlinCAI.pdf
 [Fuzhou University]: https://www.fzu.edu.cn/
