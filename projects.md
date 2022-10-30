@@ -49,7 +49,7 @@ Accepted by International Conference on Computer Engineering, Network and Intell
 
 ## [Deep ResNet for TSDS]
 
-*Deep Residual Neural Network for Efficient Traffic Sign Detection System*
+*Deep Residual Neural Network (RNN) for Efficient Traffic Sign Detection System (TSDS)*
 
 1. This paper has proposed a deep residual neural network (RNN) model for traffic signs detection system (TSDS) research. Experiments are conducted to verify the feasibility of implement RNN model for traffic sign detection and recognition;
 1. Moreover, a new systematic analytic hierarchy process (AHP) method for model performance evaluation have been suggested, which is sufficient for deployment in the practical performance measurement of deep learning model.
