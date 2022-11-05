@@ -70,11 +70,11 @@ The working paper can be found [Here](https://caihanlin.com/mypaper/ResNet-TSDS-
 
 # Open-source Projects
 
-## [miec-club]
+## [miec-lance]
 
-Open-source projects are my favorite and I am so prond of the communities. The Repo of [miec-club] is where I keep track of my MIEC experience. You can learn RIDS & CSEE better by refering to my Repo, but **please do not directly copy my assignments, codes and any reports!** And, Best Wishes.
+Open-source projects are my favorite and I am so prond of the communities. The Repo of [miec-lance] is where I keep track of my MIEC experience. You can learn RIDS & CSEE better by refering to my Repo, but **please do not directly copy my assignments, codes and any reports!** And, Best Wishes.
 
-[miec-club]:https://github.com/GuangLun2000/miec-club-lance
+[miec-lance]:https://github.com/GuangLun2000/miec-lance
 
 
 
