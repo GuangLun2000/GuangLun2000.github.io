@@ -4,7 +4,9 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-# Blogs (under working)
+# Blogs
+
+*This page is still under working.*
 
 ## My Cat
 
