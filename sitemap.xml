@@ -18,6 +18,10 @@ layout: nil
     <url>
       <loc>https://caihanlin.com/hobbies/</loc>
     </url>
+    <url>
+      <loc>https://caihanlin.com/blogs/</loc>
+    </url>
+
     {% comment %}
     {% for post in site.posts %}
     <url>

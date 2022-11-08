@@ -6,12 +6,8 @@ title: Blogs
 
 # Blogs
 
-*This page is still under working.*
+[《Lance的回忆录》](https://mieclance.club/bao/lance-memoirs)
 
-## My Cat
+[《Lance的文字天地》](https://mieclance.club/bao/lance-library)
 
-This is my cat. Her name is Claire.
-
-<div>
-<img src="/images/cat.JPG">
-</div>
+[《Lance的学习笔记》](https://mieclance.club/bao/lance-note)
