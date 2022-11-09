@@ -1,5 +1,4 @@
 ---
-
 layout: page
 permalink: /publications/index.html
 title: Publications
@@ -14,8 +13,9 @@ pubs:
     address: "Surabaya, Malaysia"
     booktitle: "International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM])"
 
-
 ---
+
+
 
 # Publications
 
