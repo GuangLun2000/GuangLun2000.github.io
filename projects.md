@@ -30,7 +30,7 @@ The latest manuscript can be found [Here](https://caihanlin.com/mypaper/202210ca
 1. Grasped the comprehensive knowledge of IoT systems and learned how to connect software with hardware and how to use cloud computing to process IoT-generated data, etc.;
 1. Penned a paper named An IoT Garbage Monitoring System for Effective Garbage Management and will report on this project as a presenter at IEEE CENIM in Nov 2022.
 
-Accepted by International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM]). The final manuscript can be found [Here](https://caihanlin.com/mypaper/202208cenim.pdf) (Final Update in 24th Oct 2022).
+Accepted by International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM]). The final manuscript can be found [Here](https://caihanlin.com/mypaper/202208cenim.pdf), and the demo slides can be found [Here](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pptx) (Final Update in 9th Nov 2022).
 
 [Garbage Manager]: https://caihanlin.com/mypaper/202208cenim.pdf
 

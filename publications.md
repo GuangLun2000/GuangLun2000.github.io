@@ -13,8 +13,7 @@ pubs:
     address: "Surabaya, Malaysia"
     booktitle: "International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM])"
     url: "https://caihanlin.com/mypaper/202208cenim.pdf"
-
-
+    slides:"https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pptx"
 
 
 ---
