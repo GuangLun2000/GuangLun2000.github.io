@@ -16,7 +16,7 @@ title: Projects
 3. Until to now, have obtained a series of experimental data, and carried out corresponding data preprocessing, preliminary result analysis, and algorithm evaluation;
 4. Still under working that will be finalized in Dec 2022, and expect to submit to Rivest, Shamir and Adleman (RSA) Conference 2023.
 
-The latest manuscript can be found [Here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 30th Oct 2022)
+The latest manuscript can be found [here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 30th Oct 2022)
 
 [RIGMS Testbed]:https://caihanlin.com/mypaper/202210camb.pdf
 
@@ -30,7 +30,7 @@ The latest manuscript can be found [Here](https://caihanlin.com/mypaper/202210ca
 1. Grasped the comprehensive knowledge of IoT systems and learned how to connect software with hardware and how to use cloud computing to process IoT-generated data, etc.;
 1. Penned a paper named An IoT Garbage Monitoring System for Effective Garbage Management and will report on this project as a presenter at IEEE CENIM in Nov 2022.
 
-Accepted by International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM]). The final manuscript can be found [Here](https://caihanlin.com/mypaper/202208cenim.pdf), and the demo slides can be found [Here](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pptx) (Final Update in 9th Nov 2022).
+Accepted by International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM]). The final manuscript can be found [here](https://caihanlin.com/mypaper/202208cenim.pdf), and the demo slides can be found [here](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf) (Final Update in 9th Nov 2022).
 
 [Garbage Manager]: https://caihanlin.com/mypaper/202208cenim.pdf
 
@@ -56,7 +56,7 @@ Accepted by International Conference on Computer Engineering, Network and Intell
 1. Moreover, a new systematic analytic hierarchy process (AHP) method for model performance evaluation have been suggested, which is sufficient for deployment in the practical performance measurement of deep learning model;
 1. Still under working and expect to be finished in Dec 2022.
 
-The working paper can be found [Here](https://caihanlin.com/mypaper/ResNet-TSDS-v1-1029.pdf ) (Update in 30th Oct 2022)
+The working paper can be found [here](https://caihanlin.com/mypaper/ResNet-TSDS-v1-1029.pdf ) (Update in 30th Oct 2022)
 
 [Deep ResNet for TSDS]: https://caihanlin.com/mypaper/ResNet-TSDS-v1-1029.pdf
 
