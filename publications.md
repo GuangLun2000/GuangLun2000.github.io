@@ -6,7 +6,7 @@ pubs:
   - author: "Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong"
     title: "An IoT Garbage Monitoring System for Effective Garbage Management"
     url: "https://caihanlin.com/mypaper/202208cenim.pdf"
-    slides:"https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf"
+    slides: "https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf"
     keywords: "IoT"
     month: "November"
     year: "2022"
@@ -39,15 +39,11 @@ pubs:
 
 
 
-[CENIM]: http://cenim.its.ac.id/#pdfexpress
-
-
-
 ## Working Paper
 
 - RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. *The latest manuscript can be found [here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 30th Oct 2022)*
 
 
 
-
+[CENIM]( http://cenim.its.ac.id/#pdfexpress)
 
