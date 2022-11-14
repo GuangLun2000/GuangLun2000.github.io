@@ -12,9 +12,9 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 Ultimately, if you are interested in my experience, here is [my resume (CV)]. 👨🏻‍💻
 
+## Statement
+
 © 2022 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme. Source code for this website can be found [here](https://github.com/jansel/jansel.github.io).
-
-
 
 
 
