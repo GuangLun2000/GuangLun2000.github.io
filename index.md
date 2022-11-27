@@ -16,7 +16,9 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 ## Recent Awards & Honors
 
-**Update in 29th Oct. 2022**
+**Update in 27th Dec 2022**
+
+*Dec 2022:* First Prize (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling (CUMCM) 🎉
 
 *Oct 2022:* Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team** in my major)
 
@@ -26,7 +28,7 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 *June 2022:* Second Prize (Top 10%) in Fujian College Student Computer Design Competition
 
-*June 2022:* Third Prize (Top 15%) in the 2022 13th "NANWEI" Cup Mathematical Modeling Competition
+*June 2022:* Third Prize (Top 15%) in the 2022 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
 
 *June 2022:* **Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University 🏅️
 
@@ -36,7 +38,7 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 ## My Social Media
 
-[My Chinese Website] averages over 1000+ unique visits monthly, [My Zhihu] account has more than 1200+ followers and 13000+ likes. In addition, [My Bilibili] (Chinese YouTube) account possesses around 2000 fans. 🌟 Ultimately, if you are interested in my experience, here is [My resume (CV)]. 👨🏻‍💻
+[My Chinese Website] averages over 1000+ unique visits monthly, [My Zhihu] account has more than 1200+ followers and 13000+ likes. In addition, [My Bilibili] (Chinese YouTube) account possesses around 2000 fans. 🌟 Ultimately, if you are interested in my experience, here is [My latest resume (CV)]. 👨🏻‍💻
 
 
 [my latest CV]:https://caihanlin.com/file/CV-HanlinCAI.pdf
