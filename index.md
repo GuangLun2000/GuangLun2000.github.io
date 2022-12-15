@@ -6,13 +6,13 @@ layout: page
 
 <img src="https://www.caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Hi 👋 My name is **Hanlin Cai (蔡汉霖)**. Here is [my latest CV].  
+Hi 👋 My name is **Hanlin Cai (蔡汉霖)**. Here is [my latest CV].
 
-I am a junior majoring in Automation at [Fuzhou University] (China) and Robotics and Intelligent Devices at [Maynooth University] (Ireland, Combined Degrees). I gain a CGPA of 3.79/4.00, ranking top 10% in my major. Recently, I have been nominated for the 2021-2022 **China National Scholarship** (top 1%). 🎊
+I am a junior majoring in Automation at [Fuzhou University] (China) and Robotics and Intelligent Devices at [Maynooth University] (Ireland, Combined Degrees). I gain a CGPA of 3.79/4.00, ranking top 10% in my major. Recently, I have been nominated for the 2021-2022 **China National Scholarship (top 1%)**.
 
 ## Research Interests
 
-Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Learning)**. The paper focusing on the IoT real-time intelligent garbage monitoring system with the aid of my supervisor ([Chin-Hong Wong]) has been ACCEPTED by 2022  [IEEE CENIM]. Besides, I am currently attending a summer research project organized by the University of Cambridge under the guidance of [Prof. Pietro Lio'] to design an ML-based testbed for IoT **Cybersecurity** research. 🚀
+Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Learning)**. The paper focusing on the IoT real-time intelligent garbage monitoring system with the aid of my supervisor ([Chin-Hong Wong]) has been ACCEPTED by 2022  [IEEE CENIM]. Besides, I am currently attending a summer research project organized by the University of Cambridge under the guidance of [Prof. Pietro Lio'] to design an ML-based testbed for IoT **Cybersecurity** research.
 
 ## Recent Awards & Honors
 
@@ -22,7 +22,9 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 *Oct 2022:* Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team** in my major)
 
-*Sep 2022*: First Prize Scholarship of FZU (**Only Best Student** in my major, **1/60**) 🎉
+*Sep 2022:* Nomination for **China National Scholarship (Top 1%)** 🎉
+
+*Sep 2022*: First Prize Scholarship of FZU (**Only Best Student** in my major, **1/60**)
 
 *Aug 2022:*  Third Prize (Top 5%, **Only One Team** at Fuzhou University) in China National College Student Computer Design Competition
 
@@ -30,15 +32,15 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 *June 2022:* Third Prize (Top 15%) in the 2022 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
 
-*June 2022:* **Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University 🏅️
+*June 2022:* **Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
 
 *May 2022:* Third Prize (Top 10%, Short Videos Group) in China National College Student New Media Competition
 
-*April 2022:* **Top 10 Best Volunteers (Only 10/30000)** of the year 2021-2022 at Fuzhou University 🥰
+*April 2022:* **Top 10 Best Volunteers (Only 10/30000)** of the year 2021-2022 at Fuzhou University
 
 ## My Social Media
 
-[My Chinese Website] averages over 1000+ unique visits monthly, [My Zhihu] account has more than 1200+ followers and 13000+ likes. In addition, [My Bilibili] (Chinese YouTube) account possesses around 2000 fans. 🌟 Ultimately, if you are interested in my experience, here is [My latest resume (CV)](https://caihanlin.com/file/CV-HanlinCAI.pdf ). 👨🏻‍💻
+[My Chinese Website] averages over 1000+ unique visits monthly, [My Zhihu] account has more than 1200+ followers and 13000+ likes. In addition, [My Bilibili] (Chinese YouTube) account possesses around 2000 fans. Ultimately, if you are interested in my experience, here is [My latest resume (CV)](https://caihanlin.com/file/CV-HanlinCAI.pdf ).
 
 
 [my latest CV]:https://caihanlin.com/file/CV-HanlinCAI.pdf
