@@ -1,5 +1,5 @@
 title: Hanlin Cai
-#tagline:          A short tagline
+# tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
 url: https://caihanlin.com
@@ -32,10 +32,10 @@ bing_verify:
 links:
   - title: About Me
     url: /
-  - title: Projects
-    url: /projects/
   - title: Publications
     url: /publications/
+  - title: Projects
+    url: /projects/
   - title: Hobbies
     url: /hobbies/
   - title: Blogs
@@ -69,5 +69,3 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-

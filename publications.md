@@ -3,6 +3,15 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+  - author: "Hanlin Cai, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong"
+    title: "Deep Residual Neural Network for Efficient Traffic Sign Detection"
+    url: "https://caihanlin.com/mypaper/202302ICAROB.pdf"
+    keywords: "RNN"
+    month: "February"
+    year: "2023"
+    address: "Oita, Japan"
+    booktitle: "28th International Conference on Artificial Life and Robotics ([ICAROB]"
+
   - author: "Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong"
     title: "An IoT Garbage Monitoring System for Effective Garbage Management"
     url: "https://caihanlin.com/mypaper/202208cenim.pdf"
@@ -11,9 +20,13 @@ pubs:
     month: "November"
     year: "2022"
     address: "Surabaya, Malaysia"
-    booktitle: "International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM])"
+    booktitle: "4th International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM])"
 
 ---
+
+
+
+
 
 
 
@@ -41,9 +54,9 @@ pubs:
 
 ## Working Paper
 
-- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. *The latest manuscript can be found [here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 30th Oct 2022)*
+- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. *The latest manuscript [can be found here](https://caihanlin.com/mypaper/202210camb.pdf) (Update in 29th Dec 2022)*
 
 
 
-[CENIM]:( http://cenim.its.ac.id/#pdfexpress)
-
+[CENIM]:(http://cenim.its.ac.id/#pdfexpress)
+[ICAROB]:(https://alife-robotics.org/)

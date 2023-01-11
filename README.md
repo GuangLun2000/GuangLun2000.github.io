@@ -14,7 +14,7 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 **Update in 27th Dec 2022**
 
-*Dec 2022:* **First Prize** (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling (Authoritative [CUMCM](http://en.mcm.edu.cn/)) 🎉
+*Dec 2022:* **First Prize** (Fujian provincial level, Top 8%) in China Undergraduate Mathematical Contest in Modeling ([CUMCM](http://en.mcm.edu.cn/)) 🎉
 
 *Oct 2022:* Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team** in my major)
 
