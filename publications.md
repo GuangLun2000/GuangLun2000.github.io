@@ -10,7 +10,7 @@ pubs:
     month: "February"
     year: "2023"
     address: "Oita, Japan"
-    booktitle: "28th International Conference on Artificial Life and Robotics ([ICAROB]"
+    booktitle: "28th International Conference on Artificial Life and Robotics ([ICAROB])"
 
   - author: "Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong"
     title: "An IoT Garbage Monitoring System for Effective Garbage Management"
@@ -58,5 +58,7 @@ pubs:
 
 
 
-[CENIM]:(http://cenim.its.ac.id/#pdfexpress)
+
+
+[CENIM]:http://cenim.its.ac.id/#pdfexpress
 [ICAROB]:(https://alife-robotics.org/)
