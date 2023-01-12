@@ -16,6 +16,7 @@ pubs:
     title: "An IoT Garbage Monitoring System for Effective Garbage Management"
     url: "https://caihanlin.com/mypaper/202208cenim.pdf"
     slides: "https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf"
+    Talk: "https://www.bilibili.com/video/BV1jv4y1S7VQ/"
     keywords: "IoT"
     month: "November"
     year: "2022"
@@ -46,7 +47,7 @@ pubs:
     {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
-    {% endif %}
+    {% endif %}{% if pub.talk %}[Talk]({{pub.talk}}).
     {% endunless %}
     {% endfor %}
 
@@ -62,3 +63,6 @@ pubs:
 
 [CENIM]:http://cenim.its.ac.id/#pdfexpress
 [ICAROB]:https://alife-robotics.org/
+
+
+
