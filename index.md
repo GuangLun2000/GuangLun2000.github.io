@@ -8,13 +8,15 @@ layout: page
 
 
 
-Hi 👋 My name is **Hanlin Cai (蔡汉霖)**. Here is [my latest CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+Hi 👋 My name is **Hanlin Cai (蔡汉霖)**. 
+
+Here is [my latest CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
 I am a junior majoring in Automation at [Fuzhou University](https://www.fzu.edu.cn/ ) (China) and Robotics and Intelligent Devices at [Maynooth University](https://maynoothuniversity.ie/) (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong) and [Dr. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
 
 ## News and Updates
 
-***Jan 2023:*** One paper accepted to ICAROB 2023, see you in Japan!<br>***Dec 2022:*** Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou, China, advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).<br>***Oct 2022:*** One paper accepted to IEEE CENIM 2022, see you in Indonesian!<br>***Sep 2022:*** Happy to be nominated for the 2021-2022 **China National Scholarship (top 1%)**.<br>***Jun 2022:*** Research Intern at University of Cambridge, online, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).<br>
+***Jan 2023:*** One paper accepted to ICAROB 2023, see you in Japan!<br>***Dec 2022:*** Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou, advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).<br>***Oct 2022:*** One paper accepted to IEEE CENIM 2022, see you in Indonesian!<br>***Sep 2022:*** Happy to be nominated for the 2021-2022 **China National Scholarship (top 1%)**.<br>***Jun 2022:*** Research Intern at University of Cambridge, online, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).<br>
 
 ## Research Interests
 
