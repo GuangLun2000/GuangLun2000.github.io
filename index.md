@@ -13,3 +13,12 @@ I am a junior majoring in Automation at [Fuzhou University](https://www.fzu.edu.
 ## Research Interests
 
 Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Learning)**. The paper focusing on the IoT real-time intelligent garbage monitoring system with the aid of my supervisor ([Chin-Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong)) has been ACCEPTED by 2022 IEEE CENIM. Besides, I am currently attending a summer research project organized by the University of Cambridge under the guidance of [Prof. Pietro Lio'](https://www.cl.cam.ac.uk/~pl219/ ) to design an ML-based testbed for IoT **Cybersecurity** research.
+
+## Talk with Lance
+
+<!-- Calendly inline widget begin -->
+
+<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance?hide_gdpr_banner=1" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
