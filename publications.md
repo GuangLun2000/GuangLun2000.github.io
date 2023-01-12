@@ -47,7 +47,7 @@ pubs:
     {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
-    {% endif %}{% if pub.talk %}[Talk]({{pub.talk}}).
+    {% endif %}{% if pub.talk %}[Talk]({{pub.talk}}).{% endif %}
     {% endunless %}
     {% endfor %}
 
