@@ -13,4 +13,3 @@ I am a junior majoring in Automation at [Fuzhou University](https://www.fzu.edu.
 ## Research Interests
 
 Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Learning)**. The paper focusing on the IoT real-time intelligent garbage monitoring system with the aid of my supervisor ([Chin-Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong)) has been ACCEPTED by 2022 IEEE CENIM. Besides, I am currently attending a summer research project organized by the University of Cambridge under the guidance of [Prof. Pietro Lio'](https://www.cl.cam.ac.uk/~pl219/ ) to design an ML-based testbed for IoT **Cybersecurity** research.
-
