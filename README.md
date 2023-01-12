@@ -1,6 +1,6 @@
 # About Me
 
-<img src="https://s2.loli.net/2022/10/24/TEU3SuFnaR86tmw.jpg" class="floatpic" width="360" height="480">
+<img src="https://caihanlin.com/images/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 Hi 👋 My name is **Hanlin Cai (蔡汉霖)**. Here is [my latest CV].  
 
