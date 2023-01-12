@@ -13,7 +13,7 @@ title: Projects
 1. Responsible for the establishment and improvement of the Real-time Intelligent Garbage Monitoring System (RIGMS) Testbed for IoT cybersecurity research;
 2. Master basic machine learning algorithms, further explore the design of IoT cybersecurity algorithms, and apply machine learning approaches to prevent IoT multiple-mix-attacks;
 3. Until to now, have obtained a series of experimental data, and carried out corresponding data preprocessing, preliminary result analysis, and algorithm evaluation;
-4. Still under working that will be finalized in Feb 2023, and expect to submit to Rivest, Shamir and Adleman (RSA) Conference 2023. The latest manuscript can be found [here](https://caihanlin.com/mypaper/202210camb.pdf) (30th Dec 2022).
+4. Still under working that will be finalized in Feb 2023, and the latest manuscript can be found [here](https://caihanlin.com/mypaper/202210camb.pdf) (30th Dec 2022).
 
 [RIGMS Testbed]:https://caihanlin.com/mypaper/202210camb.pdf
 
