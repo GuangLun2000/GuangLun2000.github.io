@@ -50,7 +50,7 @@ title: Projects
 
 ## [miec-lance]
 
-This repo is where I keep track of my incredible journey in FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!** Finally, best wishes.
+This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!** Finally, best wishes.
 
 [miec-lance]:https://github.com/GuangLun2000/miec-lance
 
