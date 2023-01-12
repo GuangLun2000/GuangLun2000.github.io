@@ -10,7 +10,7 @@ title: Publications
 
 <br>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf).<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong.<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM](http://cenim.its.ac.id/#pdfexpress)).<br>[Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf) | [Talk](https://www.bilibili.com/video/BV1jv4y1S7VQ/) <br>Surabaya, Malaysia. November, 2022.<br>
+- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf).<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong.<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM](http://cenim.its.ac.id/#pdfexpress)).<br>[Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://www.bilibili.com/video/BV1jv4y1S7VQ/) <br>Surabaya, Malaysia. November, 2022.<br>
 
 
 
