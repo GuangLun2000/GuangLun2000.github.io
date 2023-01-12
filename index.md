@@ -18,7 +18,7 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 
 **Update in 27th Dec 2022**
 
-*Dec 2022:* **First Prize** (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling (Authoritative [CUMCM](http://en.mcm.edu.cn/)) 🎉
+*Dec 2022:* **First Prize** (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling ([CUMCM](http://en.mcm.edu.cn/)) 🎉
 
 *Oct 2022:* Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team** in my major)
 
@@ -41,5 +41,4 @@ Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Lea
 ## My Social Media
 
 [My Chinese Website](https://mieclance.club/) averages over 1000+ unique visits monthly, [My Zhihu](https://www.zhihu.com/people/chlire) account has more than 1200+ followers and 13000+ likes. In addition, [My Bilibili](https://space.bilibili.com/594030035) (Chinese YouTube) account possesses around 2000 fans. Ultimately, if you are interested in my experience, here is [My Europass resume (CV)](https://caihanlin.com/file/Europass-CV-Hanlin-CAI.pdf).
-
 
