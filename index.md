@@ -20,7 +20,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 - ***Jan 2023:*** One paper accepted to ICAROB 2023, see you in Japan!
 - ***Dec 2022:*** Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- ***Oct 2022:*** One paper accepted to IEEE CENIM, see you in Indonesian!
+- ***Oct 2022:*** One paper accepted to IEEE CENIM, see you in Indonesia!
 - ***Sep 2022:*** Happy to be nominated for the 2021-2022 China National Scholarship (top 1%).
 - ***Jun 2022:*** Research Intern at University of Cambridge, online, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
 
