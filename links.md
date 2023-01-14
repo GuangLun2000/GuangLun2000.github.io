@@ -8,13 +8,13 @@ title: Links
 
 Here is my Blogs written by Chinese.
 
+[《MIEC笔记》](https://mieclance.club/bao/lance-note)
+
 [《Lance的回忆录》](https://mieclance.club/bao/lance-memoirs)
 
-[《Lance的文字天地》](https://mieclance.club/bao/lance-library)
-
-[《Lance的学习笔记》](https://mieclance.club/bao/lance-note)
-
 ## Contact
+
+***Jan 2023:*** I have set up some public offiice hours (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**).
 
 <!-- Calendly inline widget begin -->
 
