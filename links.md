@@ -4,9 +4,7 @@ permalink: /links/index.html
 title: Links
 ---
 
-# Blogs
-
-## Chinese Blogs
+## Blogs
 
 Here is my Blogs written by Chinese.
 
@@ -16,7 +14,7 @@ Here is my Blogs written by Chinese.
 
 [《Lance的学习笔记》](https://mieclance.club/bao/lance-note)
 
-# Contact
+## Contact
 
 <!-- Calendly inline widget begin -->
 
