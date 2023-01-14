@@ -8,7 +8,7 @@ layout: page
 
 
 
-Hi 👋 My name is **Hanlin Cai (蔡汉霖)**. 
+Hi 👋 My name is **Hanlin Cai (Lance, 蔡汉霖)**.
 
 I am a junior majoring in **Automation** at [Fuzhou University](https://www.fzu.edu.cn/ ) (China) and **Robotics and Intelligent Devices** at [Maynooth University](https://maynoothuniversity.ie/) (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong) and [Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm). Here is [my latest CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
@@ -25,11 +25,4 @@ My current research focuses on practical problems that artificial intelligence f
 - ***Jun 2022:*** Research Intern at University of Cambridge, online, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
 
 
-
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/lancecai/meet-with-lance'});return false;">Schedule time with me</a>
-<!-- Calendly link widget end -->
 
