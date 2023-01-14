@@ -17,10 +17,10 @@ title: Awards
 - *June 2022:* Third Prize (Top 15%) in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
 - *June 2022:* **Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
 - *May 2022:* Third Prize (Top 10%, Short Videos Group) in China National College Student New Media Competition
-- *March 2022:* First Prize Scholarship of FZU
+- *March 2022:* First Prize Scholarship of FZU (**1/60**)
 - *Sep 2021:* Third Prize Scholarship of FZU (Top 15%)
 - *May 2021:* Merit Student of Fuzhou University
-- *March 2021:* First Prize Scholarship of FZU (**Only Best Student** in my major, **1/60**)
+- *March 2021:* First Prize Scholarship of FZU (**1/60**)
 
 
 
