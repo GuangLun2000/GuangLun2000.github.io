@@ -22,11 +22,9 @@ layout: nil
       <loc>https://caihanlin.com/hobbies/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/blogs/</loc>
+      <loc>https://caihanlin.com/links/</loc>
     </url>
-    <url>
-      <loc>https://caihanlin.com/contact/</loc>
-    </url>
+
 
     {% comment %}
     {% for post in site.posts %}
