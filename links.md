@@ -26,27 +26,3 @@ Here is my Blogs written by Chinese.
 
 ## Comment
 
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-      /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-var disqus_config = function () {
-this.page.url ="https://caihanlin.com/links";            // <--- 修改成你的博客地址
-this.page.identifier ="https://caihanlin.com/links";
-};
-(function() { // DON'T EDIT BELOW THISLINE
-var d = document, s = d.createElemen('script');
-s.src ='https://www-caihanlin-com.disqus.com/embed.js';   // <--- 修改成你的 disqus 站点缩写名
-s.setAttribute('data-timestamp', +newDate());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-
-
-
-<noscript>Please enable JavaScript toview the <a href="https://disqus.com/ref_noscript" rel="nofollow">commentspowered by Disqus.</a></noscript>
-
-{% endif %}
