@@ -41,3 +41,8 @@ This is my cat. She is cute, Right?
 <div>
 <img src="/images/cat.JPG">
 </div>
+
+
+
+
+{% include disqus.html %} 
