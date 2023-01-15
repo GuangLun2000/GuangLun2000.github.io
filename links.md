@@ -26,3 +26,4 @@ Here is my Blogs written by Chinese.
 
 ## Comment
 
+{% if page.comments %}<br>{% include disqus.html %} <br>{% endif %}
