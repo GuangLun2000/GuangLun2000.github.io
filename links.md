@@ -2,7 +2,6 @@
 layout: page
 permalink: /links/index.html
 title: Links
-comments: true
 ---
 
 ## Blogs
@@ -26,4 +25,4 @@ Here is my Blogs written by Chinese.
 
 ## Comment
 
-{% if page.comments %}<br>{% include disqus.html %} <br>{% endif %}
+{% include disqus.html %} 
