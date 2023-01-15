@@ -43,7 +43,7 @@ links:
     url: /hobbies/
   - title: Links
     url: /links/
-  
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
@@ -53,8 +53,10 @@ highlighter: rouge
 # markdown: redcarpet
 # pygments: true
 
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
+
 
 kramdown:
   auto_ids: true
@@ -70,8 +72,13 @@ kramdown:
   #   coderay_bold_every: 10
   #   coderay_css: class
 
+
+# disqus settings:
+disqus:
+  shortname: www-caihanlin-com
+
+
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
 
 # Latest update in 2023/01/15 by Lance Cai.
