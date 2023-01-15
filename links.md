@@ -2,6 +2,8 @@
 layout: page
 permalink: /links/index.html
 title: Links
+comments: true
+
 ---
 
 ## Blogs
@@ -14,7 +16,7 @@ Here is my Blogs written by Chinese.
 
 ## Contact
 
-***Jan 2023:*** I have set up some public offiice hours (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**).
+***Jan 2023:*** I have set up some [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**).
 
 <!-- Calendly inline widget begin -->
 
@@ -23,3 +25,23 @@ Here is my Blogs written by Chinese.
 
 <!-- Calendly inline widget end -->
 
+## Comment
+
+ ```html
+ {% if page.comments %}
+ <div id="disqus_thread"></div>
+ <script>
+ var disqus_config = function () {
+ this.page.url ="https://caihanlin.com/{{page.url}}" // <--- 修改成你的博客地址
+ this.page.identifier ="https://caihanlin.com/{{page.url}}";
+ };
+ (function() { // DON'T EDIT BELOW THISLINE
+ var d = document, s = d.createElemen('script');
+ s.src ='https://www-caihanlin-com.disqus.com/embed.js';// <--- 修改成你的 disqus 站点缩写名
+ s.setAttribute('data-timestamp', +newDate());
+ (d.head || d.body).appendChild(s);
+ })();
+ </script>
+ <noscript>Please enable JavaScript toview the <a href="https://disqus.com/ref_noscript" rel="nofollow">commentspowered by Disqus.</a></noscript>
+ {% endif %}
+ ```
