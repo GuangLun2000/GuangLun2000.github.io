@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cn/index.html
-title: 中文
+permalink: /blogs/index.html
+title: Blogs
 ---
 
 # Blogs
