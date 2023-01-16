@@ -41,9 +41,9 @@ This is my cat. Her name is Claire.
 <div>
 <img src="/images/cat.JPG">
 </div>
+<br>
 
-
-# Talk with me?
+## Talk with me?
 
 ***Jan 2023:*** I have set up some [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**).
 
