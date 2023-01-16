@@ -6,10 +6,10 @@ title: Blogs
 
 # Blogs
 
-Here is my Blogs written in Chinese
+Here is my Blogs written in Chinese.
 
-- [《MIEC笔记》](https://mieclance.club/bao/lance-note)
-- [《Lance的回忆录》](https://mieclance.club/bao/lance-memoirs)
+- 2021-2023 [《Lance的学习笔记》](https://mieclance.club/bao/lance-note)
+- 2020-2023 [《Lance的回忆录》](https://mieclance.club/bao/lance-memoirs)
 
 
 
