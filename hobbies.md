@@ -34,13 +34,23 @@ Swimming removes my worries, refreshes my body, and brings me courage to address
 
 I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have not had time to do any of these things recently.
 
-## My Cat (Claire)
+## My Cat
 
-This is my cat. She is cute, Right?
+This is my cat. Her name is Claire.
 
 <div>
 <img src="/images/cat.JPG">
 </div>
+## Talk with me?
+
+***Jan 2023:*** I have set up some [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**).
+
+<!-- Calendly inline widget begin -->
+
+<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 
 
 
