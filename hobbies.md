@@ -43,9 +43,9 @@ This is my cat. Her name is Claire.
 </div>
 <br>
 
-## Talk with me?
+## Chat with me
 
-***Jan 2023:*** I have set up some [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**).
+***Jan 2023:*** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
 
 <!-- Calendly inline widget begin -->
 
@@ -54,7 +54,3 @@ This is my cat. Her name is Claire.
 <!-- Calendly inline widget end -->
 
 
-
-
-
-{% include disqus.html %} 
