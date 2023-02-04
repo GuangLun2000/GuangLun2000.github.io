@@ -50,9 +50,9 @@ title: Projects
 
 *P.S. Click the hyperlink title to access the source.*
 
-## [$FZU \ \LaTeX \ Template$](https://github.com/GuangLun2000/FZU-latex-template)
+## [FZU-LaTeX-template](https://github.com/GuangLun2000/FZU-latex-template)
 
-Many elegant $\LaTeX$ templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
+Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
 
 ## [FZU-flying-book](https://fzu-fly.online/)
 
