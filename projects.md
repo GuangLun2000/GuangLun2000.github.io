@@ -50,13 +50,13 @@ title: Projects
 
 *P.S. Click the hyperlink title to access the source.*
 
-## [FZU-LaTeX-template](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
 ## [FZU-flying-book](https://fzu-fly.online/)
 
 This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
+
+## [FZU-LaTeX-template](https://github.com/GuangLun2000/FZU-latex-template)
+
+Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
 
 ## [miec-lance](https://github.com/GuangLun2000/miec-lance )
 
