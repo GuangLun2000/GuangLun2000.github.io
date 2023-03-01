@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Blogs
+permalink: /links/index.html
+title: Links
 ---
 
 # Links
