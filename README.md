@@ -1,4 +1,4 @@
-# About Me
+# About me
 
 <img src="https://caihanlin.com/images/caihanlin.jpg" class="floatpic" width="360" height="480">
 
@@ -8,7 +8,7 @@ I am a junior majoring in Automation at [Fuzhou University](https://www.fzu.edu.
 
 ## Social Media
 
-[My Chinese Website](https://mieclance.club/) averages over 1000+ unique visits monthly, [My Zhihu](https://www.zhihu.com/people/chlire) account has more than 1200+ followers and 13000+ likes. In addition, [My Bilibili](https://space.bilibili.com/594030035) (Chinese YouTube) account possesses around 2000 fans. Ultimately, if you are interested in my experience, here is [My Europass resume (CV)](https://caihanlin.com/file/Europass-CV-Hanlin-CAI.pdf).
+[My Chinese Website](https://mieclance.club/) averages over 1000+ unique visits monthly, [My Zhihu](https://www.zhihu.com/people/chlire) account has more than 1500+ followers and 14000+ likes. In addition, [My Bilibili](https://space.bilibili.com/594030035) (Chinese YouTube) possesses around 2000 fans.
 
 ## Statement
 
