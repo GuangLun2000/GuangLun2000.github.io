@@ -6,7 +6,7 @@ title: Awards
 
 # Awards & Honors
 
-Update in 1st March 2023  [中文版](https://caihanlin.com/awards-zh/)
+Update in 1st March 2023   [中文版](https://caihanlin.com/awards-zh/)
 
 - *Dec 2022:* **First Prize** (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling ([CUMCM](http://en.mcm.edu.cn/)) 🎉
 - *Oct 2022:* Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team**)
@@ -16,7 +16,7 @@ Update in 1st March 2023  [中文版](https://caihanlin.com/awards-zh/)
 - *June 2022:* Second Prize (Top 10%) in Fujian College Student Computer Design Competition
 - *June 2022:* Third Prize (Top 15%) in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
 - *June 2022:* **Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- *May 2022:* Third Prize (Top 10%, Short Videos Group) in China National College Student New Media Competition
+- *May 2022:* Third Prize (Top 15%, Short Videos Group) in China National College Student New Media Competition
 - *March 2022:* First Prize Scholarship of FZU (**1/60**)
 - *Sep 2021:* Third Prize Scholarship of FZU (Top 15%)
 - *May 2021:* Merit Student of Fuzhou University
@@ -26,6 +26,7 @@ Update in 1st March 2023  [中文版](https://caihanlin.com/awards-zh/)
 
 # Services
 
+- *Sep 2022 - Sep 2023:* IEEE Student Membership
 - *Sep 2021 - Sep 2022:* Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
 - *Sep 2020 - Sep 2021:* Monitor of Maynooth International Engineering College, Fuzhou University
 
