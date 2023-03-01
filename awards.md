@@ -6,8 +6,6 @@ title: Awards
 
 # Awards & Honors
 
-**Update in 22nd Jan 2023**
-
 - *Dec 2022:* **First Prize** (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling ([CUMCM](http://en.mcm.edu.cn/)) 🎉
 - *Oct 2022:* Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team**)
 - *Sep 2022:* Nomination for **China National Scholarship (Top 1%)** 🎉
@@ -36,3 +34,5 @@ title: Awards
 - *April 2022:* **Top 10 Best Volunteers (Only 10/30000)** of the year 2021-2022 at Fuzhou University
 - *July 2021:* Outstanding volunteer at 44th session of the World Heritage Committee
 - *April 2021:* Outstanding volunteer at 4th Digital China Summit
+
+**Update in 1st March 2023**
