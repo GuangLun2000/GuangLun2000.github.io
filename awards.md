@@ -6,7 +6,7 @@ title: Awards
 
 # Awards & Honors
 
-**Update in 1st March 2023  [中文版](https://caihanlin.com/awards-zh/)**
+Update in 1st March 2023  [中文版](https://caihanlin.com/awards-zh/)
 
 - *Dec 2022:* **First Prize** (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling ([CUMCM](http://en.mcm.edu.cn/)) 🎉
 - *Oct 2022:* Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team**)
