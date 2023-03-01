@@ -34,5 +34,5 @@ title: Awards
 # Voluntary
 
 - *April 2022:* **Top 10 Best Volunteers (Only 10/30000)** of the year 2021-2022 at Fuzhou University
-- *July 2022:* Outstanding volunteer at 44th session of the World Heritage Committee
-- *April 2022:* Outstanding volunteer at 4th Digital China Summit
+- *July 2021:* Outstanding volunteer at 44th session of the World Heritage Committee
+- *April 2021:* Outstanding volunteer at 4th Digital China Summit
