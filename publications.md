@@ -6,6 +6,8 @@ title: Publications
 
 # Publications
 
+Lastest Update: 2nd March 2023  [中文论文 (Chinese Paper)](https://caihanlin.com/publications-zh/)
+
 ## Conference Paper
 
 - [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf).<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong.<br>28th International Conference on Artificial Life and Robotics ([ICAROB](https://alife-robotics.org/)).<br>Beppu, Japan. February, 2023.
@@ -15,6 +17,4 @@ title: Publications
 ## Working Paper
 
 - RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
-- Reshape the Crowning Glory of Maasai Mara. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (Competition paper for 2023 MCM Contest)
-
-Lastest Update: 2nd March 2023  [中文论文 (Chinese Paper)](https://caihanlin.com/publications-zh/)
+- Reshape the Crowning Glory of Maasai Mara. [The latest manuscript](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf) (Competition paper for 2023 MCM Contest)

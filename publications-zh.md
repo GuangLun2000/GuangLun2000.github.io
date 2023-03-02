@@ -1,20 +1,13 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /publications-zh/index.html
+title: Publications-zh
 ---
 
-# Publications
+## 数学建模竞赛论文
 
-## Conference Paper
+- [重塑马塞马拉的无上辉煌 (英文)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 徐哲壮 (指导老师)<br>2023年02月美国大学生数学建模竞赛 (MCM-B组，五月出奖)
+- [基于改进型调度算法的无人机遂行编队飞行研究](https://caihanlin.com/mypaper/modeling/202209CUMCM.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年09月“高教社杯”全国大学生数学建模竞赛福建赛区本科组**一等奖**
+- [基于多目标规划模型的交通枢纽最优布局分析](https://caihanlin.com/mypaper/modeling/202206nanwei.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年06月“南威杯”福州大学数学建模竞赛本科组**三等奖**
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf).<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong.<br>28th International Conference on Artificial Life and Robotics ([ICAROB](https://alife-robotics.org/)).<br>Beppu, Japan. February, 2023.
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf).<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong.<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia ([CENIM](http://cenim.its.ac.id/#pdfexpress)).<br>[Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/) <br>Surabaya, Indonesia. November, 2022.
-
-## Working Paper
-
-- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. The latest manuscript [can be found here](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
-
-
-
+更新时间：2023/03/02   [English Paper (英文论文)](https://caihanlin.com/publications/)
