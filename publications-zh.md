@@ -14,7 +14,7 @@ title: Publications
 
 ## Working Paper
 
-- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
-- Reshape the Crowning Glory of Maasai Mara. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (Competition paper for 2023 MCM Contest)
+- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. The latest manuscript [can be found here](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
 
-Lastest Update: 2nd March 2023  [中文论文 (Chinese Paper)](https://caihanlin.com/publications-zh/)
+
+
