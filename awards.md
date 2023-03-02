@@ -14,8 +14,8 @@ Lastest Update: 1st March 2023  [中文版 (Chinese Version)](https://caihanlin.
 - *Sep 2022*: First Prize Scholarship of FZU (**Only Best Student** in my major, **1/60**)
 - *Aug 2022:*  Third Prize (Top 5%, **Only One Team** at FZU) in China National College Student Computer Design Competition
 - *June 2022:* Second Prize (Top 10%) in Fujian College Student Computer Design Competition
-- *June 2022:* Third Prize (Top 15%) in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
 - *June 2022:* **Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
+- *June 2022:* Third Prize (Top 15%) in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
 - *May 2022:* Third Prize (Top 15%, Short Videos Group) in China National College Student New Media Competition
 - *March 2022:* First Prize Scholarship of FZU (**1/60**)
 - *Sep 2021:* Third Prize Scholarship of FZU (Top 15%)
