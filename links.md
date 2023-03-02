@@ -4,8 +4,6 @@ permalink: /links/index.html
 title: Links
 ---
 
-# Links
-
 ## My Blogs
 
 - 21岁，何妨吟啸且徐行
