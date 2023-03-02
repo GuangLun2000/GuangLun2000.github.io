@@ -6,7 +6,7 @@ title: Links
 
 # Links
 
-## 我的朋友 My friends
+## My friends 朋友们
 
 - [rmy's Blog](https://www.raomengyu.top/)
 - [Zack Wu](https://www.zackwu.com/)
@@ -14,10 +14,10 @@ title: Links
 
 
 
-## 我的博客 My Blogs
+## My Blogs 我的博客
 
-- [Lance的本科学习笔记](https://mieclance.club/bao/lance-note)
-- [Lance的本科回忆录](https://mieclance.club/bao/lance-memoirs)
+- [本科学习笔记](https://mieclance.club/bao/lance-note)
+- [本科回忆录](https://mieclance.club/bao/lance-memoirs)
 
 
 
