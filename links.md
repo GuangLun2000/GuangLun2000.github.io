@@ -16,7 +16,7 @@ title: Links
 
 ## My Blogs 我的博客
 
-- [20岁，宽心且看月中桂]()
+- [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)
 - [本科学习笔记](https://mieclance.club/bao/lance-note)
 - [本科回忆录](https://mieclance.club/bao/lance-memoirs)
 
