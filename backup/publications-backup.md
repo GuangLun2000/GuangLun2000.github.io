@@ -1,7 +1,8 @@
 ---
 layout: page
-//permalink: /publications/index.html
+permalink: /publications/index.html
 title: Publications
+
 pubs:
   - author: "Jason Ansel, Marek Olszewski"
     title: "BFTree - Scaling HotStuff to Millions of Validators"
