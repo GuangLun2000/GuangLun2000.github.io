@@ -30,10 +30,6 @@ title: 20yrs
 
 <br>最后的最后，我要感谢一个叫做 Linshi 的女孩，她总是比我更相信我自己。
 
-<br>
-
-![image-20230302155151590](https://p.ipic.vip/1lcg1q.png)
-
 <br>**下一个十年，请多多指教！**
 
 <p align="right">于2022年冬</p>
