@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /post/test/index.html
-title: Test
+permalink: /blogs/hello/index.html
+title: Hello World
 ---
 
-# Hello World
+## Hello World
 
 [人间正道是沧桑](https://lijinzhang.com/)
 
