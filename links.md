@@ -16,9 +16,10 @@ title: Links
 
 ## My Blogs 我的博客
 
+- 21岁，何妨吟啸且徐行
 - [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)
-- [本科学习笔记](https://mieclance.club/bao/lance-note)
-- [本科回忆录](https://mieclance.club/bao/lance-memoirs)
+- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)
+- [本科，回忆录](https://mieclance.club/bao/lance-memoirs)
 
 
 
