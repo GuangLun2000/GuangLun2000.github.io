@@ -10,8 +10,9 @@ title: Links
 
 - 21岁，何妨吟啸且徐行
 - [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)
-- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)
-- [本科，回忆录](https://mieclance.club/bao/lance-memoirs)
+- [19岁，为君无尽写江天](https://caihanlin.com/blogs/19yrs)
+- 18岁，谁没有黄金年代
+- [本科，笔记，回忆录](https://mieclance.club/)
 
 
 
