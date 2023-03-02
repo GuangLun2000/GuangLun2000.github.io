@@ -4,7 +4,7 @@ permalink: /blogs/19yrs/index.html
 title: 19yrs
 ---
 
-## 19岁，为君无尽写江天
+## 19岁，山高路亦远
 
 > 胸中正可吞云梦，盏底何妨对圣贤？
 >
