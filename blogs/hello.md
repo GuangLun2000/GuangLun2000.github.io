@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /blogs/hello/index.html
-title: Hello World
+title: hello
 ---
 
-## Hello World
+## Hello Blogs
 
-[人间正道是沧桑](https://lijinzhang.com/)
+<br>[人间正道是沧桑](https://lijinzhang.com/)
 
-[何妨吟啸且徐行](https://www.zackwu.com/)
+<br>[何妨吟啸且徐行](https://www.zackwu.com/)
