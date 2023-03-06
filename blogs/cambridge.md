@@ -35,9 +35,9 @@ title: Cambridge
 2. Programme Transcript 成绩单还算不错，简历多几个字
 3. Letter of Recommendation 基本上算是“模版推”，后面用上了
 
-<div class="third">
-<img src="/blogs/cambridge.assets/st.png" width = 49%>
-<img src="/blogs/cambridge.assets/rl.png" width = 49%>
+<div class="second">
+<img src="/blogs/cambridge.assets/st.png">
+<img src="/blogs/cambridge.assets/rl.png">
 </div>
 
 
