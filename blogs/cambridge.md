@@ -8,7 +8,9 @@ title: Cambridge
 
 > 本文第一版发表于 [mieclance博客](https://mieclance.club/archives/4389)，下为修改版
 >
-> 中英文混用预警，请见谅
+> 记录了2022年7月--12月发生的故事
+>
+> 中英文混用预警，还请见谅
 
 ### 写在最前面
 
@@ -29,14 +31,13 @@ title: Cambridge
 
 <br>最后放一下成绩单和推荐信，相当于"暑研收获"了
 
-1. Certificate of Completion 结课证明
-2. Programme Transcript 成绩单
-3. Letter of Recommendation 基本上算是“模版推”
+1. Certificate of Completion 结课证明，没啥用
+2. Programme Transcript 成绩单还算不错，简历多几个字
+3. Letter of Recommendation 基本上算是“模版推”，后面用上了
 
 <div class="third">
-<img src="/blogs/cambridge.assets/cc.png" width = 32%>
-<img src="/blogs/cambridge.assets/st.png" width = 32%>
-<img src="/blogs/cambridge.assets/rl.png" width = 32%>
+<img src="/blogs/cambridge.assets/st.png" width = 49%>
+<img src="/blogs/cambridge.assets/rl.png" width = 49%>
 </div>
 
 
@@ -49,31 +50,23 @@ title: Cambridge
 
 <br>所以最终选择走付费暑研这种野路子，从今年6月确定收到offer开始，到正式出成绩单（11月中旬），完整的流程大概是走了5个月。
 
-<br>说回暑研本身，导师 Pietro Lio 是意大利人，在剑桥拿到了Msc学位，然后回意大利攻了**两个PhD** (Systems Dynamics & Theoretical Genetics)，而近几年他主要是做图神经网络和计算生物学。
+<br>说回暑研本身，导师 Pietro Liò 是意大利人，在剑桥拿到了Msc学位，然后回意大利攻了**两个PhD** (Systems Dynamics & Theoretical Genetics)，而近几年他主要是做图神经网络和计算生物学。
 
-<br>但就像同项目的朋友(wyc)在知乎上吐槽的，教授的英文口音确实是一言难尽，三节AI正课几乎听不懂——当然，一方面确实是口音的问题，但更多的是ML (Machine Learning) 经历的欠缺。
+<br>但就像同项目的朋友(wyc)在知乎上吐槽的，教授的英文口音确实是一言难尽，三节AI正课几乎听不懂——当然，一方面确实是口音的问题，但更多的是ML (机器学习) 经历的欠缺。但总而言之，这次暑研至少做了比较深入的文献综述，最后产出的 Proposal 和 Report 在大三下的实习学期给我带来了很大的便利。
 
-> 连Python基础都是在今年6-8月补起来的我，居然在未来的三个月搞了一个ML-Based的大项目，中间的水份真是一言难尽呐。
+<br>另外还要提到，暑研的 Supervisor 是 Liò 教授的二年级博士生，我们叫他Jerry学长——北邮本科，然后在Sheffield读了一年MSc，在PhD阶段来到了剑桥做Wireless和ML
 
-总之，这次暑研至少在截止日期的催促下，做了深入的综述，最后提交的报告也基本上让自己满意了。
+<br>学长主要是负责给我们上 Practical（学术技能和ML入门）和 Supervision（项目辅导，给我们的课题进展提供建议）两门课。豪不夸张地说，这次暑研的质量与体验感，很大程度上都是靠Jerry学长撑起来的。
 
-另外还要提到，暑研的Supervisor是教授的二年级博士生，我们叫他Jerry学长——Jerry是北邮的本科，然后在Sheffield读了一年MSc(with distinction)，然后PhD阶段来到了剑桥做Wireless+ML
+---
 
-Jerry给我们上Practical（讲学术技能和ML入门），以及Supervision（项目辅导，给我们的课题进展提供建议）两门课。豪不夸张地说，这次暑研的质量与体验感，很大程度上都是靠Jerry一个人撑起来的...
+### 同期的故事
 
-
-
-------
+<br>暑研的同期，把大二下学期搞的那篇IoT-System的文章给投了，最后稀里糊涂的中了某亚洲水会...但确实是没有想到会这么顺利。
 
 
 
-### 其他的故事
-
-暑研的同期，把大二下学期搞的那篇IoT-System的文章给投了，最后稀里糊涂的中了个IEEE CENIM（某亚洲水会...但确实是没有想到会这么顺利）
-
-
-
-因为后来reviewer修改意见下来之后，在10月中旬和导师又一起认真改了一轮，发现投上去的那个版本的语言真的是巨烂啊...当然那一版写得拧巴，确实因为不是我主笔的好吧......哈哈
+因为后来修改意见下来之后，在10月中旬和导师又一起认真改了一轮，发现投上去的那个版本的语言真的是巨烂啊...当然那一版写得拧巴，确实因为不是我主笔的好吧......哈哈
 
 
 
