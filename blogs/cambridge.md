@@ -8,7 +8,7 @@ title: Cambridge
 
 > 本文第一版发表于 [mieclance博客](https://mieclance.club/archives/4389)，下为修改版
 >
-> 之前那篇写得太那啥了......
+> 中英文混用预警，请见谅
 
 ### 写在最前面
 
@@ -34,9 +34,9 @@ title: Cambridge
 3. Letter of Recommendation 基本上算是“模版推”
 
 <div class="third">
-<img src="/blogs/cambridge.assets/cc.png">
-<img src="/blogs/cambridge.assets/st.png">
-<img src="/blogs/cambridge.assets/rl.png">
+<img src="/blogs/cambridge.assets/cc.png" width = 32%>
+<img src="/blogs/cambridge.assets/st.png" width = 32%>
+<img src="/blogs/cambridge.assets/rl.png" width = 32%>
 </div>
 
 
@@ -45,29 +45,19 @@ title: Cambridge
 
 ### 关于暑研
 
-就针对暑研来说，线下的体验绝对是好过online的，但迫于疫情（担心新学期，学校不给进，隔离周期太长），还有就是菜（没错就是菜，大二无paper弱鸡根本申不到实地）所以选择了这次的Camb线上项目。
+<br>就针对暑研来说，线下的体验绝对是更好、收获更多的。但**疫情影响**（担心新学期，学校不给进，隔离周期太长）；还有就是**实力太差**（没错就是菜，大二无paper无connection弱鸡，根本申不到实地）
 
+<br>所以最终选择走付费暑研这种野路子，从今年6月确定收到offer开始，到正式出成绩单（11月中旬），完整的流程大概是走了5个月。
 
+<br>说回暑研本身，导师 Pietro Lio 是意大利人，在剑桥拿到了Msc学位，然后回意大利攻了**两个PhD** (Systems Dynamics & Theoretical Genetics)，而近几年他主要是做图神经网络和计算生物学。
 
-从今年6月确定收到offer开始，到正式出成绩单（预计11月中旬），完整的流程大概是持续了5个月。如果再算上这次的final report改成paper投递的话，可能就要再持续半年左右？
+<br>但就像同项目的朋友(wyc)在知乎上吐槽的，教授的英文口音确实是一言难尽，三节AI正课几乎听不懂——当然，一方面确实是口音的问题，但更多的是ML (Machine Learning) 经历的欠缺。
 
+> 连Python基础都是在今年6-8月补起来的我，居然在未来的三个月搞了一个ML-Based的大项目，中间的水份真是一言难尽呐。
 
+总之，这次暑研至少在截止日期的催促下，做了深入的综述，最后提交的报告也基本上让自己满意了。
 
-说回来暑研本身，导师 Pietro Lio' 是意大利人，在剑桥拿到了MA，然后回意大利攻了两个PhD学位——Systems Dynamics & Theoretical Genetics——而现在主要是做图神经网络和计算生物学，这看起来巨神奇的履历......确实是见识了一番大牛的时间管理水平。
-
-
-
-但就像同AI项目的朋友在知乎上吐槽的，教授的英文口语确实是一言难尽——三节AI正课几乎是靠意志力撑着——虽然一方面确实是口音的问题；但更多的是ML（Machine Learning）经历的欠缺。连Python基础都是在今年6-8月补起来的我，居然在未来的三个月搞了一个ML-Based的大项目，中间的水份真是一言难尽呐......
-
-
-
-但总之，这次暑研的最大收获——至少在DDL的push下，确实做了深入的review，最后提交的report也能让自己心满意足了，具体细节可以看[这里]。
-
-
-
-还要提到，暑研的Supervisor是Lio'教授的二年级博士生，我们叫他Jerry学长——Jerry是BUPT的本科，然后在Sheffield读了一年MSc(with distinction)，然后PhD阶段来到了剑桥做Wireless+ML
-
-
+另外还要提到，暑研的Supervisor是教授的二年级博士生，我们叫他Jerry学长——Jerry是北邮的本科，然后在Sheffield读了一年MSc(with distinction)，然后PhD阶段来到了剑桥做Wireless+ML
 
 Jerry给我们上Practical（讲学术技能和ML入门），以及Supervision（项目辅导，给我们的课题进展提供建议）两门课。豪不夸张地说，这次暑研的质量与体验感，很大程度上都是靠Jerry一个人撑起来的...
 
