@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 2nd March 2023  [中文论文 (Chinese Paper)](https://caihanlin.com/publications-zh/)
+Lastest Update: 2nd March 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/publications-zh/)
 
 ## Conference Paper
 
