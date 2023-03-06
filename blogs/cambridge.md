@@ -12,40 +12,36 @@ title: Cambridge
 
 ### 写在最前面
 
-10月21号正式提交论文后，就进入了大三学年以来最舒服的一个周末。而过去三个月来暑研的困难程度，和我6月份报名投递申请时所想象的完全不同。
+<br>10月21号正式提交论文后，就进入了大三学年以来最舒服的一个周末。而过去三个月来暑研的困难程度，和我6月份报名投递申请时所想象的完全不同。
 
-整体上来看，CCISTC线上暑研（下称Camb暑研）大体分为四个部分：
+<br>整体上来看，CCISTC线上暑研（下称Camb暑研）大体分为四个部分：
 
-1. Academic Practical （10学时，基本的科研学术技能，机器学习入门）
-2. Workshop（12学时，可以理解为工具课：雅思英语、留学规划、学术网站，教你怎么宣传自己）
+1. Academic Practical （10学时，基本的科研学术技能、机器学习入门）
+2. Workshop（12学时，可以理解为工具课；雅思英语、留学规划、学术网站，教你怎么宣传自己）
 3. AI Lecture（6学时，所谓的大佬正课，但我其实没听懂多少，这个后面会讲到）
 4. Research Project（暑研课题，大约花费了300-320小时？巨累）
 
-而Camb暑研最后的考评/推荐信是基于以下三个部分：
+<br>而Camb暑研最后的考评/推荐信是基于以下三个部分：
 
 1. 暑研课程出勤（10%，大家都差不多，甚至请假还可以豁免，这个不提）
 2. Research Proposal（45%，单写作花了5天时间）
 3. Final Report（45%，单写作花了14天时间）
 
-最后放一下成绩单和推荐信，相当于"暑研收获"了
+<br>最后放一下成绩单和推荐信，相当于"暑研收获"了
 
-1. Certificate of Completion
-2. Programme Transcript
-3. Letter of Recommendation
+1. Certificate of Completion 结课证明
+2. Programme Transcript 成绩单
+3. Letter of Recommendation 基本上算是“模版推”
 
 <div class="third">
-<img src="/blogs/cambridge.assets/cc.png" width = 32.5%>
-<img src="/blogs/cambridge.assets/st.png" width = 32.5%>
-<img src="/blogs/cambridge.assets/rl.png" width = 32.5%>
+<img src="/blogs/cambridge.assets/cc.png">
+<img src="/blogs/cambridge.assets/st.png">
+<img src="/blogs/cambridge.assets/rl.png">
 </div>
 
 
 
-
-
 ------
-
-
 
 ### 关于暑研
 
