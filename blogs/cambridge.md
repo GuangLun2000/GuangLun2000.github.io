@@ -6,7 +6,7 @@ title: Cambridge
 
 ## Cambridge 线上暑研回忆录
 
-> 本文第一版发表于[MIEC中文博客](https://mieclance.club/archives/4389)，下为修改版
+> 本文第一版发表于 [mieclance博客](https://mieclance.club/archives/4389)，下为修改版
 >
 > 之前那篇写得太那啥了......
 
