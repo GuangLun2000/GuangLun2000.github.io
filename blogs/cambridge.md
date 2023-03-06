@@ -14,7 +14,7 @@ title: Cambridge
 
 ### 写在最前面
 
-<br>10月21号正式提交论文后，就进入了大三学年以来最舒服的一个周末。而过去三个月来暑研的困难程度，和我6月份报名投递申请时所想象的完全不同。
+10月21号正式提交论文后，就进入了大三学年以来最舒服的一个周末。而过去三个月来暑研的困难程度，和我6月份报名投递申请时所想象的完全不同。
 
 <br>整体上来看，CCISTC线上暑研（下称Camb暑研）大体分为四个部分：
 
@@ -45,7 +45,7 @@ title: Cambridge
 
 ### 关于暑研本身
 
-<br>就针对暑研来说，线下的体验绝对是更好、收获更多的。但**疫情影响**（担心新学期，学校不给进，隔离周期太长）；还有就是**实力太差**（没错就是菜，大二无paper无connection弱鸡，根本申不到实地）
+就针对暑研来说，线下的体验绝对是更好、收获更多的。但**疫情影响**（担心新学期，学校不给进，隔离周期太长）；还有就是**实力太差**（没错就是菜，大二无paper无connection弱鸡，根本申不到实地）
 
 <br>所以最终选择走付费暑研这种野路子，从今年6月确定收到offer开始，到正式出成绩单（11月中旬），完整的流程大概是走了5个月。
 
@@ -61,54 +61,40 @@ title: Cambridge
 
 ### 同期的故事
 
-<br>暑研的同期，把大二下学期搞的那篇IoT-System的文章给投了，最后稀里糊涂的中了某亚洲水会...但确实是没有想到会这么顺利。
+暑研的同期，把大二下学期搞的那篇 IoT-System 的文章给投了，稀里糊涂中的某IEEE亚洲水会，虽然水的一批，但总算是有自己的paper了。
 
+<br>同时，大三学年停掉了一切学生工作之后，终于可以静下心来学习、读论文了。大三上，拿到了本科生涯第一次专业第一（GPA3.97），开始做第二篇文章并投稿，达到了舒适的Work-Life-Balance，总而言之，这正是我所向往的生活啊。
 
-
-<br>因为后来修改意见下来之后，在10月中旬和导师又一起认真改了一轮，发现投上去的那个版本的语言真的是巨烂啊...当然那一版写得拧巴，确实因为不是我主笔的好吧......总之这篇能一投即中，算是一个意料之外的收获吧。
-
-
-
-<br>而回过头来，这次Camb暑研的经历，也让我暂时是坚定了未来攻PhD的念头，感到自己确实对这个领域是有点激情和想法（or天赋？）的，与此同时，受暑研搭档（wyc, chx...）的启发，也让我开始更多地关注海外机会——也即后来的Canada Mitacs项目，这个之后会再详谈。
+<br>而回过头来，这次Camb暑研的经历，也让我暂时是坚定了未来攻PhD的念头，感到自己对这个领域是有点激情和天赋的，与此同时，受暑研同学（wyc, chx, wjy）的启发，也让我开始更多地关注海外机会——即后来的暑研申请，这个值得再写一篇文章细谈。
 
 
 
 ------
 
-
-
 ### 关于暑研做的东西
 
-<br>最后还是想简单总结一下这次暑研做的东西：**RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach**
+最后还是想简单总结一下这次暑研做的东西：**RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach**
 
-<br>整体思路很大程度上参考了这篇：SCADA System Testbed for Cybersecurity Research Using Machine Learning Approach，连标题都是模仿它的好吧，这个系列作者的工作很有意思。
+<br>整体思路很大程度上参考了这篇：SCADA System Testbed for Cybersecurity Research Using Machine Learning Approach（连标题都是模仿它的，这个系列作者的工作可读性很强）
 
-<br>anyway，我们的工作是依照之前实现的IoT-System进行魔改，目的是把这个现成的System整合成一个Physical Testbed，然后对其实施随机安全攻击（Cyber-attacks，通过现成的工具实施攻击，抓包也是现成的工具）
+<br>总之，我们的工作是依照之前实现的 IoT-System 进行魔改，目的是把这个现成的System整合成一个Physical Testbed，然后对其实施定向多源安全攻击（Mutiple-Mixed-Attacks，通过现成的工具实施攻击，抓包也是现成的工具）
 
-<br>进一步，在攻击过程中，捕捉Traffic Activities，提取Traffic Features，最后总结分析Data Analysis，并汇总成一个独立的RIGMS-Datasets，用于后续的训练工作；
+<br>进一步，在攻击过程中，捕捉Traffic Activities，提取Traffic Features，最后对数据进行挖掘分析、打标签并汇总，用于后续的训练、测试；
 
-<br>再来，我们选用了5个不同类型的ML模型来进行训练、测试，大体上达到了合适的效果（并保留了改进空间），附上Abstract
+<br>最后，我们选用了5个不同类型的ML模型来进行训练、测试验证。附上Abstract：
 
 > This paper proposes a real-time intelligent garbage monitoring system (RIGMS) testbed for IoT cybersecurity research. The testbed is established by realistic devices in the physical world, which is a stage in the process of municipal waste disposal. Multiple-mix-attacks were conducted based on the testbed. During the attack scenarios, the network activities were analyzed, and the traffic features were extracted to design a representative RIGMS dataset for training and verifying the authenticity of the machine learning based models. In this paper, five advanced ML models were utilized to detect the cyber-attacks. Experiment results verified the feasibility of implementing learning based models to detect multiple-mix-attacks.
 
-<br>最后上点图吧
-
-<left>
-<img src="/blogs/cambridge.assets/attacks.png">
-</left>
-
-*图1—Attacks的主要类别*
+<br>最后上几张图吧：
 
 <left>
 <img src="/blogs/cambridge.assets/system.png">
 </left>
-
 *图3—Testbed的主要框架*
 
 <left>
 <img src="/blogs/cambridge.assets/flowchart.png">
 </left>
-
 *图5—训练测试的flow-chart*
 
 <left>
@@ -120,8 +106,7 @@ title: Cambridge
 <left>
 <img src="/blogs/cambridge.assets/results.png">
 </left>
-
-*图6—Matlab画的Acc对比图，DDL最后一天下午现学现画的*
+*图6—Matlab画的Acc对比图*
 
 
 
@@ -129,29 +114,19 @@ title: Cambridge
 
 ### 写在最后
 
-<br>IoT已然是一片红海，和IR/VR、无人机，甚至是今年的元宇宙都很像。突然概念爆火，然后一堆人蜂拥而入。
+最后是闲聊时间。
 
-<br>在每年产出数万篇的论文里，可能不到1000篇值得看。而在这1000篇值得review的文章里头，能进一步，值得深入分析，甚至复现的，可能就不到100篇了？且看且珍惜。
+<br>这几天在知乎看到这么个题目：*# 如何看待广西自治区政府奖学金评审，广西大学推荐人选跨专业取得多项成果和发明专利，大学生真有这么厉害吗？*
 
-<br>另外，这几天水知乎看到这么个题目：# 如何看待广西自治区政府奖学金评审，广西大学推荐人选跨专业取得多项成果和发明专利，大学生真有这么厉害吗？
-
-<br>均分不到70，却有40+个项目......各种专利、软著（经查大部分都是并未得到授权的，反正都稀里糊涂填上去）
-
-<br>这样的履历真的漂亮吗？评选出这样履历的学校们，真的光彩吗？
-
-
+<br>均分不到70，却有40+个项目...各种专利、软著（经查大部分都是并未得到授权的，反正都稀里糊涂填上去），这样的履历真的漂亮吗？评选出这样履历的学校们，真的光彩吗？
 
 > “脚踏实地，脚踏实地啊，学弟学妹们”，人生是要跨越**100级**台阶的，而这**第1、2、3级**台阶走得多快，对于人生的整体而言，无足轻重。要明白，走得快并不代表走得远。
 
 
 
-<br>本科生进实验室，发paper，绝对是利大于弊的，即使是所谓的“灌水”——毕竟Q先生说过，“90%的数学论文都是”——从这点出发，有paper至少能证明你科研的能力、激情与基本素养。但是，绝不要提倡**为了卷而卷的本科生科研**，不要涌入**“一切为了刷简历”**的囹圄当中。
+<br>本科生进实验室，做paper，绝对是利大于弊的，即使是所谓的“灌水”——毕竟Q先生说过——“90%的数学论文都是...”——从这点出发，有paper至少能证明你科研的能力、激情与基本素养。
 
-
-
-<br>在 FZU-MIEC 的三年，我们见过太多一心为了刷履历、卷综测，最后落得身败名裂，两头空的家伙——读者朋友们，请一定不要如此呀。
-
-
+<br>但是，绝不要提倡**为了卷而卷的本科生科研**，不要涌入**“一切为了刷简历”**的囹圄当中。在 FZU-MIEC 的三年，我们见过太多一心为了刷履历、卷综测，最后落得身败名裂，两头空的家伙——读者朋友们，请一定勿忘初心呀。
 
 <br>**“人生，是要跨越一百级台阶的。”**
 
@@ -161,7 +136,9 @@ title: Cambridge
 
 ### 后来的故事
 
-> 今天先写到这里，来日再更。
+
+
+> 谢谢你看到这里，改天再更。
 
 
 
