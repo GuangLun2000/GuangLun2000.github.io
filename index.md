@@ -8,9 +8,7 @@ layout: page
 
 My name is **Hanlin Cai (Lance, 蔡汉霖)**. 
 
-Here is [my latest CV](https://caihanlin.com/file/CV-HanlinCAI.pdf). 
-
-I am a junior majoring in **Automation** at [Fuzhou University](https://www.fzu.edu.cn/ ) (China) and **Robotics and Intelligent Devices** at [Maynooth University](https://maynoothuniversity.ie/) (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong).
+I am a junior majoring in **Automation** at [Fuzhou University](https://www.fzu.edu.cn/ ) (China) and **Robotics and Intelligent Devices** at [Maynooth University](https://maynoothuniversity.ie/) (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my latest CV](https://caihanlin.com/file/CV-HanlinCAI.pdf). 
 
 ## Research Interests
 
