@@ -4,11 +4,9 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-# Awards & Honors
+## Awards & Honors
 
-Lastest Update: 7th March 2023 &nbsp; [中文版 (Chinese Version)](https://caihanlin.com/awards-zh/)
-
-- Dec 2022：**First Prize** (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling ([CUMCM](http://en.mcm.edu.cn/))
+- Dec 2022：**First Prize** (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling (Top 10%)
 - Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team**)
 - Sep 2022：Nomination for China National Scholarship (Top 1%)
 - Sep 2022：First Prize Scholarship of FZU (**Only Best Student** in my major, **1/60**)
@@ -24,7 +22,7 @@ Lastest Update: 7th March 2023 &nbsp; [中文版 (Chinese Version)](https://caih
 
 
 
-# Services
+## Services
 
 - Oct 2022 - June 2024：Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou University
 - Sep 2022 - Sep 2023：IEEE Student Membership
@@ -33,9 +31,12 @@ Lastest Update: 7th March 2023 &nbsp; [中文版 (Chinese Version)](https://caih
 
 
 
-# Voluntary
+## Voluntary
 
 - April 2022：**Top 10 Best Volunteers (Only 10/30000)** of the year 2021-2022 at Fuzhou University
 - July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
 - April 2021：Outstanding volunteer at 4th Digital China Summit
 
+
+
+Lastest Update: 7th March 2023 &nbsp; [中文版 (Chinese Version)](https://caihanlin.com/awards-zh/)
