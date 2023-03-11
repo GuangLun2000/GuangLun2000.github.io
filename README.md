@@ -12,4 +12,4 @@ I am a junior majoring in Automation at [Fuzhou University](https://www.fzu.edu.
 
 ## Statement
 
-© 2023 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme. Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+© 2023 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme. Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io). If you like it, please star it.
