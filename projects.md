@@ -42,9 +42,7 @@ title: Projects
 
 [Garbage Manager]: https://caihanlin.com/mypaper/202208cenim.pdf
 
- 
-
----
+ <br>
 
 # Open-source Projects
 
