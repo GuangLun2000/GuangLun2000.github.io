@@ -25,4 +25,4 @@ My current research focuses on practical problems that artificial intelligence f
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tGZ_4852x6Mm-PPomoo98e4y_CI8D9TmioGTO03Daik"></script>
+<div class="stat"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tGZ_4852x6Mm-PPomoo98e4y_CI8D9TmioGTO03Daik"></script></div>
