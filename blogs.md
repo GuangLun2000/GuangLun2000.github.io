@@ -27,7 +27,3 @@ title: Blogs
 - [本科博客，笔记，回忆录](https://mieclance.club/)
 
 <br>
-
-<br>
-
-{% include disqus.html %} 
