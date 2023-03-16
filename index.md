@@ -23,6 +23,3 @@ My current research focuses on practical problems that artificial intelligence f
 - **Sep 2022：**Happy to be nominated for the 2021-2022 China National Scholarship (top 1%).
 - **Jun 2022：**Research Intern at University of Cambridge, online, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
 
-
-
-<div class="stat"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tGZ_4852x6Mm-PPomoo98e4y_CI8D9TmioGTO03Daik"></script></div>
