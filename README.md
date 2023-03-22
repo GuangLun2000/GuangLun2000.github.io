@@ -1,15 +1,13 @@
 # About me
 
-<img src="https://caihanlin.com/images/caihanlin.jpg" class="floatpic" width="360" height="480">
+Hi 👋 My name is **Hanlin Cai (Lance, 蔡汉霖)**. Here is my personal website. Welcome to fork and commit!
 
-Hi 👋 My name is **Hanlin Cai (蔡汉霖)**. Here is [my latest CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+Besides, [my Chinese Website](https://mieclance.club/) averages over 1000+ unique visits monthly, [my Zhihu](https://www.zhihu.com/people/chlire) account has more than 1500+ followers and 14000+ likes. In addition, [my Bilibili](https://space.bilibili.com/594030035) (Chinese YouTube) possesses around 2000 fans.
 
-I am a junior majoring in Automation at [Fuzhou University](https://www.fzu.edu.cn/) (China) and Robotics and Intelligent Devices at [Maynooth University](https://maynoothuniversity.ie/) (Ireland, Combined Degrees).
+## Star History
 
-## Social Media
-
-[My Chinese Website](https://mieclance.club/) averages over 1000+ unique visits monthly, [My Zhihu](https://www.zhihu.com/people/chlire) account has more than 1500+ followers and 14000+ likes. In addition, [My Bilibili](https://space.bilibili.com/594030035) (Chinese YouTube) possesses around 2000 fans.
+[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
 
 ## Statement
 
-© 2023 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme. Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io). If you like it, please star it.
+© 2023 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme. Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
