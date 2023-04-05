@@ -4,7 +4,7 @@ Hi 👋 My name is **Hanlin Cai (Lance, 蔡汉霖)**. Here is my personal websit
 
 Besides, [my Chinese Website](https://mieclance.club/) averages over 1000+ unique visits monthly, [my Zhihu](https://www.zhihu.com/people/chlire) account has more than 1500+ followers and 14000+ likes. In addition, [my Bilibili](https://space.bilibili.com/594030035) (Chinese YouTube) possesses around 2000 fans.
 
-If you have any problem, please feel free to contact me. [Online Talk 15mins.](https://calendly.com/lancecai/meet-with-lance)
+If you have any problem, please feel free to contact me - [Online Talk 15mins](https://calendly.com/lancecai/meet-with-lance)🔗
 
 ## Star History
 
