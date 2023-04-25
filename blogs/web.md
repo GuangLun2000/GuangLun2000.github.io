@@ -12,7 +12,7 @@ title: web
 <img src="/blogs/web.assets/jekyll-logo.png">
 </center>
 
-首先介绍一下本站所依赖的核心工具：Jekyll, Minimal Mistakes, Github Page
+首先介绍一下本站所依赖的核心工具：
 
 - Jekyll：一个简单的静态网站生成器，[官方文档](https://www.jekyll.com.cn/)
 - Minimal Mistakes：本站所采用的极简风主题，[原作者博客](https://mademistakes.com/)
