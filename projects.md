@@ -16,7 +16,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
-## [OpenIoT: Industrial inspection system](https://fzuiot.site/)
+## [OpenIoT: Industrial Inspection System](https://fzuiot.site/)
 
 <center>
 <img src="/images/openiot-system.png">
