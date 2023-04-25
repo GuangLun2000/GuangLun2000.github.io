@@ -13,18 +13,17 @@ layout: nil
       <loc>https://caihanlin.com/projects/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/experience/</loc>
-    </url>
-    <url>
       <loc>https://caihanlin.com/awards/</loc>
-    </url>    
+    </url>   
     <url>
       <loc>https://caihanlin.com/hobbies/</loc>
     </url>
     <url>
       <loc>https://caihanlin.com/blogs/</loc>
     </url>
-
+    <url>
+      <loc>https://caihanlin.com/visitors/</loc>
+    </url>
 
     {% comment %}
     {% for post in site.posts %}
