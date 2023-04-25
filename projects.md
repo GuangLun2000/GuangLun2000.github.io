@@ -6,16 +6,18 @@ title: Projects
 
 # Research Projects
 
-## [RIGMS Testbed for IoT Cybersecurity](https://caihanlin.com/mypaper/202210camb.pdf )
-
-<center>
-<img src="/images/resnet-ahp.png">
-</center>
+P.S., click the hyperlink title to access the source.
 
 ## [Deep ResNet with AHP Method](https://caihanlin.com/mypaper/202302ICAROB.pdf)
 
 <center>
 <img src="/images/resnet-ahp.png">
+</center>
+
+## [OpenIoT: Industrial inspection system](https://fzuiot.site/)
+
+<center>
+<img src="/images/openiot-system.png">
 </center>
 
 ## [Smart Community Manager](https://caihanlin.com/mypaper/202208cenim.pdf )
@@ -27,8 +29,6 @@ title: Projects
 <br>
 
 # Open-source Projects
-
-*P.S. Click the hyperlink title to access the source.*
 
 ## [FZU-Flying-Book](https://fzu-fly.online/)
 
