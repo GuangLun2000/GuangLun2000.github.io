@@ -25,9 +25,7 @@ title: web
 - Minimal Mistakes：本站所采用的极简风主题（[原作者博客](https://mademistakes.com/)）
 - Github Page：GitHub所提供的一个网页寄存服务（[官方文档](https://docs.github.com/zh/pages)）
 
-<br>
-
-### 其他工具
+### 附加功能
 
 此外，本站使用了一些附加的小功能，均为第三方服务调用的接口（无需撰写任何新代码）
 
