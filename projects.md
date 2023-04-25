@@ -6,7 +6,7 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.
+P.S., click the hyperlink title to access the source.<br>
 
 ## [Deep ResNet with AHP Method](https://caihanlin.com/mypaper/202302ICAROB.pdf)
 
@@ -14,17 +14,23 @@ P.S., click the hyperlink title to access the source.
 <img src="/images/resnet-ahp.png">
 </center>
 
+<br>
+
 ## [OpenIoT: Industrial inspection system](https://fzuiot.site/)
 
 <center>
 <img src="/images/openiot-system.png">
 </center>
 
+<br>
+
 ## [Smart Community Manager](https://caihanlin.com/mypaper/202208cenim.pdf )
 
 <center>
 <img src="/images/iot-manager.png">
 </center>
+
+<br>
 
 <br>
 
