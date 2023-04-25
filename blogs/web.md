@@ -7,7 +7,10 @@ title: web
 ## 建站完全指南
 
 > Philosophy：高效、免费、极简
->
+
+<center>
+<img src="/blogs/web.assets/jekyll-logo.png">
+</center>
 
 首先介绍一下本站所依赖的核心工具：Jekyll, Minimal Mistakes, Github Page
 
