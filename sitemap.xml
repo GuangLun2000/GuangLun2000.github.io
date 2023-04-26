@@ -21,9 +21,6 @@ layout: nil
     <url>
       <loc>https://caihanlin.com/blogs/</loc>
     </url>
-    <url>
-      <loc>https://caihanlin.com/visitors/</loc>
-    </url>
 
     {% comment %}
     {% for post in site.posts %}
