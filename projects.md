@@ -20,12 +20,13 @@ P.S., click the hyperlink title to access the source.<br>
 <center>
 <img src="/images/MCM-figure3.jpg">
 </center>
-
 <br>
 
-[OpenIoT: Industrial Inspection System](https://fzuiot.site/)
+#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
 
-
+<center>
+<img src="/images/openiot-system.png">
+</center>
 
 <br>
 
