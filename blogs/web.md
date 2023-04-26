@@ -48,12 +48,17 @@ title: web
 - 关于Github Desktop如何使用，请参考[官方中文文档](https://docs.github.com/zh/desktop)
 - 完成注册及下载后，请进入本站的代码仓库[GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io)
 
-<br>完成上述前置工作后，接下来，我们来配置网站代码运行仓库，这也是最关键的步骤，请务必细心：
+<br>完成上述前置工作后，接下来，我们来复制网站代码运行仓库，这也是最关键的步骤之一，请务必细心：
 
 - ~~首先点击右上角的Starred~~
 - **关键步骤：**点击右上角的Fork，进入配置界面
-- Repository name配置为：(你的用户名).github.io
+- Repository name配置为：[你的用户名].github.io
 - **注意：**配置用户名和仓库名需要大小写一致！
 - 勾选Copy the `main` branch only（只需要复制项目主支即可）
-- 最后，点击Create fork
+- 最后，点击Create fork，完成代码仓库复制 🎉
 
+<br>到此为止，基本的工作已经完成一半了，如果在上面的步骤中出现了任何问题，请学会STFW (Search The Friendly Web)，接下来，我们开始针对仓库内容进行定制化的修改。
+
+
+
+<br>本文最近更新于：2023/04/26
