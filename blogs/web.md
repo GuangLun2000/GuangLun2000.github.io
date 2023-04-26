@@ -41,10 +41,19 @@ title: web
 
 能够看到这篇博客，说明你已经实现了翻墙，因此这里假设诸位读者朋友均可以正常访问[Github](https://github.com/GuangLun2000/GuangLun2000.github.io)，后续我们将采用最简单的**复刻流程**进行演示，请确保你的每一步都正确安装流程配置。
 
-接下来，我们先进行前期环境配置工作。**万事开头难**，读工科的同学都知道，往往配置代码编译环境是最繁琐的。一旦完成，后续的工作流将会非常顺滑，接下来请大家务必按照以下流程进行配置：
+<br>接下来，我们先进行前期环境配置工作。**万事开头难**，读工科的同学都知道，往往配置代码编译环境是最繁琐的。一旦完成，后续的工作流将会非常顺滑，接下来请大家务必按照以下流程进行配置：
 
-1. 点击[Github官网](https://github.com/signup)，进行账号注册（下划线即超链接）
-2. 完成注册后，请进入本站的代码仓库[GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io)
-3. ~~点击右上角的Starred（bushi）~~
-4. **关键步骤：点击**
+- 点击进入[Github官网](https://github.com/signup)，进行账号注册，建议使用非常用邮箱进行注册
+- **可选项：**下载[Github Desktop](https://desktop.github.com/)，强烈建议小白下载，以减轻后续负担
+- 关于Github Desktop如何使用，请参考[官方中文文档](https://docs.github.com/zh/desktop)
+- 完成注册及下载后，请进入本站的代码仓库[GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io)
+
+<br>完成上述前置工作后，接下来，我们来配置网站代码运行仓库，这也是最关键的步骤，请务必细心：
+
+- ~~首先点击右上角的Starred~~
+- **关键步骤：**点击右上角的Fork，进入配置界面
+- Repository name配置为：(你的用户名).github.io
+- **注意：**配置用户名和仓库名需要大小写一致！
+- 勾选Copy the `main` branch only（只需要复制项目主支即可）
+- 最后，点击Create fork
 
