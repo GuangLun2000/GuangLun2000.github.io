@@ -15,11 +15,18 @@ P.S., click the hyperlink title to access the source.<br>
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System](https://fzuiot.site/)
+#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
 
 <center>
-<img src="/images/openiot-system.png">
+<img src="/images/MCM-figure3.jpg">
 </center>
+
+<br>
+
+[OpenIoT: Industrial Inspection System](https://fzuiot.site/)
+
+
+
 <br>
 
 #### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
