@@ -74,6 +74,18 @@ title: web
 - `sitemap.xml`文件，实际上改不改这个文件，都不会影响网站的正常显示（可选配）<br>
 - `LICENSE`协议文件，MIT协议表示本代码仓库可以被免费、无偿地复刻<br>
 
+```bash
+.
+├── _includes 构成本网站的html代码，不建议修改
+├── _layouts  构成本网站的html代码，不建议修改
+├── assets    美化本网站的css,less,js代码，不建议修改
+├── backup    用于备份文件，以便于后续修改时可以参考
+├── blogs     存放个人博客.md文件，以及对应的图片素材
+├── file      存放简历CV等个人文件，用于设置访问链接
+├── images    存放.jpg等媒体文件，用于设置访问链接
+├── mypaper   存放个人学术文章，用于设置访问链接
+```
+
 <br>然后，介绍一下各个“子文件夹”的功能作用：
 
 - `_includes`： 构成本网站的`html`代码，不建议修改<br>
@@ -87,16 +99,14 @@ title: web
 
 ```bash
 .
-├── CNAME
-├── _config.yml
-├── _includes
-├── _layouts
-├── assets
-├── backup
-├── blogs
-├── file
-├── images
-├── mypaper
+├── _includes 构成本网站的html代码，不建议修改
+├── _layouts  构成本网站的html代码，不建议修改
+├── assets    美化本网站的css,less,js代码，不建议修改
+├── backup    用于备份文件，以便于后续修改时可以参考
+├── blogs     存放个人博客.md文件，以及对应的图片素材
+├── file      存放简历CV等个人文件，用于设置访问链接
+├── images    存放.jpg等媒体文件，用于设置访问链接
+├── mypaper   存放个人学术文章，用于设置访问链接
 ```
 
 ---
@@ -113,6 +123,10 @@ title: web
 
 
 
+---
 
+<center>
+  <img src = "blogs/web.assets/jekyll-logo2.png" width = 80%>
+</center>
 
 <br>本文最近更新于：2023/04/27
