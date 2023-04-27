@@ -192,13 +192,15 @@ links:
 
 > What I cannot create, I do not understand.  ——Richard Feynman
 
-**第二，不要畏惧写代码这件事**，我知道读者朋友不一定是[工科生](https://lizhuo-1994.github.io/)，也可能是[社科生](http://www.tanggengyan.com/)，医学生，甚至可能是[教授老师](https://yangy09.github.io/)。永远不要停止学习，停止写代码，未来的世界将会有80%以上的研究者依赖于程序的能量，无论是`python`, `java`, `R`, `html`，抑或是`LaTeX`，趁早学会它们，都将在未来受益良多！
+**第二，不要畏惧写代码这件事**。我知道读者朋友可能是[工科生](https://lizhuo-1994.github.io/)、[社科生](http://www.tanggengyan.com/)，甚至是[医学生](https://miaxlr.github.io/)，抑或是[老师/教授](https://yangy09.github.io/)。
 
-<br>因此，笔者也在这里埋下一个小小的伏笔：下面这张图片展示了所有`fork`了我的代码仓库，但没有修改其中的代码文件的站点，请读者朋友找到原因——到底是哪些文件里的哪串代码，让我可以知道朋友们没有修改，并获取你们的访客数据呢？
+<br>我的建议是，永远不要停止学习，不要停止写代码。未来的世界将会有80%以上的研究者依赖于程序的能量，我们都见识过chatGPT的厉害了。所以，无论是`python`, `java`, `R`, `html`，抑或是`LaTeX`，趁早学会它们，都将在未来受益良多！
+
+<br>好玩的事，笔者在这里埋下一个小小的伏笔：下面这张图片，展示了所有`fork`了本仓库，但没有修改其中代码文件的站点。请读者朋友找到原因——到底是哪个文件里的哪串代码，让我可以知道这些站点没有修改文件，并获取他们的访客数据呢？
 
 <br>![image-20230427120849054](web.assets/image-20230427120849054.png)
 
-<br>完成这项小挑战的读者朋友，可以和笔者在线聊天15分钟，让我们可以通过互联网进一步`connect the world`
+<br>完成这项小挑战后，可以和笔者取得联系，在线聊天15分钟，让我们可以通过互联网进一步`connect the world`
 
 > 欢迎你把答案发送到本邮箱：lancecai2002@gmail.com
 
@@ -210,7 +212,7 @@ links:
 
 ## 写在最后
 
-最后的最后，感谢你愿意阅读这份文字，如果笔者的博客成功帮助你完成了Jekyll个人站点的搭建，还请你给[本仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)的右上角点一个`star`
+最后的最后，感谢你阅读这份文字，如果笔者的博客成功帮助你完成了Jekyll个人站点的搭建，还请你给[本仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)的右上角点一个`star`，鼓励我持续运营这个项目。
 
 <br>**这对我非常重要，特别感谢！**
 
@@ -222,8 +224,8 @@ links:
 - 或者在[Github Discussions](https://github.com/GuangLun2000/GuangLun2000.github.io/discussions)进行谈论，欢迎你提出任何看法
 - 我们将为你找到尽可能好的解决方案，感谢你的支持
 
-**谢谢你看到这里，祝学业顺利，早日毕业，后会有期！**
+**谢谢你看到这里，祝学业顺利，早日毕业。我们后会有期！**
 
 <br>
 
-<p align="right">蔡汉霖于2023/04/27</p>
+<p align="right">蔡汉霖于2023/04/28</p>
