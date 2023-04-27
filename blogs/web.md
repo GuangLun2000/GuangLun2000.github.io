@@ -35,9 +35,9 @@ title: web
 - Counter 访客记录
 - Clustrmaps 访客分布动态地球仪
 
-<br>
-
----
+<center>
+  <img src = "/blogs/web.assets/github-logo.png">
+</center>
 
 ## 正文部分
 
@@ -52,6 +52,8 @@ title: web
 - 关于Github Desktop如何使用，请参考[官方中文文档](https://docs.github.com/zh/desktop)
 - 完成注册及下载后，请进入本站的代码仓库[GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io)
 
+![image-20230427101010881](web.assets/image-20230427101010881.png)
+
 <br>完成上述前置工作后，接下来，我们来复制网站代码运行仓库，这也是最关键的步骤之一，请务必细心：
 
 - ~~首先点击右上角的Starred~~
@@ -60,6 +62,8 @@ title: web
 - **注意：**配置用户名和仓库名需要大小写一致！
 - 勾选Copy the `main` branch only（只需要复制项目主支即可）
 - 最后，点击Create fork，完成代码仓库复制 🎉
+
+![image-20230427100805390](web.assets/image-20230427100805390.png)
 
 <br>到此为止，基本的工作已经完成一半了，如果在上面的步骤中出现了任何简单问题，请学会`STFW (Search The Friendly Web)`
 
@@ -93,24 +97,22 @@ title: web
 ├── mypaper   存放个人学术文章，用于设置访问链接
 ```
 
+![image-20230427101317954](web.assets/image-20230427101317954.png)
+
 ---
 
 ### (3) 个性化修改
 
 理解了每个文件对应的功能之后，再进行个性化的修改，就变得容易许多了。大家可以注意到，其实当你fork完代码仓库，等待一段时间后，访问 `[你的用户名].github.io` 这个域名，此时网站已经可以运行了，只不过显示的还是笔者的网站内容。
 
-<br>因此，接下来需要进行个性化的修改。需要注意的是，在这里笔者并不会教大家每个文件如何配置，而是教你如何修改主要的文件，其他的则需要你自行按图索骥，举一反三。
+<br>因此，接下来需要进行个性化的修改。需要注意的是，在这里笔者并不会教大家，每个文件的具体配置——而是教你如何修改主要的文件，其他的则需要你自行按图索骥，举一反三。
 
-<br>首先我们修改`index.md`文件，也就是网站的主界面，此时
-
-
+<br>首先我们修改`index.md`文件，也就是网站的主界面，
 
 
 
----
 
-<center>
-  <img src = "/blogs/web.assets/jekyll-logo2.png">
-</center>
+
+
 
 <br>本文最近更新于：2023/04/27
