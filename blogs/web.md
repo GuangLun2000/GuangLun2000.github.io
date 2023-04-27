@@ -35,7 +35,11 @@ title: web
 - Counter 访客记录
 - Clustrmaps 访客分布动态地球仪
 
+<br>
+
 ---
+
+<br>
 
 ## 正文部分
 
@@ -65,7 +69,7 @@ title: web
 
 ### 文件解释
 
-下面，我们开始针对仓库内容进行定制化的修改。首先需要向各位解释一下，代码仓库里主要文件的作用：
+下面，我们开始针对仓库内容进行定制化的修改。首先需要向各位解释，**主文件夹下各个文件的作用：**
 
 - `_config.yml` 最关键的配置文件，所有的修改都将基于`.yml`展开<br>
 - 主文件夹下的所有`.md`文件，构成了网站上的每一个界面<br>
@@ -76,17 +80,14 @@ title: web
 
 ```bash
 .
-├── _includes 构成本网站的html代码，不建议修改
-├── _layouts  构成本网站的html代码，不建议修改
-├── assets    美化本网站的css,less,js代码，不建议修改
-├── backup    用于备份文件，以便于后续修改时可以参考
-├── blogs     存放个人博客.md文件，以及对应的图片素材
-├── file      存放简历CV等个人文件，用于设置访问链接
-├── images    存放.jpg等媒体文件，用于设置访问链接
-├── mypaper   存放个人学术文章，用于设置访问链接
+├── _config.yml 最关键的配置文件，所有的修改都将基于.yml展开
+├── 所有.md     主文件夹下的.md文件，构成了网站上的每一个界面
+├── CNAME       用于配置个人域名，例如我的域名是caihanlin.com，而不是.github.io
+├── 
+├── 
 ```
 
-<br>然后，介绍一下各个“子文件夹”的功能作用：
+<br>**然后，介绍一下各个“子文件夹”的功能作用：**
 
 - `_includes`： 构成本网站的`html`代码，不建议修改<br>
 - `_layouts`： 构成本网站的`html`代码，不建议修改<br>
@@ -126,7 +127,7 @@ title: web
 ---
 
 <center>
-  <img src = "blogs/web.assets/jekyll-logo2.png" width = 80%>
+  <img src = "/blogs/web.assets/jekyll-logo2.png" width = 80%>
 </center>
 
 <br>本文最近更新于：2023/04/27
