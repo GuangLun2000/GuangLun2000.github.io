@@ -6,6 +6,7 @@ title: Awards
 
 ## Awards & Honors
 
+- March 2023：Second Prize Scholarship of FZU (Top 5%)
 - Dec 2022：**First Prize** (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling (Top 10%)
 - Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team**)
 - Sep 2022：Nomination for China National Scholarship (Top 1%)
