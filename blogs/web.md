@@ -9,10 +9,10 @@ title: web
 > Philosophy：极简、高效、免费
 
 <center>
-<img src="/blogs/web.assets/jekyll-logo.png">
+  <img src = "/blogs/web.assets/github-logo.png">
 </center>
 
-本站点自2022年12月正式发布以来，经历了2次重大修改，如今的单月访客量达到200多，在此感谢各位访客朋友的支持！与此同时，许多朋友也开始通过各种形式来咨询笔者——**如何搭建属于自己的轻量化主页？**
+<br>本站点自2022年12月正式发布以来，经历了2次重大修改，如今的单月访客量达到200多，在此感谢各位访客朋友的支持！与此同时，许多朋友也开始通过各种形式来咨询笔者——**如何搭建属于自己的轻量化主页？**
 
 <br>刚开始还可以腾出时间仔细解答，但随着访客愈多，前来咨询的同学越来越多，然而笔者学业繁重，实在是应接不暇，非常抱歉！因此，为了方便各位朋友复刻本站点，笔者趁五一休假完成了这份小白建站完全指南，希望可以帮助读者朋友搭建一个**极简、高效、免费的Jekyll个人网站**。
 
@@ -36,7 +36,7 @@ title: web
 - Clustrmaps 访客分布动态地球仪
 
 <center>
-  <img src = "/blogs/web.assets/github-logo.png">
+<img src="/blogs/web.assets/jekyll-logo.png">
 </center>
 
 ## 正文部分
@@ -71,10 +71,10 @@ title: web
 
 ### (2) 文件解释
 
-下面，我们开始针对仓库内容进行定制化的修改。首先需要向各位解释，**主文件夹下各个文件的作用：**
+下面，我们开始针对仓库内容进行定制化的修改。首先需要向各位解释，**根目录下各个文件的作用：**
 
 ```bash
-.
+.根目录
 ├── _config.yml  最关键的配置文件，所有的修改都将基于.yml展开
 ├── ***.md       主文件夹下的.md文件，构成了网站上的每一个界面
 ├── CNAME        用于配置个人域名，例如我的域名是caihanlin.com，而不是.github.io
@@ -86,7 +86,7 @@ title: web
 <br>**然后，介绍一下各个“子文件夹”的功能作用：**
 
 ```bash
-.
+.根目录
 ├── _includes 构成本网站的html代码，不建议修改
 ├── _layouts  构成本网站的html代码，不建议修改
 ├── assets    美化本网站的css,less,js代码，不建议修改
@@ -107,7 +107,21 @@ title: web
 
 <br>因此，接下来需要进行个性化的修改。需要注意的是，在这里笔者并不会教大家，每个文件的具体配置——而是教你如何修改主要的文件，其他的则需要你自行按图索骥，举一反三。
 
-<br>首先我们修改`index.md`文件，也就是网站的主界面，
+<br>首先我们修改`index.md`文件，也就是网站的主界面，在文本编辑完成后，使用`Github Desktop`上传到你的`github仓库`，一切正常的话，1-2分钟过后，你的网站就会发生变化了 🎉 
+
+<br>接下来，介绍`_config.yml`文件的配置方法，`.yml`是Jekyll静态站点的核心文件，主要可以分为以下几个部分：
+
+```yaml
+title: Hanlin Cai
+url: https://caihanlin.com
+
+owner: 
+	name: Hanlin Cai
+	avatar: hanlin.jpg (根目录下的图片)
+	email: hanlin.cai@ieee.org
+	github: 
+	linkedin:
+```
 
 
 
