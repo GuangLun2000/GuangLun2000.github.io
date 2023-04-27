@@ -170,7 +170,7 @@ links:
 
 <br>![image-20230427110918118](web.assets/image-20230427110918118.png)
 
-<br>比如，在笔者站点中的`project.md`, `publications.md`等页面中，都有需要超链接地址，可以直接访问`mypaper文件夹下的PDF文件，这就是通过绝对地址实现的，下面是配置方法：
+<br>比如，在笔者站点中的`project.md`, `publications.md`等页面中，都有需要超链接地址，可以直接访问`mypaper`文件夹下的PDF文件，这就是通过绝对地址实现的，下面是配置方法：
 
 ```markdown
 [Here is my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf)
