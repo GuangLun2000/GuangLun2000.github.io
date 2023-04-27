@@ -77,8 +77,8 @@ title: web
 .根目录
 ├── _config.yml  最关键的配置文件，所有的修改都将基于.yml展开
 ├── ***.md       主文件夹下的.md文件，构成了网站上的每一个界面
-├── CNAME        用于配置个人域名，例如我的域名是caihanlin.com，而不是.github.io
-├── LICENSE      协议文件，MIT协议表示本代码仓库可以被免费、无偿地复刻
+├── CNAME        用于配置个人域名，例如我的域名是caihanlin.com，而不是.github.io（可选配）
+├── LICENSE      协议文件，MIT协议表示本代码仓库可以被免费、无偿地复刻（可选配）
 ├── sitemap.xml  实际上改不改这个文件，都不会影响网站的正常显示（可选配）
 ├── googlefb025e8ad13f176c.html        用于配置Google搜索（可选配）
 ```
