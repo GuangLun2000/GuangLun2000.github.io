@@ -212,10 +212,14 @@ links:
 
 <br>![image-20230427101010881](web.assets/image-20230427101010881.png)
 
-与此同时，如果你有任何的**建议/意见**，
+与此同时，如果你有任何的**建议/意见**，或者用得不爽的地方：
 
+- 欢迎你在[Github Issues](https://github.com/GuangLun2000/GuangLun2000.github.io/issues)中提出意见，并附上建议方案
+- 或者在[Github Discussions](https://github.com/GuangLun2000/GuangLun2000.github.io/discussions)进行谈论，欢迎你提出任何看法
+- 我们将为你找到尽可能好的解决方案，感谢你的支持
 
+**谢谢你看到这里，祝学业顺利，早日毕业，后会有期！**
 
 <br>
 
-<p align="right">2023/04/27</p>
+<p align="right">蔡汉霖于2023/04/27</p>
