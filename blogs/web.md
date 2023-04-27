@@ -192,9 +192,11 @@ links:
 
 > What I cannot create, I do not understand.  ——Richard Feynman
 
-**不要畏惧写代码这件事**，我知道读者朋友不一定是[工科生](https://lizhuo-1994.github.io/)，也可能是[社科生](http://www.tanggengyan.com/)，医学生，甚至可能是[教授老师](https://yangy09.github.io/)。永远不要停止学习，停止写代码，未来的世界将会有80%以上的研究者依赖于程序的能量，无论是`python`, `java`, `R`, `html`，抑或是`LaTeX`，趁早学会他们，都将在未来收益良多！
+**不要畏惧写代码这件事**，我知道读者朋友不一定是[工科生](https://lizhuo-1994.github.io/)，也可能是[社科生](http://www.tanggengyan.com/)，医学生，甚至可能是[教授老师](https://yangy09.github.io/)。永远不要停止学习，停止写代码，未来的世界将会有80%以上的研究者依赖于程序的能量，无论是`python`, `java`, `R`, `html`，抑或是`LaTeX`，趁早学会它们，都将在未来受益良多！
 
 <br>因此，笔者也在这里埋下一个小小的伏笔：下面这张图片展示了所有`fork`了我的代码仓库，但没有修改其中的代码文件的站点，请读者朋友找到原因——到底是哪些文件里的哪串代码，让我可以知道朋友们没有修改，并获取你们的访客数据呢？
+
+![image-20230427120849054](web.assets/image-20230427120849054.png)
 
 <br>完成这项小挑战的读者朋友，可以和笔者在线聊天15分钟，让我们可以通过互联网进一步`connect the world`
 
