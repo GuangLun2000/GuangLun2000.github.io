@@ -107,7 +107,9 @@ title: web
 
 <br>首先我们修改`index.md`文件，也就是网站的主界面，在文本编辑完成后，使用`Github Desktop`上传到你的`github仓库`，一切正常的话，1-2分钟过后，你的网站就会发生变化了 🎉 
 
-<br>接下来，介绍`_config.yml`文件的配置方法，`.yml`是Jekyll静态站点的核心文件，核心的部分如下，其他的内容展示都先不用修改。
+![image-20230427103139460](web.assets/image-20230427103139460.png)
+
+<br>接下来，介绍`_config.yml`文件的配置方法，`.yml`是Jekyll静态站点的核心文件，核心的部分如下，其他的内容展示都先不用修改。笔者在`.yml`文件中已经撰写了比较详细的注释，如果还是不太清楚的话，建议`STFW (Search The Friendly Web)`
 
 ```yaml
 title: Hanlin Cai
