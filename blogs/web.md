@@ -208,11 +208,13 @@ links:
 
 ## 写在最后
 
-最后的最后，感谢你愿意阅读这份文字，如果笔者的博客成功帮助你完成了Jekyll个人站点的搭建，还请你给[本仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)的右上角点一个`star`，这对我非常重要，特别感谢！
+最后的最后，感谢你愿意阅读这份文字，如果笔者的博客成功帮助你完成了Jekyll个人站点的搭建，还请你给[本仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)的右上角点一个`star`
+
+<br>**这对我非常重要，特别感谢！**
 
 <br>![image-20230427101010881](web.assets/image-20230427101010881.png)
 
-与此同时，如果你有任何的**建议/意见**，或者用得不爽的地方：
+<br>与此同时，如果你有任何的**建议/意见**，或者用得不爽的地方：
 
 - 欢迎你在[Github Issues](https://github.com/GuangLun2000/GuangLun2000.github.io/issues)中提出意见，并附上建议方案
 - 或者在[Github Discussions](https://github.com/GuangLun2000/GuangLun2000.github.io/discussions)进行谈论，欢迎你提出任何看法
