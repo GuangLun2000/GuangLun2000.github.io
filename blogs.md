@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## My Blogs
+## <a href="{{ site.url }}/feed.xml">My Blogs</a>
 
 ### 2023
 
