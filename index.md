@@ -16,7 +16,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **I'm looking for a Summer Research Internship Position (From June to Sep).** 
+- <font color="#dd0000">**I'm looking for a Summer Research Intern Position (From June to Sep. 2023).**</font><br>
 - **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published! Welcome to contribute!
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 - **Dec 2022：**Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
