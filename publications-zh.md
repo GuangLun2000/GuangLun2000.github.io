@@ -6,7 +6,7 @@ title: Publications-zh
 
 ## 数学建模竞赛论文
 
-- [重塑马塞马拉的无上辉煌 (英文)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 徐哲壮 (指导老师)<br>2023年02月美国大学生数学建模竞赛 (MCM-B组，五月出奖)
+- [重塑马塞马拉的无上辉煌 (英文)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 徐哲壮 (指导老师)<br>2023年02月美国大学生数学建模竞赛特等奖提名Finalist (Top 1%)
 
   
 
@@ -18,4 +18,4 @@ title: Publications-zh
 
   
 
-更新时间：2023/03/02 &nbsp;  [English Paper (英文论文)](https://caihanlin.com/publications/)
+更新时间：2023/05/09 &nbsp;  [English Paper (英文论文)](https://caihanlin.com/publications/)
