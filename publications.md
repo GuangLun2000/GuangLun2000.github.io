@@ -16,7 +16,7 @@ Lastest Update: 9th May 2023&nbsp;  [中文版本 (Chinese Version)](https://cai
 
 ## Competition Paper
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper)
+- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>**Finalist Award** (Top 1% of all 20858 paper)
 
 ## Working Paper
 
