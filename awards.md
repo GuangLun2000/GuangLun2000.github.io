@@ -15,7 +15,7 @@ title: Awards
 
 ## Competitions
 
-- May 2023：**Finalist Award** in Mathematical Contest In Modeling (COMAP 2023)
+- May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all **20508** paper)
 - Dec 2022：**First Prize** (Fujian Competition Area) in China Undergraduate Mathematical Contest in Modeling
 - Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
 - Aug 2022： Third Prize in China National College Student Computer Design Competition
