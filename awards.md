@@ -16,6 +16,7 @@ title: Awards
 ## Competitions
 
 - May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all **20508** paper)
+- May 2023：Third Prize in Milan Design Week China Design Exhibition (powered by my girlfriend)
 - Dec 2022：**First Prize** (Fujian Competition Area) in China Undergraduate Mathematical Contest in Modeling
 - Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
 - Aug 2022： Third Prize in China National College Student Computer Design Competition
@@ -39,4 +40,4 @@ title: Awards
 - Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
 - Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College, Fuzhou University
 
-Lastest Update: 7th May 2023 &nbsp; [中文版 (Chinese Version)](https://caihanlin.com/awards-zh/)
+Lastest Update: 10th May 2023 &nbsp; [中文版 (Chinese Version)](https://caihanlin.com/awards-zh/)
