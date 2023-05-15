@@ -1,4 +1,4 @@
-# GuangLun means Nimbus.
+# GuangLun means Nimbus in Chinese
 
 My name is **Hanlin Cai (Lance, 蔡汉霖)**. Here is my personal website. Welcome to fork for free!
 
