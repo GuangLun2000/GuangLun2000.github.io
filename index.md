@@ -17,6 +17,7 @@ My current research focuses on practical problems that artificial intelligence f
 ## News and Updates
 
 - **<font color='red'>[News]</font> I am looking for a Summer Research Intern Position (from June to Sep)!**
+- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Congratulations! We have won the Finalist Award in MCM 2023.
 - **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published! Welcome to contribute.
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
