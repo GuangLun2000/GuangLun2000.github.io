@@ -18,4 +18,4 @@ title: Publications-zh
 
   
 
-更新时间：2023/05/09 &nbsp;  [English Paper (英文论文)](https://caihanlin.com/publications/)
+更新时间：2023/05/09 &nbsp;  [English Version (英文)](https://caihanlin.com/publications/)

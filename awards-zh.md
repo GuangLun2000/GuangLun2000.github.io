@@ -44,4 +44,4 @@ title: Awards-zh
 - 2021年09月-2022年09月：福州大学团委志愿者工作部副部长
 - 2020年09月-2021年09月：福州大学梅努斯国际工程学院班长
 
-更新时间：2023/05/19&nbsp;   [English Version (英文版)](https://caihanlin.com/awards/)
+更新时间：2023/05/21&nbsp;   [English Version (英文)](https://caihanlin.com/awards/)
