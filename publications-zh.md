@@ -16,6 +16,4 @@ title: Publications-zh
 
 - [基于多目标规划模型的交通枢纽最优布局分析](https://caihanlin.com/mypaper/modeling/202206nanwei.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年06月“南威杯”福州大学数学建模竞赛本科组**三等奖**
 
-  
-
 更新时间：2023/05/09 &nbsp;  [English Version (英文)](https://caihanlin.com/publications/)
