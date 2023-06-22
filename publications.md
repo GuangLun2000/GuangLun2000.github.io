@@ -6,11 +6,11 @@ title: Publications
 
 # Publications
 
-Lastest Update: 16th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 20th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
 
 ## Thesis
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Prof. Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab
+- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab
 
 <br>
 
@@ -32,6 +32,6 @@ Lastest Update: 16th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanl
 
 ## Working Paper
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: Prof. Pietro Liò and Dr. Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (16th June 2023)
+- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/))<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)
 
 <br>
