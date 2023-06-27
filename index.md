@@ -12,7 +12,7 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 
 ## Research Interests
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads ([Talk with me](https://calendly.com/lancecai/meet-with-lance))!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [Talk with Lance](https://calendly.com/lancecai/meet-with-lance)
 
 - Industrial IoT System
 - Applied Machine Learning
