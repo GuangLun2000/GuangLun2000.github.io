@@ -14,9 +14,11 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
 
-- **Sep 2020 - June 2024:** Fuzhou University, China (BEng)
-- **Sep 2020 - May 2024:** Maynooth University, Ireland (BSc)
-- **June 2022 - Nov 2022:** Cambridge University, England (Intern)
+- **Sep 2020 - June 2024:** Fuzhou University (BEng)
+- **Sep 2020 - May 2024:** Maynooth University (BSc)
+- **June 2022 - Nov 2022:** Cambridge University (Intern)<br>
+
+---
 
 ## Research Interests
 
