@@ -34,8 +34,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: CV
-    url: https://caihanlin.com/file/Resume-HanlinCAI.pdf
+  - title: Resume
+    url: /file/Resume-HanlinCAI.pdf
   - title: Publications
     url: /publications/
   - title: Projects
