@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## My Blogs
+## Chinese Blogs
 
 ### 2023
 

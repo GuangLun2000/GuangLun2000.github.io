@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 3rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
 
 ## Undergrad Thesis
 
@@ -18,8 +18,6 @@ Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanl
 
 - [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
 
-<br>
-
 ---
 
 ## Competition Paper
@@ -28,6 +26,5 @@ Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanl
 
 ## Working Manuscript
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)
+- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)<br>
 
-<br>

@@ -18,7 +18,7 @@ title: Publications-zh
 
 ## 工业实习论文
 
-- [基于物联网的智慧工厂安全巡检系统](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>蔡汉霖，徐哲壮（指导老师）<br>大三学年工业实习报告（2023/02 - 2023/07）<br>
+- [基于物联网的智慧工厂安全巡检系统](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>大三学年工业实习报告（2023/02 - 2023/07）<br>
 
 
 
