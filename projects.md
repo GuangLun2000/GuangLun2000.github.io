@@ -8,11 +8,12 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#### [OpenIoT: Industrial Inspection System](https://fzuiot.site/)
 
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/images/openiot-system.png">
 </center>
+
 <br>
 
 #### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
@@ -22,10 +23,10 @@ P.S., click the hyperlink title to access the source.<br>
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
+#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
 
 <center>
-<img src="/images/openiot-system.png">
+<img src="/images/resnet-ahp.png">
 </center>
 
 <br>
