@@ -43,3 +43,5 @@ title: Blogs
 {% include disqus.html %} 
 
 <br>
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=bGFuY2VjYWkyMDAy#GuangLun2000/GuangLun2000.github.io&Date" frameBorder="0"></iframe>
