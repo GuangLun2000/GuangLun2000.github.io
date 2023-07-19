@@ -8,6 +8,7 @@ title: Blogs
 
 ### 2023
 
+- [关于数学建模竞赛]()
 - [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
 
 ### 2022
@@ -25,14 +26,6 @@ title: Blogs
 
 - [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
 - [本科博客，笔记，回忆录](https://mieclance.club/)
-
-<br>
-
-## Teaching & Workshops
-
-- [Lance的知乎付费咨询](https://www.zhihu.com/consult/people/1135256969806925824)<br>
-- [数学建模训练营](https://caihanlin.com/blogs/modeling)<br>
-- 本科飞跃计划 (Under Working)
 
 <br>
 
