@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2023
 
-- [关于数学建模竞赛]()
+- [关于数学建模竞赛](https://caihanlin.com/blogs/team2023)
 - [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
 
 ### 2022
