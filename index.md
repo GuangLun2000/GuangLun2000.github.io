@@ -14,12 +14,12 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
 - **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025.
+- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! [Online talk with me](https://calendly.com/lancecai/meet-with-lance)
 
 <br>
 
@@ -28,8 +28,8 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 ## Research Interests
 
 - Industrial IoT System
+- Bluetooth Low Energy
 - Applied Machine Learning
-- Bionic Quadruped Robot
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
