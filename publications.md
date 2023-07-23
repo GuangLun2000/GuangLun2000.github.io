@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 3rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 23rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
 
 ## Undergrad Thesis
 
@@ -26,5 +26,4 @@ Lastest Update: 3rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanli
 
 ## Working Manuscript
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)<br>
-
+- Learning Based Detection System for Spoofing Attack in BLE Networks<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Zhezhuang Xu)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)<br>**Working hard for the upcoming AAAI 2024!**
