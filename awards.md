@@ -21,7 +21,7 @@ title: Awards
 
 ## Competitions
 
-- Aug 2023：**Best technology Award** in National Youth Science Innovation Project Competition
+- Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition
 - July 2023：Third Prize in Fujian College Student Computer Design Competition
 - June 2023：**First Prize (Provincial Championship)** in Fujian Youth Science Innovation Project Competition
 - May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
