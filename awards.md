@@ -41,4 +41,4 @@ title: Awards
 - July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
 - April 2021：Outstanding volunteer at 4th Digital China Summit
 
-Lastest Update: 21th May 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/awards-zh/)
+Lastest Update: 21th May 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/file/awards-zh/)

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /awards-zh/index.html
+permalink: /file/awards-zh/index.html
 title: Awards-zh
 ---
 
