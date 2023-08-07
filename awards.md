@@ -4,6 +4,11 @@ permalink: /awards/index.html
 title: Awards
 ---
 
+## Fundings
+
+- 2023-2024：**($3000)** China National Undergraduate Innovation and Entrepreneurship Training Program
+- 2023-2024：**($1000)** National Youth Science Innovation Project Award
+
 ## Scholarships
 
 - May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
@@ -16,7 +21,9 @@ title: Awards
 
 ## Competitions
 
-- June 2023：**First Prize (Provincial Championship)** in Youth Science Popularization Innovation Project Competition
+- Aug 2023：**Best technology Award** in National Youth Science Innovation Project Competition
+- July 2023：Third Prize in Fujian College Student Computer Design Competition
+- June 2023：**First Prize (Provincial Championship)** in Fujian Youth Science Innovation Project Competition
 - May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
 - Dec 2022：**First Prize** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
 - Oct 2022：Maynooth International Engineering College **Best Student Project** in Academic Year 2022
@@ -27,9 +34,10 @@ title: Awards
 
 ## Honors
 
+- July 2023：Nomination for Baosteel Scholarship (1/1200)
 - May 2023：Outstanding Student Leaders of Fuzhou University
 - Sep 2022：Nomination for China National Scholarship (3/1200)
-- June 2022：Nomination for China Telecom Scholarship (1/900)
+- June 2022：Nomination for China Telecom Scholarship (1/1200)
 - April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
 - May 2021：Merit Student of Fuzhou University
 
@@ -41,4 +49,4 @@ title: Awards
 - July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
 - April 2021：Outstanding volunteer at 4th Digital China Summit
 
-Lastest Update: 21th May 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 7th August 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/file/awards-zh/)

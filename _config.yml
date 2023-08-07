@@ -14,7 +14,7 @@ owner:
   twitter: lancecai2002
   # facebook: caihanlin2002
   github: GuangLun2000
-  linkedin: hanlin-cai-07b53b23b
+  linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
   # lastfm:
@@ -83,5 +83,5 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/05/01 by Hanlin Cai.
+# Latest update in 2023/08/01 by Hanlin Cai.
 # URL: https://caihanlin.com/
