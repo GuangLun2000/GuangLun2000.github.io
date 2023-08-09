@@ -22,8 +22,9 @@ title: Awards
 ## Competitions
 
 - Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition
+- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
 - July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial Championship)** in Fujian Youth Science Innovation Project Competition
+- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
 - May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
 - Dec 2022：**First Prize** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
 - Oct 2022：Maynooth International Engineering College **Best Student Project** in Academic Year 2022
@@ -49,4 +50,4 @@ title: Awards
 - July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
 - April 2021：Outstanding volunteer at 4th Digital China Summit
 
-Lastest Update: 7th August 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 8th August 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/file/awards-zh/)

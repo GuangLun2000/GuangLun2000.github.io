@@ -8,7 +8,7 @@ layout: page
 
 Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a senior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my CV](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my CV](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 <br>
 
@@ -45,5 +45,3 @@ My current research focuses on practical problems that artificial intelligence f
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 - **Sep 2022：**Happy to be nominated for the China National Scholarship.
 - **Jun 2022：**Summer Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-
-<br>

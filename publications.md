@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 7th Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 8th Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
 ## Conference Paper
 
@@ -18,7 +18,7 @@ Lastest Update: 7th Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin
 
 - BLEguard: Deep Learning Based Framework for Spoofing Attacks Detection in BLE IoT Networks<br>**Hanlin Cai**, Zhezhuang Xu<br>**Working hard for the upcoming AAAI 2024!**
 
-
+<br>
 
 ---
 
@@ -29,5 +29,3 @@ Lastest Update: 7th Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin
 ## Undergrad Thesis
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
-
-<br>
