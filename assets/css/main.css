@@ -256,7 +256,7 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 #main:after{clear:both;}
 #main:before,#main:after{content:"";display:table;}
 #main:after{clear:both;}
-#main article{margin:0 auto;width:100%;display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:2em;}
+#main article{margin:0 auto;width:100%;display:inline;float:left;width:89.33333333333334%;margin-left:5.333333333333334%;margin-right:5.333333333333334%;margin-bottom:2em;}
 #index{margin:0 auto;width:100%;display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:2em;}#index article h2{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;margin-bottom:0;}
 #index article p+p{text-indent:0;}
 .image-wrap{position:relative;margin-bottom:2em;}.image-wrap:after{content:" ";display:block;position:absolute;bottom:-1px;left:8%;width:0;height:0;border:20px solid transparent;border-bottom-color:#ffffff;}
