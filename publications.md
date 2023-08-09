@@ -16,7 +16,7 @@ Lastest Update: 8th Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin
 
 ## Working Manuscript
 
-- BLEguard: Deep Learning Based Framework for Spoofing Attacks Detection in BLE IoT Networks<br>**Hanlin Cai**, Zhezhuang Xu<br>**Working hard for the upcoming AAAI 2024!**
+- BLEguard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Zhezhuang Xu<br>**Working hard for the upcoming AAAI 2024!**
 
 <br>
 
