@@ -30,5 +30,5 @@ Lastest Update: 11st Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanli
 
 ## Undergrad Thesis
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>Hanlin Cai (Advisor: Zhezhuang Xu). Under working!<br>Expect to publish in the Internet of Thing Jon
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
+- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final year project, under working!<br>Expect to publish a research paper in Internet of Things Journal (IoTJ 2024)
+- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Thesis in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
