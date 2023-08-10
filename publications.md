@@ -18,7 +18,7 @@ Lastest Update: 11st Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanli
 
 - BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)<br>AAAI Conference on Artificial Intelligence (AAAI 2024, CCF-A). Under review.
 - Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors MDPI Journal (IF: 3.847, JCR Q2). Under review.
-- Multi-Objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>International Conference on Applied Mathematics, Modeling and Computer Simulation. Under review.
+- Multi-Objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>3th International Conference on Applied Mathematics, Modeling and Computer Simulation. Under working.
 
 <br>
 
