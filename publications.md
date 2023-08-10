@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 8th Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 11st Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
 ## Conference Paper
 
@@ -16,7 +16,9 @@ Lastest Update: 8th Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin
 
 ## Working Manuscript
 
-- BLEguard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Zhezhuang Xu<br>**Working hard for the upcoming AAAI 2024!**
+- BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)<br>AAAI Conference on Artificial Intelligence (AAAI 2024, CCF-A). Under review.
+- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors MDPI Journal (IF: 3.847, JCR Q2). Under review.
+- Multi-Objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>International Conference on Applied Mathematics, Modeling and Computer Simulation. Under review.
 
 <br>
 
@@ -28,4 +30,5 @@ Lastest Update: 8th Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin
 
 ## Undergrad Thesis
 
+- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>Hanlin Cai (Advisor: Zhezhuang Xu). Under working!<br>Expect to publish in the Internet of Thing Jon
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
