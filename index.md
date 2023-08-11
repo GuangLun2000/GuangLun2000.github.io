@@ -8,7 +8,7 @@ layout: page
 
 Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my CV](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
 <br>
 
