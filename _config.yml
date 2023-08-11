@@ -34,14 +34,14 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Resume
+  - title: My CV
     url: /file/Resume-HanlinCAI.pdf
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /projects/
   - title: Awards
     url: /awards/
+  - title: Fundings
+    url: /fundings/
   - title: Hobbies
     url: /hobbies/
   - title: Blogs
