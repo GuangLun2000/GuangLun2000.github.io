@@ -19,7 +19,7 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
 - **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! [Online talk with me](https://calendly.com/lancecai/meet-with-lance)
+- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
 
 <br>
 
@@ -45,3 +45,5 @@ My current research focuses on practical problems that artificial intelligence f
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 - **Sep 2022：**Happy to be nominated for the China National Scholarship.
 - **Jun 2022：**Summer Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+
+[Online talk with me.](https://calendly.com/lancecai/meet-with-lance)
