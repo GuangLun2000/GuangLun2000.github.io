@@ -4,11 +4,6 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Fundings
-
-- 2023-2024：**($3000)** China National Undergraduate Innovation and Entrepreneurship Training Program
-- 2023-2024：**($1000)** National Youth Science Innovation Project Award
-
 ## Scholarships
 
 - May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
