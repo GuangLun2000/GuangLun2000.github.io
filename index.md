@@ -18,7 +18,7 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **June 2022 - Nov 2022:** Cambridge University (Visiting)
 - Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
 
 <br>
