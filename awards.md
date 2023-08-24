@@ -6,7 +6,8 @@ title: Awards
 
 ## Scholarships
 
-- May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
+- August 2023：**CEPG Scholarship** (about $1400)<br>Awarded by China Energy and Petrochemical Group
+- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest scholarships in Fujian Province.
 - March 2023：Second Prize Scholarship of FZU ($1400)
 - Sep 2022: Best Student Project Award of Maynooth (€100)
 - Sep 2022：First Prize Scholarship of FZU ($2100)
@@ -45,4 +46,4 @@ title: Awards
 - July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
 - April 2021：Outstanding volunteer at 4th Digital China Summit
 
-Lastest Update: 8th August 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 24th August 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
