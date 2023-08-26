@@ -6,8 +6,8 @@ title: Awards
 
 ## Scholarships
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU.
+- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.<br>Funded by Fujian Energy Petrochemical Group Co., LTD
+- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
 - March 2023：Second Prize Scholarship of FZU ($1400)
 - Sep 2022: Best Student Project Award of Maynooth (€100)
 - Sep 2022：First Prize Scholarship of FZU ($2100)
