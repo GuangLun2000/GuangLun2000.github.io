@@ -4,8 +4,6 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
-
 Lastest Update: 26th Aug 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
 ## Conference Paper
@@ -17,10 +15,12 @@ Lastest Update: 26th Aug 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 ## Working Manuscript
 
 - BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)<br>AAAI Conference on Artificial Intelligence (AAAI 2024, CCF-A). Under review.<br>
+
 - Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors MDPI Journal (IF: 3.847, JCR Q2). Under review.<br>
+
 - Multi-Objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>3th International Conference on Applied Mathematics, Modeling and Computer Simulation. Under working.
 
-<br>
+  <br>
 
 ---
 
@@ -32,5 +32,3 @@ Lastest Update: 26th Aug 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 ## Competition Paper
 
 - [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo (Advisor: Zhezhuang Xu)<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
-
-<br>
