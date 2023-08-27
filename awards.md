@@ -10,8 +10,9 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 - August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
 - May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
+- Oct 2023：Best Academic Performance of Maynooth (€100)
+- Oct 2022：Best Student Project Award of Maynooth (€100)
 - March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022: Best Student Project Award of Maynooth (€100)
 - Sep 2022：First Prize Scholarship of FZU ($2100)
 - March 2022：First Prize Scholarship of FZU ($2100)
 - Sep 2021：Third Prize Scholarship of FZU ($700)
@@ -36,11 +37,11 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 - Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
 - May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of Fuzhou University
+- May 2023：Outstanding Student Leaders of FZU
 - May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship (1/1200)*
-- Sep 2022：*Nomination for China National Scholarship (3/1200)*
-- June 2022：*Nomination for China Telecom Scholarship (1/1200)*<br>
+- July 2023：*Nomination for Baosteel Scholarship*
+- Sep 2022：*Nomination for China National Scholarship*
+- June 2022：*Nomination for China Telecom Scholarship*<br>
 
 ## Services
 
