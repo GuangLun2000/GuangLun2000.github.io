@@ -34,8 +34,8 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 ## Honors
 
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group Co., LTD
-- May 2023：**XiamenAir Scholarship** (about $600)<br>Funded by Xiamen Air
+- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
+- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
 - May 2023：Outstanding Student Leaders of Fuzhou University
 - May 2021：Merit Student of Fuzhou University
 - July 2023：*Nomination for Baosteel Scholarship (1/1200)*
