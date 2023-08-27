@@ -4,6 +4,10 @@ permalink: /awards/index.html
 title: Awards
 ---
 
+Lastest Update: 27th Aug 2023 &nbsp; [中文版本(Chinese Version)](https://caihanlin.com/file/awards-zh/)
+
+---
+
 ## Scholarships
 
 - August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.<br>Funded by Fujian Energy Petrochemical Group Co., LTD
@@ -45,5 +49,3 @@ title: Awards
 - Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
 - July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
 - April 2021：Outstanding volunteer at 4th Digital China Summit
-
-Lastest Update: 26th August 2023 &nbsp; [中文版本(Chinese Version)](https://caihanlin.com/file/awards-zh/)
