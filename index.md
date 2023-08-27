@@ -44,4 +44,4 @@ My current research focuses on practical problems that artificial intelligence f
 - **May 2023：**Collected the Finalist Award in MCM 2023.
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 - **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in collaborating with me, please feel free to [[Online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
