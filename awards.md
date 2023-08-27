@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本(Chinese Version)](https://caihanlin.com/file/awards-zh/)
+<font color='grey'>Lastest Update: 27th Aug 2023 &nbsp; [中文版本(Chinese Version)](https://caihanlin.com/file/awards-zh/)</font>
 
 ## Scholarships
 
@@ -19,17 +19,17 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本(Chinese Version)](https://cai
 
 ## Competitions
 
-- Aug 2023：
-- Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition
+- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
+- <font color='red'>Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition</font>
 - Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
 - July 2023：Third Prize in Fujian College Student Computer Design Competition
 - June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
+- <font color='red'>May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)</font>
 - Dec 2022：**First Prize** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
 - Oct 2022：Maynooth International Engineering College **Best Student Project** in Academic Year 2022
 - Aug 2022： Third Prize in China National College Student Computer Design Competition
 - June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
+- <font color='red'>June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University</font>
 - June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling
 
 ## Honors
