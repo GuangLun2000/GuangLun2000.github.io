@@ -6,8 +6,6 @@ title: Awards
 
 Lastest Update: 27th Aug 2023 &nbsp; [中文版本(Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
----
-
 ## Scholarships
 
 - August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.<br>Funded by Fujian Energy Petrochemical Group Co., LTD
@@ -21,6 +19,7 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本(Chinese Version)](https://cai
 
 ## Competitions
 
+- Aug 2023：
 - Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition
 - Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
 - July 2023：Third Prize in Fujian College Student Computer Design Competition
