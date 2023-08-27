@@ -25,8 +25,8 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 - July 2023：Third Prize in Fujian College Student Computer Design Competition
 - June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
 - May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：**First Prize** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College **Best Student Project** in Academic Year 2022
+- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
+- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
 - Aug 2022： Third Prize in China National College Student Computer Design Competition
 - June 2022：Second Prize in Fujian College Student Computer Design Competition
 - June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
