@@ -59,4 +59,4 @@ title: Awards-zh
 - 2020年09月-2021年09月：福州大学梅努斯国际工程学院班长
 - 2022年09月至今：美国IEEE协会，中国人工智能学会（学生会员）
 
-更新时间：2023/08/26 &nbsp; [English Version (英文)](https://caihanlin.com/awards/)
+更新时间：2023/08/27 &nbsp; [English Version (英文)](https://caihanlin.com/awards/)
