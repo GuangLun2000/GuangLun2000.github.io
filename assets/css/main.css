@@ -261,7 +261,7 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 
 /* Update in 28 Aug 2023 by Hanlin */
 .wide {
-    width: 85% !important;
+    width: 90% !important;
   }
 #main article{margin:0 auto;width:100%;display:inline;float:left;width:90%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:2em;}
 #index{margin:0 auto;width:100%;display:inline;float:left;width:90%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:2em;}#index article h2{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;margin-bottom:0;}
