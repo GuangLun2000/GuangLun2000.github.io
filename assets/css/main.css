@@ -169,7 +169,9 @@ p code{font-size:80%;white-space:nowrap;margin:0 2px;padding:0 5px;border:1px so
 .visible-phone{display:none !important;}
 .visible-tablet{display:none !important;}
 .hidden-desktop{display:none !important;}
-@media (max-width:767px){.visible-phone{display:inherit !important;} .hidden-phone{display:none !important;} .hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important;}}@media (min-width:768px) and (max-width:979px){.visible-tablet{display:inherit !important;} .hidden-tablet{display:none !important;} .hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important ;}}hr{display:block;margin:1em 0;padding:0;height:1px;border:0;border-top:1px solid #ccc;border-bottom:1px solid #fff;}
+/*@media (max-width:767px){.visible-phone{display:inherit !important;} .hidden-phone{display:none !important;} .hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important;}}@media (min-width:768px) and (max-width:979px){.visible-tablet{display:inherit !important;} .hidden-tablet{display:none !important;} .hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important ;}}hr{display:block;margin:1em 0;padding:0;height:1px;border:0;border-top:1px solid #ccc;border-bottom:1px solid #fff;}*/
+/* Update in 28 Aug 2023 by Hanlin */
+@media (max-width:1100px){.visible-phone{display:inherit !important;} .hidden-phone{display:none !important;} .hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important;}}@media (min-width:1100px) and (max-width:1300px){.visible-tablet{display:inherit !important;} .hidden-tablet{display:none !important;} .hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important ;}}hr{display:block;margin:1em 0;padding:0;height:1px;border:0;border-top:1px solid #ccc;border-bottom:1px solid #fff;}
 article img{max-width:100%;height:auto;border-width:0;vertical-align:middle;-ms-interpolation-mode:bicubic;}
 svg:not(:root){overflow:hidden;}
 .half{margin:0 auto;width:100%;*zoom:1;}.half:before,.half:after{display:table;content:"";}
@@ -256,8 +258,15 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 #main:after{clear:both;}
 #main:before,#main:after{content:"";display:table;}
 #main:after{clear:both;}
-#main article{margin:0 auto;width:100%;display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:2em;}
-#index{margin:0 auto;width:100%;display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:2em;}#index article h2{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;margin-bottom:0;}
+
+/* Update in 28 Aug 2023 by Hanlin */
+.wide {
+    width: 85% !important;
+  }
+#main article{margin:0 auto;width:100%;display:inline;float:left;width:90%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:2em;}
+#index{margin:0 auto;width:100%;display:inline;float:left;width:90%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:2em;}#index article h2{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;margin-bottom:0;}
+#index article p+p{text-indent:0;}
+
 #index article p+p{text-indent:0;}
 .image-wrap{position:relative;margin-bottom:2em;}.image-wrap:after{content:" ";display:block;position:absolute;bottom:-1px;left:8%;width:0;height:0;border:20px solid transparent;border-bottom-color:#ffffff;}
 .image-wrap img{width:100%;height:auto;-ms-interpolation-mode:bicubic;}
