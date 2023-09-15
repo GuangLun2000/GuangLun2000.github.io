@@ -14,7 +14,7 @@ Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 ## Working Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors MDPI Journal (IF: 3.847, JCR Q2). Under major modification.<br>
+- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>MDPI Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
 
 - Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
 
