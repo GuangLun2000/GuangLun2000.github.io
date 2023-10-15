@@ -8,7 +8,7 @@ layout: page
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I work as a research assistant in the **IACTIP Lab** (Provincial Key Laboratory), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I work as a research assistant in the **IACTIP Lab** (Provincial Key Laboratory), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer interning at Cambridge University with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team.
 
 <br>
 
@@ -17,9 +17,9 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2020 - June 2024:** Maynooth University (BSc)
+- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- Expect to apply for a one-year Mphil program and graduate in 2025. Looking for PhD position after that.
 
 <br>
 
