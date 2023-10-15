@@ -16,6 +16,12 @@ Lastest Update: 15th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
   <br>
 
+## Journal Paper
+
+- Coming soon... 🚀
+
+  <br>
+
 ## Working Manuscript
 
 - Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
