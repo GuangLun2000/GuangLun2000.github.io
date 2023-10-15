@@ -5,6 +5,8 @@
 <p>{{ site.owner.bio }}</p>
 {% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
 
+{% if site.owner.cv %}<p style="text-indent:0;"><a href="file/{{ site.owner.cv }}"><img src="images/logo/icons8-cv-100.png"></i> CV</a></p>{% endif %}
+
 {% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
 
 {% if site.owner.facebook %}<p style="text-indent:0;"><a href="https://facebook.com/{{ site.owner.facebook }}"><i class="icon-facebook"></i> Facebook</a></p>{% endif %}
@@ -27,6 +29,5 @@
 
 {% if site.owner.researchgate %}<p style="text-indent:0;"><a href="{{ site.owner.researchgate}}"><i class="fa fa-quote-right"></i> ResearchGate</a></p>{% endif %}
 
-{% if site.owner.cv %}<p style="text-indent:0;"><a href="file/{{ site.owner.cv }}"><i class="images/logo/icons8-cv-100.png"></i> CV</a></p>{% endif %}
 
 <!-- Lastly modified by Hanlin CAI in 2023/10/15 -->
