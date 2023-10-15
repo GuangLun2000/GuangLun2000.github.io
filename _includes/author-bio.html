@@ -3,9 +3,10 @@
 <!-- <h4>{{ site.owner.name }}</h4> -->
 
 <p>{{ site.owner.bio }}</p>
-{% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
 
-{% if site.owner.cv %}<p style="text-indent:0;"><a href="{{ site.owner.cv }}"><img src="https://caihanlin.com/images/logo/icons8-cv-100.png" width="18" height="18"></i> CV</a></p>{% endif %}
+{% if site.owner.cv %}<p style="text-indent:0;margin-top:1.5em;"><a href="{{ site.owner.cv }}"><img src="https://caihanlin.com/images/logo/icons8-cv-100.png" width="18" height="18"></i> My CV</a></p>{% endif %}
+
+{% if site.owner.email %}<p style="text-indent:0;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
 
 {% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
 
@@ -28,5 +29,9 @@
 {% if site.owner.researchgate %}<p style="text-indent:0;"><a href="{{ site.owner.researchgate}}"><img src="https://caihanlin.com/images/logo/icons8-rg.png" width="14.2" height="14.2"></i> ResearchGate</a></p>{% endif %}
 
 {% if site.owner.bilibili %}<p style="text-indent:0;"><a href="https://space.bilibili.com/{{ site.owner.bilibili }}"><img src="https://caihanlin.com/images/logo/icons8-retro-tv-100.png" width="15" height="15"></i> Bilibili</a></p>{% endif %}
+
+{% if site.owner.zhihu %}<p style="text-indent:0;"><a href="{{ site.owner.zhihu }}"><img src="https://caihanlin.com/images/logo/" width="15" height="15"></i> Zhihu</a></p>{% endif %}
+
+
 
 <!-- Lastly modified by Hanlin CAI in 2023/10/15 -->
