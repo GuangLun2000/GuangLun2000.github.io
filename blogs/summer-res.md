@@ -6,7 +6,7 @@ title: summer-res
 
 ## Summer Research (Useful Links)
 
-- 关于暑研
+- 暑研扫盲<br>
   - [钢铁是如何炼成的--2020暑研申请总结(一) - 知乎](https://zhuanlan.zhihu.com/p/121826302)
   
   - [海外暑研怎么申请｜盘点十大顶尖暑研项目 - 知乎](https://zhuanlan.zhihu.com/p/468848052)
@@ -19,7 +19,7 @@ title: summer-res
   
     <br>
   
-- 关于陶瓷
+- 如何套瓷<br>
   - [暑研陶瓷经验分享 【附陶瓷模板】 ｜一亩三分地研究生申请版](https://www.1point3acres.com/bbs/thread-496880-1-1.html)
   
   - [【干货+案例分析】套磁信=情书，教你写出让教授“一见钟情”的套磁信！ - 知乎](https://zhuanlan.zhihu.com/p/102099443)
@@ -36,7 +36,7 @@ title: summer-res
   
     <br>
   
-- 欧陆项目
+- 欧陆暑研项目<br>
   - [奥地利 Graduate School Homepage ISTA](https://phd.pages.ist.ac.at/isternship/)
   
   - [CERN  ｜Summerstudent page](https://summerstudent.web.cern.ch/)
@@ -57,7 +57,7 @@ title: summer-res
   
     <br>
   
-- 亚太项目
+- 亚太暑研项目<br>
   - [沙特 KAUST｜VSPR](https://vsrp.kaust.edu.sa/internship/search)
   
   - [Secure Next Generation Resilient Systems Lab  ｜SENTRY  ｜Secure Next Generation Resilient Systems Lab](https://cemse.kaust.edu.sa/sentry)
@@ -68,7 +68,9 @@ title: summer-res
   
     <br>
   
-- UK Summer
+- 英国暑研项目<br>
+  - PS：英国暑研机会不多，位置紧张，基本上都给欧洲人了
+  
   - [暑期研究计划  ｜剑桥国王学院](https://www.kings.cam.ac.uk/study/summer-research-programme)
   
   - [How to Apply  ｜Pembroke｜剑桥线上项目](https://www.pem.cam.ac.uk/international-programmes/pembroke-cambridge-summer-programme/how-to-apply)
@@ -77,7 +79,11 @@ title: summer-res
   
     <br>
   
-- USA Summer
+- 美帝暑研项目<br>
+  - PS：注意，因笔者并没有投递美国地区的申请，因此这里给出的链接较少
+  
+  - 美帝很多学校都有提供官方带奖暑研，建议读者朋友自行Google
+  
   - [USA Summer  ｜University of Notre Dame](https://gep.nd.edu/find-a-program/summer-programs/undergraduate-research/)
   
   - [USA Caltech  ｜Student-Faculty Programs](https://sfp.caltech.edu/programs/surf/application_information)
@@ -90,7 +96,7 @@ title: summer-res
   
     <br>
   
-- 香港澳门链接
+- 香港澳门链接<br>
   - [SURP 申请  ｜香港中文大学暑期课程](https://www.summer.cuhk.edu.hk/surp_app/)
   
   - [HKUST 港科大 Undergraduate Admissions](https://join.hkust.edu.hk/applyugvisiting)
