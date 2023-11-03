@@ -10,7 +10,8 @@ title: Blogs
 
 - [21岁，何妨吟啸且徐行](https://caihanlin.com/blogs/21yrs)<br>
 - [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)<br>
-- [极简风个人网站搭建指南（完结）](https://caihanlin.com/blogs/web)
+- [海外暑期科研指南 (Useful Links)](https://caihanlin.com/blogs/modeling/summer-res)<br>
+- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
 
 ### 2022
 
