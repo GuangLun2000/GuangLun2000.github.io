@@ -74,7 +74,7 @@ title: summer-res
   
 - ### 英国暑研项目<br>
   
-  - PS：英国暑研机会不多，位置紧张，基本上都给欧洲人了
+  - PS：英国暑研机会不多，位置紧张，基本上都给欧洲人了。对澳洲感兴趣的朋友，可以关注一下澳洲八大，基本上也都有带奖暑研项目。
   
   - [暑期研究计划  ｜剑桥国王学院](https://www.kings.cam.ac.uk/study/summer-research-programme)
   
@@ -86,9 +86,7 @@ title: summer-res
   
 - ### 美帝暑研项目<br>
   
-  - PS：注意，因笔者并没有投递美国地区的申请，因此这里给出的链接较少
-  
-  - 美帝很多学校都有提供官方带奖暑研，建议读者朋友自行Google
+  - PS：注意，因笔者并没有投递美国地区的申请，因此这里给出的链接较少。然而美帝很多学校都有提供官方带奖暑研，建议读者朋友自行Google
   
   - [USA Summer  ｜University of Notre Dame](https://gep.nd.edu/find-a-program/summer-programs/undergraduate-research/)
   
