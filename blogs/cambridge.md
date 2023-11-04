@@ -61,7 +61,7 @@ title: Cambridge
 
 ### 同期的故事
 
-暑研的同期，把大二下学期搞的那篇 [IoT-System](https://caihanlin.com/mypaper/202208cenim.pdf) 的文章给投了，稀里糊涂中的某IEEE亚洲水会，虽然水的一批，但总算是有自己的第一篇文章。
+暑研的同期，把大二下学期搞的那篇 [IoT-System](https://caihanlin.com/mypaper/202208cenim.pdf) 的文章给投了，稀里糊涂中的某IEEE亚洲水会，虽然水的一批，但总算是完成了自己的第一段经历。
 
 <br>同时，大三学年停掉了一切学生工作之后，终于可以静下心来学习、读论文、做自己真正喜欢的事情了。大三上，拿到了本科生涯第1次专业第一（GPA3.97），开始做[第二篇文章](https://caihanlin.com/mypaper/202302ICAROB.pdf)并投稿，达到了舒适的**Work-Life-Balance**，总而言之，我逐渐达到了自己所向往的生活。
 
@@ -73,15 +73,13 @@ title: Cambridge
 
 ### 关于暑研做的东西
 
-最后还是想简单总结一下这次暑研做的东西：**RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach**
+最后还是想简单总结一下这次暑研做的东西。
 
 <br>整体思路很大程度上参考了这篇：SCADA System Testbed for Cybersecurity Research Using Machine Learning Approach（连标题都是模仿的，这个系列作者的工作可读性很强）
 
 <br>总之，我们的工作是依照之前实现的 IoT-System 进行魔改，目的是把这个现成的System整合成一个Physical Testbed，然后对其实施定向多源安全攻击（Mutiple-Mixed-Attacks，通过现成的工具实施攻击，抓包也是现成的工具）
 
-<br>进一步，在攻击过程中，捕捉Traffic Activities，提取Traffic Features，最后对数据进行挖掘分析、打标签并汇总，用于后续的训练测试。最后，我们选用了5个不同类型的ML模型来进行训练、测试验证。附上Abstract：
-
-> This paper proposes a real-time intelligent garbage monitoring system (RIGMS) testbed for IoT cybersecurity research. The testbed is established by realistic devices in the physical world, which is a stage in the process of municipal waste disposal. Multiple-mix-attacks were conducted based on the testbed. During the attack scenarios, the network activities were analyzed, and the traffic features were extracted to design a representative RIGMS dataset for training and verifying the authenticity of the machine learning based models. In this paper, five advanced ML models were utilized to detect the cyber-attacks. Experiment results verified the feasibility of implementing learning based models to detect multiple-mix-attacks.
+<br>进一步，在攻击过程中，捕捉Traffic Activities，提取Traffic Features，最后对数据进行挖掘分析、打标签并汇总，用于后续的训练测试。最后，我们选用了5个不同类型的ML模型来进行训练、测试验证。
 
 <br>最后上几张图吧：
 
@@ -135,6 +133,4 @@ title: Cambridge
 
 
 > 谢谢你看到这里，改天再更。
-
-
 

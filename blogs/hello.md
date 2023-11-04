@@ -1,11 +1,10 @@
 ---
 layout: page
-permalink: /blogs/hello/index.html
-title: hello
+permalink: /blogs/friends/index.html
+title: Friends
 ---
 
-## Hello Blogs
+## Friends
 
-<br>[人间正道是沧桑](https://lijinzhang.com/)
-
-<br>[何妨吟啸且徐行](https://www.zackwu.com/)
+- [Lijing Zhang](https://lijinzhang.com/)
+- [Zack Wu](https://www.zackwu.com/)
