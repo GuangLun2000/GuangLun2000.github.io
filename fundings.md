@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /fundings/index.html
-title: Fundings
+permalink: /teams/index.html
+title: Teams
 ---
 
 ## Fundings
