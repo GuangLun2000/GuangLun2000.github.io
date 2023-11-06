@@ -45,16 +45,16 @@ title: Lance Club
 
 ---
 
+<br>
+
 ### 合作团队
 
-- 厦门大学 DUI队
-  - 签约时间：2023/11/06
+- 厦门大学D队
+  - Zhou Zhang, Yiwei Zhang, Zhekai Yin
+  - 2023/11/06
+- 福州大学
 
 
 
-
-
-
-
-
+<br>
 
