@@ -19,15 +19,18 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 
 <br>
 
+---
+
 ## Group Photos
+
+<br>
 
 <left>
   <img src = "https://p.ipic.vip/l97lne.jpg">
 </left>
 
 
-
-<br><br>
+<br>
 
 <div class="third">
 <img src="https://p.ipic.vip/04r3o2.jpg">
@@ -35,10 +38,5 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 <img src="https://p.ipic.vip/js0zdy.jpg">
 </div>
 
-<br>
-
-```tex
-本科期间，我和两位室友共同创办了一支名为OpenIoT的技术小组，我们怀揣着技术创业的理想，参加了许多创新创业竞赛。截止2023年，OpenIoT团队一共拥有24名正式成员，累计获得了6项国家级竞赛奖项。如果你对物联网、AIGC、机器人感兴趣，欢迎你加入OpenIoT！Link: https://fzuiot.site/
-```
 
 <br>
