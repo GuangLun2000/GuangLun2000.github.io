@@ -49,10 +49,14 @@ title: Lance Club
 
 ### 合作团队
 
-- 厦门大学D队
+- 厦门大学#1
   - Zhou Zhang, Yiwei Zhang, Zhekai Yin
   - 2023/11/06
-- 福州大学
+- 福州大学#2
+  - Honglin Liao, Jiacheng Huang, Wenzhuo Fan
+  - 2023/11/08
+
+- 福州大学#3
 
 
 
