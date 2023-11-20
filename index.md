@@ -41,7 +41,6 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
 - **Aug 2023：**Happy to be awarded the FEPG Scholarship.
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
