@@ -10,9 +10,9 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 
 <br>
 
-## OpenIoT News
+## Team News
 
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
+- **Sep 2023：**Our work [Defender](https://fzuiot.site/) has been reported by [Youth of FZU (News)](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
 - **May 2023：**If you are interested in the IoT, robotics, or AIGC, we welcome you to [join OpenIoT](https://fzuiot.site/english/).
 
 <br>
@@ -42,8 +42,9 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 <div class="third">
 <img src="https://p.ipic.vip/3g1514.jpg">
 <img src="https://p.ipic.vip/9mnzf6.jpg">
-<img src="https://p.ipic.vip/js0zdy.jpg">
+<img src="https://p.ipic.vip/04r3o2.jpg">
 </div>
+
 
 
 
