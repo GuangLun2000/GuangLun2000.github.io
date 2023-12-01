@@ -8,7 +8,7 @@ title: 24Fall申请记录
 
 笔者在2023年底的申请季中，一共申请了英国的7所学校，共计11个项目。
 
-按照申请投递时间，排序如下：
+<br>按照申请投递时间，排序如下：
 
 - University of Manchester 🎊
 - Imperial College London
