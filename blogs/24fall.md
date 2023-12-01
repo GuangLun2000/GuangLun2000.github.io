@@ -20,11 +20,23 @@ title: 24Fall申请记录
 
 
 
-<br><br>
+<br>
+
+----
+
+## Background
+
+首先按照惯例
+
+
+
+
+
+
 
 ---
 
-### University of Manchester (offered)
+## University of Manchester (offered)
 
 - 10.19 Submitted
 - 10.20 Application Received
@@ -38,7 +50,7 @@ title: 24Fall申请记录
 
 ---
 
-### Imperial College London
+## Imperial College London
 
 - 10.22 Submitted
 - 10.27 With department
@@ -47,7 +59,7 @@ title: 24Fall申请记录
 
 ----
 
-### University College London
+## University College London
 
 - 11.01 Submitted
 
@@ -57,7 +69,7 @@ title: 24Fall申请记录
 
 ---
 
-### King’s College London
+## King’s College London
 
 - 11.01 Submitted
 
@@ -65,7 +77,7 @@ title: 24Fall申请记录
 
 ---
 
-### University of Edinburgh
+## University of Edinburgh
 
 - 11.06 Submitted
 
@@ -75,7 +87,7 @@ title: 24Fall申请记录
 
 ---
 
-### University of Cambridge
+## University of Cambridge
 
 - 12.05
 
@@ -83,7 +95,7 @@ title: 24Fall申请记录
 
 ---
 
-### University of Oxford
+## University of Oxford
 
 - 12.12
 
