@@ -39,7 +39,7 @@ title: 24Fall申请记录
 - 10.22 Submitted
 - 10.27 With department
 
-
+<br>
 
 ----
 
@@ -49,7 +49,7 @@ title: 24Fall申请记录
 
 
 
-
+<br>
 
 ---
 
@@ -57,7 +57,7 @@ title: 24Fall申请记录
 
 - 11.01 Submitted
 
-
+<br>
 
 ---
 
@@ -65,7 +65,7 @@ title: 24Fall申请记录
 
 - 11.06 Submitted
 
-
+<br>
 
 
 
@@ -75,7 +75,7 @@ title: 24Fall申请记录
 
 - 12.05
 
-
+<br>
 
 ---
 
@@ -83,12 +83,14 @@ title: 24Fall申请记录
 
 - 12.12
 
-
+<br>
 
 ---
 
 ### Overall
 
 
+
+<br>
 
 <br>
