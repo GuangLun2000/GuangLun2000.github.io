@@ -6,12 +6,16 @@ title: Blogs
 
 ## Chinese Blogs
 
+### 2024
+
+- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
+
 ### 2023
 
 - [21岁，何妨吟啸且徐行](https://caihanlin.com/blogs/21yrs)<br>
-- [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)<br>
-- [海外暑期科研指南](https://caihanlin.com/blogs/summer-res)<br>
-- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
+- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
+- [海外暑研申请指南](https://caihanlin.com/blogs/summer-res)<br>
+- [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)
 
 ### 2022
 
@@ -42,3 +46,7 @@ title: Blogs
 ## Web Star History
 
 [Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
+
+<br>
