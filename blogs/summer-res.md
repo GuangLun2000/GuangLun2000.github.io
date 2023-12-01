@@ -8,6 +8,8 @@ title: summer-res
 
 - ### 暑研扫盲<br>
   
+  - 这些文章值得一读，不全对，请保持批判性思维
+  
   - [钢铁是如何炼成的--2020暑研申请总结(一) - 知乎](https://zhuanlan.zhihu.com/p/121826302)
   
   - [海外暑研怎么申请｜盘点十大顶尖暑研项目 - 知乎](https://zhuanlan.zhihu.com/p/468848052)
@@ -21,6 +23,8 @@ title: summer-res
     <br>
   
 - ### 如何套瓷<br>
+  
+  - 笔者翻译的文章：[【熟肉】如何正确地找心仪老师套瓷？](https://zhuanlan.zhihu.com/p/661528840)
   
   - [暑研陶瓷经验分享 【附陶瓷模板】 ｜一亩三分地研究生申请版](https://www.1point3acres.com/bbs/thread-496880-1-1.html)
   
@@ -74,7 +78,9 @@ title: summer-res
   
 - ### 英国暑研项目<br>
   
-  - PS：英国暑研机会不多，位置紧张，基本上都给欧洲人了。对澳洲感兴趣的朋友，可以关注一下澳洲八大，基本上也都有带奖暑研项目。
+  - PS：英国暑研机会不多，位置紧张，基本上都给欧洲人了
+  
+  - 对澳洲感兴趣的朋友，可以关注一下澳洲八大，基本上也都有带奖暑研项目
   
   - [暑期研究计划  ｜剑桥国王学院](https://www.kings.cam.ac.uk/study/summer-research-programme)
   
@@ -86,7 +92,9 @@ title: summer-res
   
 - ### 美帝暑研项目<br>
   
-  - PS：注意，因笔者并没有投递美国地区的申请，因此这里给出的链接较少。然而美帝很多学校都有提供官方带奖暑研，建议读者朋友自行Google
+  - PS：注意，因笔者并没有投递美国地区的申请，因此这里给出的链接较少
+  
+  - 然而美帝很多学校都有提供官方带奖暑研，建议读者朋友自行Google
   
   - [USA Summer  ｜University of Notre Dame](https://gep.nd.edu/find-a-program/summer-programs/undergraduate-research/)
   
@@ -122,6 +130,6 @@ title: summer-res
   
     <br>
 
-<br>Organized by [Hanlin CAI](https://caihanlin.com/), update in Nov. 2023.
+<br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Nov 2023.
 
 <br>
