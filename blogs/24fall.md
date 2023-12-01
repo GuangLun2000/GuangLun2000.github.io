@@ -18,8 +18,6 @@ title: 24Fall申请记录
 - University of Cambridge
 - University of Oxford
 
-
-
 <br>
 
 ----
@@ -35,7 +33,7 @@ title: 24Fall申请记录
 - **竞赛：**数学建模美赛一等奖，另外有4个国内比赛的国家级奖项
 - **其他条件：**国家级大创基金SRT，厦航奖学金，能化奖学金
 
-
+<br>
 
 ---
 
@@ -49,7 +47,7 @@ title: 24Fall申请记录
 
 <br>第二志愿投的是：MSc Advanced Manufacturing Technology & Systems Management
 
-
+<br>
 
 ---
 
