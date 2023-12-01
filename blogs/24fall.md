@@ -43,9 +43,11 @@ title: 24Fall申请记录
 - 10.20 Application Received
 - 11.30 Conditional Offer 🎊
 
-第一志愿直接录取：MSc Advanced Control and Systems Engineering
+曼大今年不需要申请费，也不要求PS文书和推荐信，非常友好，最早地发来了第一封offer
 
-<br>第二志愿投的是：MSc Advanced Manufacturing Technology & Systems Management
+<br>第一志愿直接录取：MSc Advanced Control and Systems Engineering
+
+<br>笔者第二志愿投的是：MSc Advanced Manufacturing Technology & Systems Management
 
 <br>
 
@@ -55,6 +57,7 @@ title: 24Fall申请记录
 
 - 10.22 Submitted
 - 10.27 With department
+- 10.31 Two References Reveived
 
 <br>
 
@@ -63,6 +66,8 @@ title: 24Fall申请记录
 ## University College London
 
 - 11.01 Submitted
+- 11.02 Application Received
+- 11.07 Two References Reveived
 
 
 
@@ -73,6 +78,7 @@ title: 24Fall申请记录
 ## King’s College London
 
 - 11.01 Submitted
+- 11.01 Application Received
 
 <br>
 
@@ -81,6 +87,7 @@ title: 24Fall申请记录
 ## University of Edinburgh
 
 - 11.06 Submitted
+- 11.08 Application Received
 
 <br>
 
