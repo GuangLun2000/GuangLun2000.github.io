@@ -6,6 +6,16 @@ title: summer-res
 
 ## Summer Research (Useful Links)
 
+又到一年十二月，很多海外高校陆陆续续开放2024年度的官方暑研申请了，去年在知乎、一亩三分地等平台获得了很多有益的资讯，今年也来回馈一下社区。
+
+笔者在2022年底投递了包括[Mitacs](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), [CERN](https://careers.cern/students), [UWA Summer](https://www.uwa.edu.au/study/courses-and-careers/short-courses/uwa-summer-down-under), [ETH Zurich Summer](https://inf.ethz.ch/studies/summer-research-fellowship.html)等共计6个官方暑研项目，并套瓷了3个暑期研究助理职位。最终拿到了1个官方项目的录取，以及1份远程RA的接收。因为签证的原因，笔者最终选择了后者。
+
+下面，笔者分享了值得一读的文章，以及去年收集的超过20个学校的官方暑研项目链接，供大家参考。需要注意的是，每所学校，每个项目，每年的政策和招录指标都不尽相同。
+
+如果读者希望获取最新的讯息，建议使用Google搜索：**“对应学校+Summer Reserach Internship Programme”**
+
+---
+
 - ### 暑研扫盲<br>
   
   - 这些文章值得一读，不全对，请保持批判性思维
@@ -90,11 +100,13 @@ title: summer-res
   
     <br>
   
-- ### 美帝暑研项目<br>
+- ### 北美暑研项目<br>
   
   - PS：注意，因笔者并没有投递美国地区的申请，因此这里给出的链接较少
   
   - 然而美帝很多学校都有提供官方带奖暑研，建议读者朋友自行Google
+  
+  - 加拿大：[Mitacs+CSC联合全奖项目](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)
   
   - [USA Summer  ｜University of Notre Dame](https://gep.nd.edu/find-a-program/summer-programs/undergraduate-research/)
   
@@ -104,7 +116,7 @@ title: summer-res
   
   - [USA School of Engineering  ｜Vanderbilt University 范德堡大学](https://engineering.vanderbilt.edu/summer-research/index.php)
   
-  - [USA* Robotics Institute Summer Scholars (RISS)](https://riss.ri.cmu.edu/)
+  - [USA Robotics Institute Summer Scholars (RISS)](https://riss.ri.cmu.edu/)
   
     <br>
   
