@@ -4,9 +4,9 @@ permalink: /blogs/24fall/index.html
 title: 24Fall申请记录
 ---
 
-## 2024-Fall 英国硕士项目申请记录
+## 2024-Fall 英国硕士项目申请实录
 
-笔者在2023年底的申请季中，一共投递了英国的7所学校，共计11个项目，申请顺序如下：
+笔者在2023年底的申请季中，一共申请了英国的7所学校，共计11个项目。投递时间顺序如下：
 
 - University of Manchester
 - Imperial College London
@@ -18,37 +18,34 @@ title: 24Fall申请记录
 
 
 
+---
+
+### University of Manchester (offered)
+
+- 10.19 Submitted
+- 10.20 Application Received
+- 11.30 Conditional Offer ✔️
+
+第一志愿直接录取：MSc Advanced Control and Systems Engineering
+
+<br>第二志愿投的是：MSc Advanced Manufacturing Technology & Systems Management
+
 
 
 ---
 
-### University of Manchester (10.19)
+### Imperial College London
 
-
-
-
-
----
-
-### Imperial College London (10.22)
-
-
+- 10.22 Submitted
+- 10.27 With department
 
 
 
 ----
 
-### University College London (11.01)
+### University College London
 
-
-
-
-
-
-
----
-
-### King’s College London (11.01)
+- 11.01 Submitted
 
 
 
@@ -56,9 +53,17 @@ title: 24Fall申请记录
 
 ---
 
-### University of Edinburgh (11.06)
+### King’s College London
+
+- 11.01 Submitted
 
 
+
+---
+
+### University of Edinburgh
+
+- 11.06 Submitted
 
 
 
@@ -66,9 +71,9 @@ title: 24Fall申请记录
 
 ---
 
-### University of Cambridge (12.05)
+### University of Cambridge
 
-
+- 12.05
 
 
 
@@ -76,12 +81,14 @@ title: 24Fall申请记录
 
 ### University of Oxford
 
-
-
-
+- 12.12
 
 
 
 ---
 
-### 关于未来
+### Overall
+
+
+
+<br>
