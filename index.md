@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="HgZnCH3.github.io/hzc.jpg" class="floatpic" width="360" height="480">
+<img src="https://github.com/HgZnCH3/HgZnCH3.github.io/blob/b6f6a72f234519c102357f1f479bfe0f49cc29c4/hzc.jpg" class="floatpic" width="360" height="480">
 
 Welcome to my website :)
 
