@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /Gallery/index.html
+title: Gallery
 ---
 
-# Hobbies
+# Gallery
 
 ## Swimming & Surfing
 
