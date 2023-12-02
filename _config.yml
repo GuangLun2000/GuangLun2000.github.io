@@ -38,20 +38,21 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: ga
-    url: /gallery/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
   - title: Teams
     url: /teams/
-  - title: Gallery
-    url: /Gallery/
-  #- title: Notes
-    #url: /notes/
   - title: Blogs
     url: /blogs/
+  - title: Gallery
+    url: /Gallery/
+  - title: ga
+    url: /gallery/
+  #- title: Notes
+    #url: /notes/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
