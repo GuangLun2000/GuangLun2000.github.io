@@ -38,18 +38,18 @@ owner:
 links:
   - title: About Me
     url: /
+  - title: ga
+    url: /gallery/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
   - title: Teams
     url: /teams/
-  - title: ga
-    url: /gallery/
   - title: Gallery
     url: /Gallery/
-  - title: Notes
-    url: /notes/
+  #- title: Notes
+    #url: /notes/
   - title: Blogs
     url: /blogs/
 
