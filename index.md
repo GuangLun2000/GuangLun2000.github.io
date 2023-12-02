@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://zichenhong.com/hzc.jpg" class="floatpic" width="360" height="480">
+<img src="HgZnCH3.github.io/hzc.jpg" class="floatpic" width="360" height="480">
 
 Welcome to my website :)
 
