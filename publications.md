@@ -8,8 +8,6 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 ## Conference Paper
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
-
 - [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
 
 - [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
@@ -18,7 +16,8 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 ## Journal Paper
 
-- Coming soon... 🚀
+- [Assessment of Drug Susceptibility for Patient-Derived Tumor Models through Lactate Biosensing and Machine Learning](https://www.researchgate.net/publication/368509753_Assessment_of_Drug_Susceptibility_for_Patient-Derived_Tumor_Models_through_Lactate_Biosensing_and_Machine_Learning)<br>Jingfeng Zhang†, **Zichen Hong†**, Wei Lu, Tianyuan Fang, Yongan Ren, Shenyi Yin, Qijia Xuan, Dezhi Li*, Jianzhong Jeff Xi*, and Bo Yao*. <br>*ACS Sensors*. 2023 8 (2), 803-810.
+
 
   <br>
 
