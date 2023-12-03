@@ -28,16 +28,12 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://H
 - 2019: Outstanding Student
 - 2019: the Gold Award for “China Education Support Project: Chinese College Students Rural Teaching Support Award” <br>(Only two teams nationwide)
 - 2019: Excellent Public Welfare Service Model
-- 2019-2021: Excellent Academic Model(3 times)
+- 2019-2021: Excellent Academic Model (3 times)
   
 ## Services
 
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit
+- 09/2022 - present：Class Monitor of 2022 Graduate Students
+- 11/2020：To be awarded Five-star Volunteer
 - 01/2020 – 09/2021: Chairman of Science Popularization Office, Department of Chemistry, ZJU	
 - 09/2019 – 01/2020: Director of the Rights and Services Department of the Student Union of the Department of Chemistry, ZJU
 - 07/2019 – 08/2019: Team member of Summer Teaching Support Team of Peasant Rural and Agriculture Association (PRAA), ZJU		
