@@ -8,41 +8,28 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://H
 
 ## Scholarships
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+- 2023：China National Petroleum Corporation (CNPC) Scholarship (for all-round ability, awards to 2 out of 425 students, CNY 8000)
+- 2021: Top Scholarship for Basic Disciplines (awards to 2 out of 21 students, CNY 5000)
+- 2021: Second Class Scholarship of Zhejiang University (for all-round ability, Top 8%, CNY 4000)	
+- 2019: Zhejiang Provincial Government Scholarship (for all-round ability, Top 3%, CNY 6000)
+- 2019: First Class Scholarship of Zhejiang University (for all-round ability, Top 3%, CNY 6000)
+- 2019: First Class of Tianxing Freshman Scholarship (awards to 10 out of 83 students, CNY 10000)
+
 
 ## Competitions
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+- 2021: **<font color='red'>First Place</font>** for “the 15th Shanghai College Student Chemistry Experiment Competition” in Shanghai
+- 2017: Second Prize of the 31st Chinese Chemistry Olympiad (Zhejiang Province)	
 
 ## Honors
-
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
-
+- 2023: Outstanding Graduate Student
+- 2023: Excellent Teaching Assistant
+- 2022: Outstanding Graduates of Zhejiang University	
+- 2019: Outstanding Student
+- 2019: the Gold Award for “China Education Support Project: Chinese College Students Rural Teaching Support Award” <br>(Only two teams nationwide)
+- 2019: Excellent Public Welfare Service Model
+- 2019-2021: Excellent Academic Model(3 times)
+  
 ## Services
 
 - Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
@@ -50,4 +37,7 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://H
 - Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
 - April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
 - July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
+- April 2021：Outstanding volunteer at 4th Digital China Summit
+- 01/2020 – 09/2021: Chairman of Science Popularization Office, Department of Chemistry, ZJU	
+- 09/2019 – 01/2020: Director of the Rights and Services Department of the Student Union of the Department of Chemistry, ZJU
+- 07/2019 – 08/2019: Team member of Summer Teaching Support Team of Peasant Rural and Agriculture Association (PRAA), ZJU		
