@@ -33,7 +33,7 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://H
 ## Services
 
 - 09/2022 - present：Class Monitor of 2022 Graduate Students
-- 11/2020：To be awarded Five-star Volunteer
+- 11/2020：To be awarded Five-star Volunteer, ZJU
 - 01/2020 – 09/2021: Chairman of Science Popularization Office, Department of Chemistry, ZJU	
 - 09/2019 – 01/2020: Director of the Rights and Services Department of the Student Union of the Department of Chemistry, ZJU
 - 07/2019 – 08/2019: Team member of Summer Teaching Support Team of Peasant Rural and Agriculture Association (PRAA), ZJU		
