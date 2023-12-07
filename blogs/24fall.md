@@ -109,7 +109,7 @@ KCL的申请系统设计得很丝滑，提交申请非常舒服😎
 - 12.05 Submitted
 - 12.05 Two References Reveived
 
-卡着Funding deadline提交了申请，写推荐新的教授们太给力了，当天两封reference全部集齐，顺利提交🥳
+卡着Funding deadline提交了申请，写推荐信的教授们太给力了，当天两封reference全部集齐，顺利提交🥳
 
 <br>这个申请季**最喜欢、也最重要的一个项目**，希望一切顺利吧！静侯佳音。
 
@@ -119,9 +119,9 @@ KCL的申请系统设计得很丝滑，提交申请非常舒服😎
 
 ## University of Oxford
 
-<br>要不要交一个试试呢～正在考虑
 
-<br>
+
+<br><br>
 
 ---
 
