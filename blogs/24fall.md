@@ -11,12 +11,12 @@ title: 24Fall申请记录
 <br>按照申请投递时间，排序如下：
 
 - University of Manchester 🎊
-- Imperial College London
-- University College London
-- King’s College London
-- University of Edinburgh
-- University of Cambridge
-- University of Oxford
+- Imperial College London 
+- University College London 
+- King’s College London 
+- University of Edinburgh 
+- University of Cambridge 
+- University of Oxford 
 
 <br>
 
@@ -64,6 +64,9 @@ title: 24Fall申请记录
 - 10.22 Submitted
 - 10.27 With department
 - 10.31 Two References Reveived
+- 12.12 Review in progress
+
+12月12号，IC系统状态从With department变成了Review in progress，看到小红书说是录取的有利信号。
 
 <br>
 
@@ -74,6 +77,8 @@ title: 24Fall申请记录
 - 11.01 Submitted
 - 11.02 Application Received
 - 11.07 Two References Reveived
+
+
 
 <br>
 
@@ -98,7 +103,7 @@ KCL的申请系统设计得很丝滑，提交申请非常舒服😎
 - 11.06 Submitted
 - 11.08 Application Received
 
-爱丁堡，不需要申请费，推荐信可以学生自行提交，唯一一所要reference，但不需要网推的。
+爱丁堡，不需要申请费。推荐信可以学生自行提交，唯一一所要reference但不用网推的。
 
 <br>
 
