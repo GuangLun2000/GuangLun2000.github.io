@@ -11,7 +11,7 @@ title: 24Fall申请记录
 <br>按照申请投递时间，排序如下：
 
 - University of Manchester 🎊
-- Imperial College London 
+- Imperial College London 🎊
 - University College London 
 - King’s College London 
 - University of Edinburgh 
@@ -32,7 +32,6 @@ title: 24Fall申请记录
 - **语言：**雅思 7.0 (6.0) --> 7.5，无GRE
 - **论文：**1篇EI期刊，1篇IEEE水会，1篇ccf-a顶会在审，1篇SCI二区在审（均一作）
 - **竞赛：**数学建模美赛一等奖，另外有4个国内比赛的国家级奖项
-
 - 1项国家级大创基金SRT，厦航奖学金，能化奖学金，N个校内奖学金
 - **整体经历：**校内科研2段，工业实习1段，剑桥暑研1段
 - **推荐信：**校内实验室大老板强推，海本的副院长强推，海本的AP强推
@@ -65,8 +64,13 @@ title: 24Fall申请记录
 - 10.27 With department
 - 10.31 Two References Reveived
 - 12.12 Review in progress
+- 12.15 Conditional Offer 🎊
 
 12月12号，IC系统状态从With department变成了Review in progress，看到小红书说是录取的有利信号。
+
+<br>15号收到了con-offer，要求我的陆本均分85+，海本均分二等一(65+)，雅思7(6.5)
+
+<br>第一志愿顺利录取Security and Resilience: Science and Technology，第二志愿填的是Control and Optimisation
 
 <br>
 
