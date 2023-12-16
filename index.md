@@ -41,12 +41,12 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada 🇨🇦
-- **Dec 2023：**Got an MSc offer from the physics department at Imperial College London 🇬🇧
+- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada! 🇨🇦
+- **Dec 2023：**Got a MSc offer from the physics department at Imperial College London 🇬🇧
 - **Aug 2023：**Happy to be awarded the FEPG Scholarship 🇨🇳
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship 🇨🇳
 - **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%) 🇺🇸
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan 🇯🇵
+- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan! 🇯🇵
 - **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò 🇬🇧
 
 <br>
