@@ -8,16 +8,16 @@ Lastest Update: 18th Dec 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 ## Scholarships
 
-- Dec 2023：**<font color='red'>AAAI-24 Undergraduate Scholarship ($2000)</font>**
+- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($2000)<br>Only 12 undergraduates are selected each year.
 - Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU.
 - May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
 - Oct 2023：Best Academic Performance of Maynooth (€100)
 - Oct 2022：Best Student Project Award of Maynooth (€100)
-- Mar 2023：Second Prize Scholarship of FZU ($1400)
+- March 2023：Second Prize Scholarship of FZU ($1400)
 - Sep 2022：First Prize Scholarship of FZU ($2100)
-- Mar 2022：First Prize Scholarship of FZU ($2100)
+- March 2022：First Prize Scholarship of FZU ($2100)
 - Sep 2021：Third Prize Scholarship of FZU ($700)
-- Mar 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
+- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
 
 ## Competitions
 
@@ -25,9 +25,9 @@ Lastest Update: 18th Dec 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 - Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
 - Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
 - July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
+- June 2023：**First Prize** (Provincial championship) in Fujian Youth Science Innovation Project Competition
 - May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
+- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
 - Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
 - Aug 2022： Third Prize in China National College Student Computer Design Competition
 - June 2022：Second Prize in Fujian College Student Computer Design Competition
