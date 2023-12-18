@@ -8,7 +8,7 @@ Lastest Update: 18th Dec 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 ## Scholarships
 
-- Dec 2023：**<font color='red'>AAAI-24 Undergraduate Consortium Scholarship</font>** ($2000)
+- Dec 2023：**<font color='red'>AAAI-24 Undergraduate Scholarship ($2000)</font>**
 - Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU.
 - May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
 - Oct 2023：Best Academic Performance of Maynooth (€100)
@@ -17,7 +17,7 @@ Lastest Update: 18th Dec 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 - Sep 2022：First Prize Scholarship of FZU ($2100)
 - Mar 2022：First Prize Scholarship of FZU ($2100)
 - Sep 2021：Third Prize Scholarship of FZU ($700)
-- Mar 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+- Mar 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
 
 ## Competitions
 

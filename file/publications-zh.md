@@ -14,11 +14,19 @@ title: Publications-zh
 
   
 
-- [基于多目标规划模型的交通枢纽最优布局分析](https://caihanlin.com/mypaper/modeling/202206.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年06月“南威杯”福州大学数学建模竞赛本科组**三等奖**<br>
+- [基于多目标规划模型的交通枢纽最优布局分析](https://caihanlin.com/mypaper/modeling/null)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年06月“南威杯”福州大学数学建模竞赛本科组三等奖<br>
+
+<br>
 
 ## 工业实习论文
 
-- [基于物联网的智慧工厂安全巡检系统](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>大三学年工业实习报告（2023/02 - 2023/07）<br>
+- [基于物联网的智慧工厂安全巡检系统](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>大三学年工业实习报告（2023/02 - 2023/06）<br>
+
+<br>
+
+## 毕业设计论文
+
+- 基于低功耗蓝牙网络的复合型欺骗攻击检测机制<br>**蔡汉霖**，徐哲壮（指导老师）<br>本科毕业设计论文（2024/01 - 2024/05）<br>
 
 
 
