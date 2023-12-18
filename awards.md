@@ -4,19 +4,20 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 18th Dec 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
 ## Scholarships
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
+- Dec 2023：**<font color='red'>AAAI-24 Undergraduate Consortium Scholarship</font>** ($2000)
+- Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU.
+- May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
 - Oct 2023：Best Academic Performance of Maynooth (€100)
 - Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
+- Mar 2023：Second Prize Scholarship of FZU ($1400)
 - Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
+- Mar 2022：First Prize Scholarship of FZU ($2100)
 - Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+- Mar 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
 
 ## Competitions
 
@@ -35,8 +36,8 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 ## Honors
 
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
+- Aug 2023：FEPG Scholarship (Top 0.5%)<br>Funded by Fujian Energy Petrochemical Group (FEPG)
+- May 2023：XiamenAir Scholarship (Top 1%)<br>Funded by Xiamen Airline, 30 students each year
 - May 2023：Outstanding Student Leaders of FZU
 - May 2021：Merit Student of Fuzhou University
 - July 2023：*Nomination for Baosteel Scholarship*
@@ -45,9 +46,10 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 
 ## Services
 
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
+- Dec 2023 - Present：AAAI Student Membership
+- Sep 2022 - Present：IEEE Student Membership
+- Sep 2022 - Present：CAAI Student Membership
 - April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
+- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
 - July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
 - April 2021：Outstanding volunteer at 4th Digital China Summit<br>
