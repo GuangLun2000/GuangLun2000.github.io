@@ -4,7 +4,7 @@ permalink: /notes/index.html
 title: Notes
 ---
 
-## Paper Notes
+## Reserach Notes
 
 - Internet of Everything
 - Cyber-security
