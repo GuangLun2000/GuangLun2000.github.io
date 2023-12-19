@@ -1,7 +1,7 @@
 # ./_includes/README.md
 
-It is not recommended to modify this code, unless you are a Pro.
+Modifying this code is NOT recommended unless you are a pro.
 
-If you need help, please feel free to contact me.
+Please feel free to contact me if you need help.
 
-My e-mail: lancecai2002@gmail.com
+My email: lancecai2002@gmail.com
