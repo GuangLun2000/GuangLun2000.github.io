@@ -3,24 +3,28 @@ layout: page
 permalink: /blogs/IoE/index.html
 title: IoE
 ---
-# Internet of Everything (IoE)
+## Internet of Everything (IoE)
 
-## Basic Information:
+### Basic Information:
 
 - Title: **Internet of Everything (IoE) — From Molecules to the Universe**
 - Authors: Ozgur B. Akan, Ergin Dinc, Murat Kuscu, Oktay Cetinkaya, and Bilgesu A. Bilgin
 - Keywords: Internet of Things, Internet of Everything, IoXs, IoE framework, heterogeneous IoXs
 - URLs: [Paper](https://ieeexplore.ieee.org/document/9517531), Code
 
-## Brief introduction:
+---
+
+### Brief introduction:
 
 This paper explores the potential synergies and opportunities that may arise from the interactions between heterogeneous IoXs (Internet of Xs), enabling unprecedented applications beyond the current confines of IoT (Internet of Things). The authors propose the Internet of Everything (IoE) framework, which aims to link existing and future IoXs on a diverse scale ranging from molecules to the universe. They discuss potential IoE applications, challenges, and propose a layered network architecture for IoE.
 
-## Background:
+### Background:
 
 The Internet of Things (IoT) has seen significant advancements, but its specialization into non-interacting application domains (IoXs) limits its potential for cross-domain synergies. For example, the Internet of Vehicles (IoV) focuses on optimizing traffic flow, but lacks integration with other domains like industrial plants (IIoT) or agricultural fields (IoAT). This disconnection between IoXs hinders the exploration of opportunities and synergies that can generate higher value. To address this limitation, the authors propose the Internet of Everything (IoE) framework, inspired by the ubiquitous connectivity and heterogeneous networking characteristics of the universe. IoE aims to link existing and unconventional IoXs, such as the Internet of Nano Things (IoNT) and the Internet of People and Senses (IoPS), to enable seamless cyber-physical interfaces and unprecedented levels of control over nature. The authors aim to explore the potential synergies and opportunities that can be enabled by the interactions of heterogeneous IoXs within the IoE framework, and propose a layered network architecture and an IoE middleware to address the challenges of interoperability, scalability, and integration of autonomous things. The perspectives and proposals in this paper aim to inspire academia and industry to explore and innovate beyond the current boundaries of IoT.
 
-## Methods:
+----
+
+### Methods:
 
 - a. Theoretical basis of the study:
   - The study focuses on the concept of the Internet of Everything (IoE) framework, which aims to connect and integrate various Internet of Xs (IoXs) to enable synergies and opportunities beyond the current confines of IoT. The inspiration for the IoE framework comes from the ubiquitous connectivity and heterogeneous networking characteristics of the universe.
@@ -34,7 +38,9 @@ The Internet of Things (IoT) has seen significant advancements, but its speciali
   - The Internet of Energy (IoEn) is discussed, aiming to create a decentralized and flexible energy grid using smart meters, actuators, and wireless sensor networks. It mentions challenges like supply-demand imbalances, renewable energy incorporation, and energy-efficient techniques.
   - The article briefly mentions the Internet of Space (IoSp), which involves communication satellites providing global connectivity. It mentions high-throughput satellites (HTSs) and small CSs deployed in low Earth orbit (LEO) to form massive constellations. It highlights the role of IoSp as the backbone of IoXs in areas lacking traditional communication infrastructure.
 
-## Results:
+---
+
+### Results:
 
 - a. Experimental settings in detail:
   - The article does not present experimental settings.
