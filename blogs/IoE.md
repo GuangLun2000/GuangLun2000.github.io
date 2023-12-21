@@ -10,7 +10,7 @@ title: IoE
 - Title: **Internet of Everything (IoE) — From Molecules to the Universe**
 - Authors: Ozgur B. Akan, Ergin Dinc, Murat Kuscu, Oktay Cetinkaya, and Bilgesu A. Bilgin
 - Keywords: Internet of Things, Internet of Everything, IoXs, IoE framework, heterogeneous IoXs
-- URLs: [Paper](https://ieeexplore.ieee.org/document/9517531), Code
+- URLs: [Paper](https://ieeexplore.ieee.org/abstract/document/10121570), Code
 
 ---
 
