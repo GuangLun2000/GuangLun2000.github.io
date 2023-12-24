@@ -6,6 +6,8 @@ title: 24Fall申请记录
 
 ## 2024-Fall 英国硕士项目申请实录
 
+> 最新更新：2023/12/25
+
 笔者在2023年底的申请季中，一共申请了英国的7所学校，共计11个项目。
 
 <br>按照申请投递时间，排序如下：
@@ -13,7 +15,7 @@ title: 24Fall申请记录
 - University of Manchester 🎊
 - Imperial College London 🎊
 - University College London 
-- King’s College London 
+- King’s College London 🎊
 - University of Edinburgh 
 - University of Cambridge 
 - University of Oxford 
@@ -30,9 +32,9 @@ title: 24Fall申请记录
 - **中方成绩：**GPA 3.81 (~8%)，算数均分 88.38 (~5%)
 - **外方成绩：**78.3 --> 80.3 --> 88.7 (一等学位，第三年rank1)
 - **语言：**雅思 7.0 (6.0) --> 7.5，无GRE
-- **论文：**1篇EI期刊，1篇IEEE水会，1篇ccf-a顶会在审，1篇SCI二区在审（均一作）
+- **论文：**1篇EI期刊，1篇IEEE水会，1篇ccf-a顶会短文，1篇SCI二区在审（均一作）
 - **竞赛：**数学建模美赛一等奖，另外有4个国内比赛的国家级奖项
-- 1项国家级大创基金SRT，厦航奖学金，能化奖学金，N个校内奖学金
+- **其他：**1项国家级大创基金SRT，厦航奖学金，能化奖学金，N个校内奖学金
 - **整体经历：**校内科研2段，工业实习1段，剑桥暑研1段
 - **推荐信：**校内实验室大老板强推，海本的副院长强推，海本的AP强推
 
@@ -72,7 +74,7 @@ title: 24Fall申请记录
 
 <br>第一志愿顺利录取Security and Resilience: Science and Technology，第二志愿填的是Control and Optimisation
 
-<br>
+<br>申请季的第二封offer🍻
 
 ----
 
@@ -82,7 +84,7 @@ title: 24Fall申请记录
 - 11.02 Application Received
 - 11.07 Two References Reveived
 
-
+12月25号，圣诞节了，UCL你让我等得好苦啊😭24年年初来一封offer？
 
 <br>
 
@@ -94,9 +96,11 @@ title: 24Fall申请记录
 - 11.01 Application Received
 - 11.07 One References Reveived
 
-KCL的申请系统设计得很丝滑，提交申请非常舒服😎
+KCL的申请系统设计得很丝滑，提交申请非常舒服
 
-<br>但要吐槽一句，120磅的申请费，真尼玛贵......
+<br>但要吐槽一句，120磅的申请费，国王学院，真尼玛贵...
+
+<br>12月22号，冬至当天，吃到了好吃的羊肉，拿到了“王的录取” 😎
 
 <br>
 
@@ -107,7 +111,7 @@ KCL的申请系统设计得很丝滑，提交申请非常舒服😎
 - 11.06 Submitted
 - 11.08 Application Received
 
-爱丁堡，不需要申请费。推荐信可以学生自行提交，唯一一所要reference但不用网推的。
+爱丁堡，爱宝，不需要申请费。推荐信可以学生自行提交，唯一一所，要reference但不用网推的。
 
 <br>
 
@@ -118,9 +122,11 @@ KCL的申请系统设计得很丝滑，提交申请非常舒服😎
 - 12.05 Submitted
 - 12.05 Two References Reveived
 
-卡着Funding deadline提交了申请，写推荐信的教授们太给力了，当天两封reference全部集齐，顺利提交🥳
+12月5号，卡着Funding deadline提交了申请，写推荐信的教授们太给力了，当天两封reference全部集齐，顺利提交🥳
 
 <br>这个申请季**最喜欢、也最重要的一个项目**，希望一切顺利吧！静侯佳音。
+
+<br>12月25号，最近在办理AAAI-24的签证🇨🇦，事情好多，希望赶快搞定剑桥第二专业的材料！加油！
 
 <br>
 
@@ -128,15 +134,14 @@ KCL的申请系统设计得很丝滑，提交申请非常舒服😎
 
 ## University of Oxford
 
+12月24号，正在考虑要不要投递呢 🧐 还没找到很合适的program
 
-
-<br><br>
+<br>
 
 ---
 
 ## Overall
 
+申请哲学：好好努力，心平气和，静候佳音！
 
-
-<br><br>
-
+<br>一切都是最好的安排 🥰
