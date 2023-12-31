@@ -12,9 +12,7 @@ I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth U
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
-**Best wishes for 2024! 🎊**
-
-<br>
+<br>**Best wishes for 2024 🎊 Cheers!**
 
 ## Academic Background
 
