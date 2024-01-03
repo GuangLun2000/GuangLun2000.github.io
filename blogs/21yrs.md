@@ -76,7 +76,9 @@ title: 21yrs
 
 <br><br>
 
- ![image-20231102095826787](21yrs.assets/image-20231102095826787.png)
+<center>
+<img src="/blogs/21yrs.assets/image-20231102095826787.png">
+</center>
 
 <br>
 

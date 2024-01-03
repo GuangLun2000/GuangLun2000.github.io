@@ -6,7 +6,7 @@ title: Lance的第一次AAAI参会实录
 
 ## AAAI-2024 参会实录
 
-> 更新时间：2024/01/02
+> 更新时间：2024/01/03
 
 本文记录了笔者参加AAAI 2024的心路历程，笔者在此之前没有签证经历（属于白本护照）
 
@@ -31,9 +31,9 @@ title: Lance的第一次AAAI参会实录
 
 <br>日常吐槽一句，加拿大签证的工作量比申请帝国理工大多了。下面这个图是个人陈述PS的附加材料表，大概是1/8的workload吧👀
 
-![image-20240102233256486](aaai-24.assets/image-20240102233256486.png)
-
-
+<center>
+<img src="/blogs/aaai-24.assets/image-20240102233256486.png">
+</center>
 
 <br>
 
@@ -45,7 +45,9 @@ AAAI-UC给提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harb
 
 <br>查了一下标间，大概是2000港币一晚，白嫖真爽啊哈哈。
 
-![AAAI-2024](aaai-24.assets/AAAI-2024.png)
+<center>
+<img src="/blogs/aaai-24.assets/AAAI-2024.png">
+</center>
 
 <br>
 
