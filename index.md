@@ -12,8 +12,6 @@ I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth U
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
-<br>**Best wishes for 2024 🎊 Cheers!**
-
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
