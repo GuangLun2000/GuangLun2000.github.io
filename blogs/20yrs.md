@@ -38,6 +38,12 @@ title: 20yrs
 
 <br>下一个十年，请多多指教！
 
-<br>
+<br><br>
+
+<center>
+<img src="/blogs/21yrs.assets/2022.jpg">
+</center>
+
+
 
 <p align="right">2022年冬</p>

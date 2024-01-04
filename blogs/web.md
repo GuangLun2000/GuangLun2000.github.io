@@ -162,7 +162,9 @@ links:
 
 <br>神奇的链接，联系了你和我，让我们相遇在这个博客。当你看到这些文字时，你正在和过去的我进行深度的交流。我很高兴你愿意仔细阅读我的文字，如果你想认识我，欢迎加入我们的Jekyll运营社群，让我们在**三次元**进一步`connect each other`吧！
 
-<br>![IMG_1138](web.assets/IMG_1138.JPG)
+<br>
+
+![wechat](web.assets/wechat.PNG)
 
 > **Update in July 2023**
 >
