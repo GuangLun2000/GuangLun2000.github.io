@@ -129,10 +129,11 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 - 12.05 Major-2 Submitted
   - 12.05 Two References Reveived
-  - 12.0x Under review by department
+  - 12.18 Under review by department
 
 - 12.27 Major-2 Submitted
   - 12.27 Two References Reveived
+  - 01.08 Under review by department
 
 
 12月5号，卡着Funding deadline提交了申请，写推荐信的教授们太给力了，当天两封reference全部集齐，顺利提交🥳
