@@ -41,8 +41,9 @@ title: 20yrs
 <br><br>
 
 <center>
-<img src="/blogs/21yrs.assets/2022.jpg">
+<img src="/blogs/yrs.assets/2022.jpg">
 </center>
+
 
 
 

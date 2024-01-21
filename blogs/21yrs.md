@@ -77,9 +77,8 @@ title: 21yrs
 <br><br>
 
 <center>
-<img src="/blogs/21yrs.assets/image-20231102095826787.png">
+<img src="/blogs/yrs.assets/2023.png">
 </center>
-
 <br>
 
 <p align="right">2023年秋</p>
