@@ -58,5 +58,4 @@ title: Lance Club
 - 福州大学#3
   - **Run Bai**, Yuechen Qiu, Yanru Chen
 
-
 <br>
