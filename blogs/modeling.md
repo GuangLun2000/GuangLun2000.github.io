@@ -57,5 +57,7 @@ title: Lance Club
   - **Zhou Zhang**, Yiwei Zhang, Zhekai Yin
 - 福州大学#3
   - **Run Bai**, Yuechen Qiu, Yanru Chen
+- 福州大学#4
+- 福州大学#5
 
 <br>
