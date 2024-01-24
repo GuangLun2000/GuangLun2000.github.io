@@ -114,7 +114,7 @@ url: https://caihanlin.com
 
 owner: 
   name: Hanlin Cai
-  avatar: hanlin.jpg (root/image目录下的图片，纠正)
+  avatar: hanlin.jpg (纠正: 这里是root/image目录下的图片)
   email: hanlin.cai@ieee.org
   github: GuangLun2000（只需要输入用户名即可）
   linkedin: hanlin-cai-07b53b23b（只需要ID即可）
@@ -238,4 +238,4 @@ links:
 
 <br>
 
-<p align="right">最后更新于2023年冬</p>
+<p align="right">更新于2023年冬</p>
