@@ -38,9 +38,9 @@ Motivation: Given the limitations of existing receiver architectures and channel
 
 ### Methods:
 
-- a. Theoretical basis of the study:
+- **a. Theoretical basis of the study:**
   - The study focuses on the combination of nanomachines and biological entities within the Internet of Bio-Nano Things (IoBNT) framework. It explores the potential applications of this combination, such as nano biosensors and artificial cells. Molecular communication (MC) is identified as a crucial component in enabling these applications. MC utilizes molecules as information carriers, and the transmission of information is achieved by encoding molecules based on type or concentration. However, concentration-based MC is susceptible to inter-symbol interference (ISI) caused by the stochastic characteristics of Brownian motion. Therefore, accurately describing the reception of molecules is important for designing appropriate transceivers and techniques for an MC channel.
-- b. Technical route of the article (step by step):
+- **b. Technical route of the article (step by step):**
   1. The sampling process assumes independence among the observations and models them as Poisson random variables.
   2. The joint probability density function (PDF) of the receiver's observations is expressed using the impulse response.
   3. The log-likelihood function is maximized to estimate the channel parameters (d and D) using the Newton-Raphson Method.
@@ -54,7 +54,7 @@ Motivation: Given the limitations of existing receiver architectures and channel
   - The experimental results show that the values of the correction parameters (b1, b2, and b3) remain consistent across different input parameters (d, R, and D).
 - Experimental results in detail:
   - The error values for the estimated number of received molecules are around 0.44 for most scenarios, indicating that the distance between the transmitter and receiver or the radius of the receiver does not significantly influence the estimation.
-  - Compared to previous findings, the model demonstrates a significantly reduced root mean square error (RMSE) in estimating the cumulative number of received molecules, with a five-fold decrease.
+  - **Compared to previous findings, the model demonstrates a significantly reduced root mean square error (RMSE) in estimating the cumulative number of received molecules, with a five-fold decrease.**
 
 <br>
 
@@ -83,9 +83,9 @@ The Internet of Things (IoT) has seen significant advancements, but its speciali
 
 ### Review:
 
-- a. Theoretical basis of the study:
+- **a. Theoretical basis of the study:**
   - The study focuses on the concept of the Internet of Everything (IoE) framework, which aims to connect and integrate various Internet of Xs (IoXs) to enable synergies and opportunities beyond the current confines of IoT. The inspiration for the IoE framework comes from the ubiquitous connectivity and heterogeneous networking characteristics of the universe.
-- b. Technical route of the article (step by step):
+- **b. Technical route of the article (step by step):**
   - The article explores different IoXs, such as Internet of Energy (IoEn), Internet of Vehicles (IoV), Internet of Industrial Things (IIoT), Internet of Agricultural Things (IoAT), Internet of Money (IoM), Internet of Nano Things (IoNT), and Internet of People and Senses (IoPS). It discusses their technologies, applications, and potential benefits.
   - The article specifically focuses on the Internet of Nano Things (IoNT) and its aim to interconnect nanomachines with conventional wireless networks. It highlights the need for research in developing channel models, nano-transceiver architectures, modulation/detection techniques, and communication protocols for reliable information transfer at the nanoscale.
   - The article also discusses the Internet of People and Senses (IoPS), which involves sharing human cognitive functionalities and senses through the internet. It mentions technologies like the Tactile Internet for real-time sharing of touch and actuation, as well as research towards digital communication of smell and taste. It acknowledges challenges in instrumentation and brain research that need to be addressed.
@@ -103,7 +103,7 @@ The Internet of Things (IoT) has seen significant advancements, but its speciali
   - The article does not present experimental settings.
 - Experimental results in detail:
   - The article does not present experimental results.
-- PS: this is a review paper.
+- **PS: this is a review paper.**
 
 <br>
 
