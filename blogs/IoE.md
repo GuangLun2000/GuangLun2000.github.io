@@ -7,15 +7,13 @@ title: IoE
 
 
 
-
-
 ### Paper Reading
 
 - Received Signal and Channel Parameter Estimation in Molecular Communications
 - Internet of Everything (IoE) — From Molecules to the Universe *(article)*
 - What Really is ‘Molecule’ in Molecular Communications? The Quest for Physics of Particle-based Information Carriers
 
-<br>
+> Final update in: 2024/01/24
 
 ---
 
@@ -161,13 +159,12 @@ Molecular communication is a novel communication paradigm that uses molecules as
   - SPION-based communication systems have achieved a data rate of up to 6.34 bit/s.
   - Synaptic communication systems have achieved data rates of 66.6 bit/s in an in-vivo nervous communication channel.
   - Odor molecules have potential applications in swarm robotics, agricultural monitoring, underwater and in-mine communications, and olfactory bulb-related disease diagnosis.
+- **PS: this is a review paper!**
 
 <br>
 
 ---
 
-Final update in: 2024/01/24
+Final update in: 2024/01/24.
 
-To be continued.
-
-<br>
+<br>To be continued.
