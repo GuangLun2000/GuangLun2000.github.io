@@ -9,17 +9,52 @@ title: IoE
 
 
 
-
-
 <br>
 
 ---
 
-## 
+## Molecular Communications (1)
 
+### Basic Information:
 
+- Title: Received Signal and Channel Parameter Estimation in Molecular Communications
+- Authors: O. Tansel Baydas, Ozgur B. Akan
+- Keywords: Molecular Communication, Channel Modeling, Received Signal Estimation, Channel Parameter, Maximum Likelihood Estimation
+- URLs: [Research Paper](https://ieeexplore.ieee.org/document/9630007)
 
+---
 
+### Introduction:
+
+This paper presents a novel model for molecular communication (MC) that incorporates a spherical transmitter and receiver with partial absorption, and proposes an optimization-based technique using particle swarm optimization (PSO) for accurate estimation of the received signal. The estimated channel model is then used for estimating channel parameters such as distance and diffusion coefficient using iterative maximum likelihood estimation (MLE), achieving consistent errors compared to the estimated Cramer-Rao Lower Bound (CLRB).
+
+### Background:
+
+Molecular communication (MC) is a crucial paradigm for the Internet of Bio-Nano Things (IoBNT) framework, which combines nanomachines and biological entities. However, existing receiver architectures in MC literature, such as passive or entirely absorbing configurations, have limitations in accurately representing the reception of molecules. Additionally, the estimation of channel parameters in MC channels, such as distance and diffusion coefficient, is also an important research area. Previous methods have used closed-form estimators or iterative MLE approaches, but they often oversimplify the analysis or assume unrealistic conditions.
+
+Motivation: Given the limitations of existing receiver architectures and channel parameter estimation methods in MC, the authors propose a more realistic MC model with a partially absorbing spherical receiver and develop an optimization-based technique using PSO for accurate received signal estimation. They also apply iterative MLE for channel parameter estimation and compare the results with the estimated CLRB. This research aims to improve the accuracy and realism of MC models and estimation techniques, contributing to the development of MC systems in the IoBNT framework.
+
+---
+
+### Methods:
+
+- a. Theoretical basis of the study:
+  - The study focuses on the combination of nanomachines and biological entities within the Internet of Bio-Nano Things (IoBNT) framework. It explores the potential applications of this combination, such as nano biosensors and artificial cells. Molecular communication (MC) is identified as a crucial component in enabling these applications. MC utilizes molecules as information carriers, and the transmission of information is achieved by encoding molecules based on type or concentration. However, concentration-based MC is susceptible to inter-symbol interference (ISI) caused by the stochastic characteristics of Brownian motion. Therefore, accurately describing the reception of molecules is important for designing appropriate transceivers and techniques for an MC channel.
+- b. Technical route of the article (step by step):
+  1. The sampling process assumes independence among the observations and models them as Poisson random variables.
+  2. The joint probability density function (PDF) of the receiver's observations is expressed using the impulse response.
+  3. The log-likelihood function is maximized to estimate the channel parameters (d and D) using the Newton-Raphson Method.
+  4. The estimation process is stopped when it becomes constant.
+
+---
+
+### Results:
+
+- Experimental settings in detail:
+  - The experimental results show that the values of the correction parameters (b1, b2, and b3) remain consistent across different input parameters (d, R, and D).
+- Experimental results in detail:
+  - The error values for the estimated number of received molecules are around 0.44 for most scenarios, indicating that the distance between the transmitter and receiver or the radius of the receiver does not significantly influence the estimation.
+  - Compared to previous findings, the model demonstrates a significantly reduced root mean square error (RMSE) in estimating the cumulative number of received molecules, with a five-fold decrease.
 
 <br>
 
@@ -71,6 +106,12 @@ The Internet of Things (IoT) has seen significant advancements, but its speciali
 - PS: this is a review paper.
 
 <br>
+
+---
+
+## Molecular Communications (2)
+
+
 
 ---
 
