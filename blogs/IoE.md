@@ -7,12 +7,12 @@ title: IoE
 
 > Final update in: 2024/01/24
 
-These research notes provide my thoughts and findings related to ongoing projects within the Cambridge IoE Group, led by Prof. Ozgur B. Akan.
+These research notes provide my thoughts and findings related to ongoing projects within the Cambridge IoE Group, led by Prof. Ozgur B. Akan. More information can be found here: [IoE Group](https://ioe.eng.cam.ac.uk/).
 
 ### Paper Reading
 
 - Received Signal and Channel Parameter Estimation in Molecular Communications
-- Internet of Everything (IoE) — From Molecules to the Universe *(article)*
+- Internet of Everything (IoE) — From Molecules to the Universe *(Article)*
 - What Really is ‘Molecule’ in Molecular Communications? The Quest for Physics of Particle-based Information Carriers
 
 ---
@@ -103,10 +103,6 @@ The Internet of Things (IoT) has seen significant advancements, but its speciali
 
 ### Results:
 
-- Experimental settings in detail:
-  - The article does not present experimental settings.
-- Experimental results in detail:
-  - The article does not present experimental results.
 - **PS: this is a review paper.**
 
 <br>
