@@ -7,7 +7,7 @@ title: IoE
 
 > Final update in: 2024/01/24
 
-These research notes provide insights and findings related to ongoing projects within the Cambridge IoE Group, led by Prof. Ozgur B. Akan.
+These research notes provide my thoughts and findings related to ongoing projects within the Cambridge IoE Group, led by Prof. Ozgur B. Akan.
 
 ### Paper Reading
 
