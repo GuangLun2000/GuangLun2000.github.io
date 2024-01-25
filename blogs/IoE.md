@@ -3,18 +3,40 @@ layout: page
 permalink: /blogs/IoE/index.html
 title: IoE
 ---
+## Research Notes for IoE Group
+
+
+
+
+
+
+
+<br>
+
+---
+
+## 
+
+
+
+
+
+<br>
+
+---
+
 ## Internet of Everything (IoE)
 
-### Basic Information:
+### Basic Info:
 
 - Title: **Internet of Everything (IoE) — From Molecules to the Universe**
 - Authors: Ozgur B. Akan, Ergin Dinc, Murat Kuscu, Oktay Cetinkaya, and Bilgesu A. Bilgin
 - Keywords: Internet of Things, Internet of Everything, IoXs, IoE framework, heterogeneous IoXs
-- URLs: [Paper](https://ieeexplore.ieee.org/abstract/document/10121570), Code
+- URLs: [Review Paper](https://ieeexplore.ieee.org/abstract/document/10121570)
 
 ---
 
-### Brief introduction:
+### Introduction:
 
 This paper explores the potential synergies and opportunities that may arise from the interactions between heterogeneous IoXs (Internet of Xs), enabling unprecedented applications beyond the current confines of IoT (Internet of Things). The authors propose the Internet of Everything (IoE) framework, which aims to link existing and future IoXs on a diverse scale ranging from molecules to the universe. They discuss potential IoE applications, challenges, and propose a layered network architecture for IoE.
 
@@ -24,7 +46,7 @@ The Internet of Things (IoT) has seen significant advancements, but its speciali
 
 ----
 
-### Methods:
+### Review:
 
 - a. Theoretical basis of the study:
   - The study focuses on the concept of the Internet of Everything (IoE) framework, which aims to connect and integrate various Internet of Xs (IoXs) to enable synergies and opportunities beyond the current confines of IoT. The inspiration for the IoE framework comes from the ubiquitous connectivity and heterogeneous networking characteristics of the universe.
@@ -42,7 +64,16 @@ The Internet of Things (IoT) has seen significant advancements, but its speciali
 
 ### Results:
 
-- a. Experimental settings in detail:
+- Experimental settings in detail:
   - The article does not present experimental settings.
 - Experimental results in detail:
   - The article does not present experimental results.
+- PS: this is a review paper.
+
+<br>
+
+---
+
+To be continued.
+
+<br>
