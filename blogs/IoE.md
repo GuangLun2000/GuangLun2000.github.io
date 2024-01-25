@@ -5,15 +5,15 @@ title: IoE
 ---
 ## Research Notes for IoE Group
 
+> Final update in: 2024/01/24
 
+These research notes provide insights and findings related to ongoing projects within the Cambridge IoE Group, led by Prof. Ozgur B. Akan.
 
 ### Paper Reading
 
 - Received Signal and Channel Parameter Estimation in Molecular Communications
 - Internet of Everything (IoE) — From Molecules to the Universe *(article)*
 - What Really is ‘Molecule’ in Molecular Communications? The Quest for Physics of Particle-based Information Carriers
-
-> Final update in: 2024/01/24
 
 ---
 
