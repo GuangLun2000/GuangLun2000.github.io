@@ -24,7 +24,7 @@ These research notes provide my thoughts and findings related to ongoing project
 - Title: Received Signal and Channel Parameter Estimation in Molecular Communications
 - Authors: O. Tansel Baydas, **Ozgur B. Akan**
 - Keywords: Molecular Communication, Channel Modeling, Received Signal Estimation, Channel Parameter, Maximum Likelihood Estimation
-- URLs: [Research Paper](https://ieeexplore.ieee.org/document/9630007)
+- URLs: [Research Paper](https://arxiv.org/abs/2311.14621)
 
 ---
 
@@ -116,7 +116,7 @@ The Internet of Things (IoT) has seen significant advancements, but its speciali
 - Title: What Really is ‘Molecule’ in Molecular Communications? The Quest for Physics of Particle-based Information Carriers
 - Authors: Hanlin Xiao, Kamela Dokaj, **Ozgur B. Akan**
 - Keywords: Molecular Communication, Internet of Bio-Nano Things, Bacteria Network, Molecular Motor, Synthetic Biology, Nanotechnology, Pheromone communication, DNA communication, Calcium signaling, Micro/Nanorobots
-- URLs: [Review Paper](https://ieeexplore.ieee.org/document/9646827)
+- URLs: [Review Paper](https://arxiv.org/abs/2311.16356)
 
 ### Introduction:
 
@@ -161,6 +161,6 @@ Molecular communication is a novel communication paradigm that uses molecules as
 
 ---
 
-Final update in: 2024/01/24.
-
-<br>To be continued.
+> Final update in: 2024/01/24.
+>
+> To be continued.
