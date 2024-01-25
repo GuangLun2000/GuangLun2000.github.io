@@ -9,6 +9,12 @@ title: IoE
 
 
 
+### Paper Reading
+
+- Received Signal and Channel Parameter Estimation in Molecular Communications
+- Internet of Everything (IoE) — From Molecules to the Universe *(article)*
+- What Really is ‘Molecule’ in Molecular Communications? The Quest for Physics of Particle-based Information Carriers
+
 <br>
 
 ---
@@ -18,7 +24,7 @@ title: IoE
 ### Basic Information:
 
 - Title: Received Signal and Channel Parameter Estimation in Molecular Communications
-- Authors: O. Tansel Baydas, Ozgur B. Akan
+- Authors: O. Tansel Baydas, **Ozgur B. Akan**
 - Keywords: Molecular Communication, Channel Modeling, Received Signal Estimation, Channel Parameter, Maximum Likelihood Estimation
 - URLs: [Research Paper](https://ieeexplore.ieee.org/document/9630007)
 
@@ -65,7 +71,7 @@ Motivation: Given the limitations of existing receiver architectures and channel
 ### Basic Info:
 
 - Title: **Internet of Everything (IoE) — From Molecules to the Universe**
-- Authors: Ozgur B. Akan, Ergin Dinc, Murat Kuscu, Oktay Cetinkaya, and Bilgesu A. Bilgin
+- Authors: **Ozgur B. Akan**, Ergin Dinc, Murat Kuscu, Oktay Cetinkaya, and Bilgesu A. Bilgin
 - Keywords: Internet of Things, Internet of Everything, IoXs, IoE framework, heterogeneous IoXs
 - URLs: [Review Paper](https://ieeexplore.ieee.org/abstract/document/10121570)
 
@@ -111,9 +117,56 @@ The Internet of Things (IoT) has seen significant advancements, but its speciali
 
 ## Molecular Communications (2)
 
+### Basic Information:
 
+- Title: What Really is ‘Molecule’ in Molecular Communications? The Quest for Physics of Particle-based Information Carriers
+- Authors: Hanlin Xiao, Kamela Dokaj, **Ozgur B. Akan**
+- Keywords: Molecular Communication, Internet of Bio-Nano Things, Bacteria Network, Molecular Motor, Synthetic Biology, Nanotechnology, Pheromone communication, DNA communication, Calcium signaling, Micro/Nanorobots
+- URLs: [Review Paper](https://ieeexplore.ieee.org/document/9646827)
+
+### Introduction:
+
+This paper explores the nature of the information molecules used in molecular communication, delving into their physical characteristics, communication systems, and potential applications. The authors aim to bridge the gap between theoretical research and real-world applications by providing a comprehensive survey of commonly used information molecules.
+
+### Background:
+
+Molecular communication is a novel communication paradigm that uses molecules as information carriers, offering advantages over traditional electromagnetic-wave-based communication. It has the potential for applications in nanoscale information transfer within the human body, such as targeted drug delivery and health monitoring. Despite the rapid development of the field, the nature of the information molecules themselves has often been overlooked in the existing literature. This paper aims to address this gap by focusing on the properties of information molecules and their impact on molecular communication systems. The authors provide a comprehensive survey to enhance our understanding of molecular communication and facilitate the transition from research to practical applications.
 
 ---
+
+### Methods:
+
+- a. Theoretical basis of the study:
+  - The paper aims to provide a comprehensive survey of commonly used information molecules in molecular communication systems, examining their physical characteristics, communication systems, and potential applications.
+- b. Technical route of the article (step by step):
+  - The paper discusses different classes of information molecules used in the literature, including DNAs, magnetic nanoparticles, calcium ions, neurotransmitters, odor molecules, and others.
+  - The physical characteristics of these molecules, such as mass, charge, magnetic susceptibility, dimensions, diffusivity, and biocompatibility, are examined.
+  - The components of the communication channel, including transmitters, propagation channels, and receivers, are explored.
+  - Different modulation methods are employed for each information molecule class.
+  - Experimental testbeds and performance analysis are discussed to accelerate the development of molecular communication systems.
+
+---
+
+### Results:
+
+- **a. Experimental settings in detail:**
+  - The paper discusses the potential of DNA-based molecular communication for in-body scenarios, including cardiovascular and extracellular spaces, for tasks such as targeted drug delivery and health monitoring.
+  - Superparamagnetic iron oxide nanoparticles (SPIONs) are explored for their potential applications in medical imaging, targeted drug delivery, and molecular communication.
+  - The communication channel for calcium signaling is examined, including the propagation channel and the receiver.
+  - The synaptic communication system, utilizing neurotransmitters, is discussed in terms of its components and modulation techniques.
+  - Odor molecules are investigated as information carriers for macro-scale molecular communication.
+- **Experimental results in detail:**
+  - The diffusivity of spherical molecules through water can be calculated using the Stokes-Einstein relation.
+  - DNA-based communication systems can achieve a data rate of up to 6 bit/s.
+  - SPION-based communication systems have achieved a data rate of up to 6.34 bit/s.
+  - Synaptic communication systems have achieved data rates of 66.6 bit/s in an in-vivo nervous communication channel.
+  - Odor molecules have potential applications in swarm robotics, agricultural monitoring, underwater and in-mine communications, and olfactory bulb-related disease diagnosis.
+
+<br>
+
+---
+
+Final update in: 2024/01/24
 
 To be continued.
 
