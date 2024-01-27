@@ -56,7 +56,6 @@ AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbour
 <center>
 <img src="/blogs/aaai-24.assets/image-20240103220603425.png">
 </center>
-
 <br>
 
 ----
