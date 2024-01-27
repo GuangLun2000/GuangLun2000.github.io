@@ -20,7 +20,7 @@ title: Lance的第一次AAAI参会实录
 
 - **12.26**：邮政EMS，收到新护照（正好7天到手）
 - **12.27**：收到AAAI发来的正式参会邀请函
-- **12.27**：整理好所有材料，提交的是[IRCC系统](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html)
+- **12.27**：整理好所有材料，提交[IRCC系统](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html)
 - **12.28**：收到指纹信，预约了1.02上午的生物采集
 - **01.02**：在杭州完成指纹采集，开始等待IRCC审核，保佑顺利
 - **01.25**：上午收到了贴签信，IRCC approved🎊
@@ -32,18 +32,16 @@ title: Lance的第一次AAAI参会实录
 
 #### 签证办理
 
-最近期末月巨忙，直接找了中介半DIY，花了一周时间准备一堆流水材料。感谢爹妈支持🥹
+1217，最近期末月巨忙，直接找了中介半DIY，花了一周时间准备一堆流水材料。感谢爹妈支持🥹
 
 <br>吐槽一句，加拿大签证的工作量比申请帝国理工大多了。下面这个图是个人陈述PS的附加材料表，大概是1/8的workloads
 
-<br>0103更新，今天吃完午饭在知乎随手答了一波：[有什么建议给第一次参加国际学术会议的本科生？](https://www.zhihu.com/question/50603131/answer/3348461907)
-
-<br>怎么一堆人围观，网站日访量直接破500了，瑟瑟发抖。
+<br>0103更新，今天吃完午饭在知乎随手答了一波：[有什么建议给第一次参加国际学术会议的本科生？](https://www.zhihu.com/question/50603131/answer/3348461907)结果一堆人围观，网站日访量直接破500了，*瑟瑟发抖*。
 
 <center>
 <img src="/blogs/aaai-24.assets/image-20240102233256486.png">
 </center>
-<br>0125更新，护照获批了，太开心！后面会在@b站出一期经验视频：[如何从0到1注册一场国际会议](https://space.bilibili.com/594030035)
+<br>0125更新，签证approved了，太开心！后面计划在@b站出一期经验视频：[如何从0到1注册一场境外国际会议](https://space.bilibili.com/594030035)
 
 <br>
 
@@ -51,9 +49,9 @@ title: Lance的第一次AAAI参会实录
 
 #### 机票酒店
 
-AAAI-UC给提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbourfront
+AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbourfront（温哥华港湾品尼高酒店）
 
-<br>查了一下标间，2月的价格大概是2000港币一晚，白嫖真爽😎
+<br>查了一下标间，2月的价格大概是2000港币一晚，白嫖真爽！
 
 <center>
 <img src="/blogs/aaai-24.assets/image-20240103220603425.png">
