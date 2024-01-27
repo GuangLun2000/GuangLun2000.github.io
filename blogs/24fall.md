@@ -51,11 +51,11 @@ title: 24Fall申请记录
 
 曼大今年不需要交申请费，也不要求PS文书和推荐信。非常友好，早早地发来了第一封offer🥰
 
-<br>第一专业录取：MSc Advanced Control and Systems Engineering，这个项目可以申请extended reserach，也就是多读一年做reserach（但是要交两年学费呀，不去）
+<br>第一专业录取：`MSc Advanced Control and Systems Engineering`，这个项目可以申请extended reserach，也就是多读一年做reserach（但是要交两年学费呀，不去）
 
-<br>笔者第二专业投的是：MSc Advanced Manufacturing Technology & Systems Management
+<br>笔者第二专业投的是：`MSc Advanced Manufacturing Technology & Systems Management`
 
-<br>因为两个项目同属工程学院，第一个录取了之后，另一个似乎会暂停审理 `到24年都没有给消息`。
+<br>因为两个项目同属工程学院，第一个录取了之后，另一个似乎会暂停审理 `到2024年都没有给消息`。
 
 <br>
 
@@ -69,13 +69,13 @@ title: 24Fall申请记录
 - 12.12 Review in progress
 - 12.15 Conditional Offer🎊
 
-12月12号，IC系统状态从With department变成了Review in progress，看到小红书说是录取的有利信号
+`12月12号`，IC系统状态从With department变成了Review in progress，看到小红书说是录取的有利信号
 
-<br>15号收到了con-offer，要求我的陆本均分85+，海本均分二等一(65+)，雅思7(6.5)
+<br>`12月15号`收到了con-offer，要求我的陆本均分85+，海本均分二等一(65+)，雅思7(6.5)
 
-<br>第一志愿顺利录取Security and Resilience: Science and Technology，第二志愿填的是Control and Optimisation，录取第一志愿后，第二志愿会自动withdraw
+<br>第一志愿顺利录取`Security and Resilience: Science and Technology`，第二志愿填的是`Control and Optimisation`。IC比较特殊，每年只能投一次MSc申请（或者两个志愿分开投2次）。录取第一志愿后，第二志愿会自动withdraw!
 
-<br>申请季的第二封offer🍻
+<br>申请季的第二封offer🍻恭喜自己！
 
 ----
 
@@ -85,7 +85,7 @@ title: 24Fall申请记录
 - 11.02 Application Received
 - 11.07 Two References Reveived
 
-12月25号，圣诞假期了，UCL你让我等得好苦啊😭
+`12月25号`，圣诞假期了，UCL你让我等得好苦啊😭
 
 <br>
 
@@ -100,11 +100,11 @@ title: 24Fall申请记录
 
 KCL的申请系统设计得很丝滑，申请提交非常舒服
 
-<br>但要吐槽一句，120磅的申请费，国王学院，真尼玛贵...
+<br>但要吐槽一句，120磅的申请费，国王学院，真尼玛贵！
 
-<br>12月22号，冬至当天，吃到了好吃的羊肉，拿到了“王的录取”👑
+<br>`12月22号`，冬至当天，吃到了好吃的羊肉，拿到了“王的录取”👑
 
-<br>笔者录取的专业是：Robotics MSc
+<br>笔者录取的专业是：`Robotics MSc`
 
 <br>
 
@@ -118,9 +118,9 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 爱丁堡，爱宝，不需要申请费。推荐信可以由学生自行提交，也可以选择网推。
 
-<br>1月20号在官网查到了录取，申请季的第四封offer🥳
+<br>`1月20号`收到update邮件，然后在官网查到了录取，申请季的第四封offer🥳
 
-<br>笔者录取的专业是：MSc Signal Processing and Communications
+<br>笔者录取的专业是：`MSc Signal Processing and Communications`，在小红书上看，似乎很多学长姐在吐槽这个专业，读者如果想申请的话，可能需要注意一下。不过俺不会去啦！
 
 <br>
 
@@ -136,7 +136,7 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
   - 12.27 Two References Reveived
   - 01.08 Under review by department
 
-12月5号，卡着Funding deadline提交了申请，写推荐信的教授们太给力了，当天两封reference全部集齐，顺利提交🥳
+`12月5号`，卡着Funding deadline提交了申请，写推荐信的教授们太给力了，当天两封reference全部集齐，顺利提交☺️
 
 <br>这个申请季**最喜欢、也最重要的一个项目**，希望一切顺利吧！静侯佳音。
 
