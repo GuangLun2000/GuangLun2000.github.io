@@ -49,20 +49,12 @@ title: Lance的第一次AAAI参会实录
 
 #### 机票酒店
 
-AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbourfront（温哥华港湾品尼高酒店）
-
-<br>查了一下标间，2月的价格大概是2000港币一晚，白嫖真爽！
+AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbourfront（温哥华港湾品尼高酒店），查了一下标间2月的价格，大概是2000港币一晚，白嫖真爽！
 
 <center>
 <img src="/blogs/aaai-24.assets/image-20240103220603425.png">
 </center>
-<br>
-
-----
-
-#### 参会照片
-
-
+<br>0127开始订航班，决定2月19号从厦门高崎机场出发，途径香港中转，然后再飞温哥华。2月28号返程，香港中转后飞回福州长乐机场，然后就直接回学校了。
 
 <br>
 
@@ -71,7 +63,5 @@ AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbour
 #### 一些闲言碎语
 
 攒人品ing
-
-
 
 <br>
