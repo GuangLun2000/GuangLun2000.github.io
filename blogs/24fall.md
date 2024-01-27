@@ -51,11 +51,11 @@ title: 24Fall申请记录
 
 曼大今年不需要交申请费，也不要求PS文书和推荐信。非常友好，早早地发来了第一封offer🥰
 
-<br>第一专业录取：MSc Advanced Control and Systems Engineering，这个项目可以申请extended reserach，也就是多读一年做reserach
+<br>第一专业录取：MSc Advanced Control and Systems Engineering，这个项目可以申请extended reserach，也就是多读一年做reserach（但是要交两年学费呀，不去）
 
 <br>笔者第二专业投的是：MSc Advanced Manufacturing Technology & Systems Management
 
-<br>因为两个项目同属工程学院，第一个录取了之后，另一个似乎会暂停审理
+<br>因为两个项目同属工程学院，第一个录取了之后，另一个似乎会暂停审理 `到24年都没有给消息`。
 
 <br>
 
