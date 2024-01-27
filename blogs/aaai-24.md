@@ -20,7 +20,7 @@ title: Lance的第一次AAAI参会实录
 
 - **12.26**：邮政EMS，收到新护照（正好7天到手）
 - **12.27**：收到AAAI发来的正式参会邀请函
-- **12.27**：整理好所有材料，提交IRCC系统
+- **12.27**：整理好所有材料，提交的是[IRCC系统](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html)
 - **12.28**：收到指纹信，预约了1.02上午的生物采集
 - **01.02**：在杭州完成指纹采集，开始等待IRCC审核，保佑顺利
 - **01.25**：上午收到了贴签信，IRCC approved🎊
