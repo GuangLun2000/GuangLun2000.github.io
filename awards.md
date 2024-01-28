@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 28th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+> Lastest Update: 28th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
 ## Scholarships
 
