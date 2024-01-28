@@ -14,6 +14,8 @@ title: summer-res
 
 <br>如果读者希望获取最新的讯息，建议使用Google搜索: `对应学校 + Summer Reserach Internship Programme`
 
+[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/summer-research-app&type=Date)](https://star-history.com/#GuangLun2000/summer-research-app&Date)
+
 ---
 
 - ### 暑研扫盲<br>
@@ -147,3 +149,7 @@ title: summer-res
 <br>项目地址：[summer-research-app](https://github.com/GuangLun2000/summer-research-app)
 
 <br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Nov 2023.
+
+<br>
+
+![欢迎微信交流](%E6%AC%A2%E8%BF%8E%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81.png)
