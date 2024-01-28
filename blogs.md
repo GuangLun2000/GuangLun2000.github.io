@@ -10,7 +10,7 @@ title: Blogs
 
 - [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
 - [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
-- [美国大学生数学建模竞赛指南](https://caihanlin.com/blogs/team2023)
+- [本科生数学建模竞赛指南](https://caihanlin.com/blogs/team2023)
 
 ### 2023
 
