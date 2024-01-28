@@ -5,7 +5,7 @@ title: IoE
 ---
 ## Research Notes for IoE Group
 
-> Final update in: 2024/01/24
+> Final update in: 2024/01/28
 
 These research notes provide my thoughts and findings related to ongoing projects within the Cambridge IoE Group, led by Prof. Ozgur B. Akan. More information can be found here: [IoE Group](https://ioe.eng.cam.ac.uk/).
 
@@ -161,6 +161,6 @@ Molecular communication is a novel communication paradigm that uses molecules as
 
 ---
 
-> Final update in: 2024/01/24.
->
+
+
 > To be continued.
