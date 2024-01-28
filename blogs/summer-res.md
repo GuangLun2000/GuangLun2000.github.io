@@ -14,6 +14,8 @@ title: summer-res
 
 <br>如果读者希望获取最新的讯息，建议使用Google搜索: `对应学校 + Summer Reserach Internship Programme`
 
+<br>
+
 [![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/summer-research-app&type=Date)](https://star-history.com/#GuangLun2000/summer-research-app&Date)
 
 ---
