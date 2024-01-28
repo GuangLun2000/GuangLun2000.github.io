@@ -21,7 +21,7 @@ Lastest Update: 28th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://c
 
 ## Competitions
 
-- Oct 2023：Finalist of China International Internet+ Innovation and Entrepreneurship Competition (Top 3%)
+- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
 - Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
 - Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
 - Aug 2023：Second Prize in National College Digital Art&Design Awards
