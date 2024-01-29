@@ -4,7 +4,7 @@ permalink: /blogs/summer-res/index.html
 title: summer-res
 ---
 
-## Summer Research App
+# Summer Research App
 
 又到一年十二月，很多海外高校陆陆续续开放2024年度的官方暑研申请了，去年在知乎、一亩三分地等平台获得了很多有益的资讯，今年也来回馈一下社区。
 
@@ -18,15 +18,15 @@ title: summer-res
 
 ----
 
-### Star History
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/summer-research-app&type=Date)](https://star-history.com/#GuangLun2000/summer-research-app&Date)
+<br>[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/summer-research-app&type=Date)](https://star-history.com/#GuangLun2000/summer-research-app&Date)
 
 <br>
 
 ---
 
-### Useful Links
+## Useful Links
 
 - ### 暑研扫盲<br>
   
@@ -168,7 +168,7 @@ title: summer-res
 
 ---
 
-### 付费咨询
+## 付费咨询
 
 暑期科研，免费邮件咨询：[hanlin.cai@ieee.org](mailto:hanlin.cai@ieee.org)，仅限回答**2个**（组织良好且有趣）的问题。
 

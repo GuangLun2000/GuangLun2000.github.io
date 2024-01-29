@@ -15,13 +15,13 @@ title: Blogs
 ### 2023
 
 - [21岁，何妨吟啸且徐行🎂](https://caihanlin.com/blogs/21yrs)<br>
-- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
+- [极简风Jekyll个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
 - [海外暑研申请指南](https://caihanlin.com/blogs/summer-res)<br>
 
 ### 2022
 
 - [20岁，宽心且看月中桂🎂](https://caihanlin.com/blogs/20yrs)<br>
-- [Cambridge 线上暑研回忆录](https://caihanlin.com/blogs/cambridge/)<br>
+- [Cambridge暑研回忆录](https://caihanlin.com/blogs/cambridge/)<br>
 - [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
 
 ### 2021
@@ -48,6 +48,6 @@ title: Blogs
 
 [Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
+<br>[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
 
 <br>
