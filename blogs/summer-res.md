@@ -136,7 +136,7 @@ title: summer-res
   
   - 港校暑研的信息很透明，这里仅提供学校的官网，建议大家尝试自行搜寻信息哈！
   
-  - 其实就是笔者很懒😌
+  - 其实就是笔者很懒😌~
   
   - [SURP 申请  ｜香港中文大学暑期课程](https://www.summer.cuhk.edu.hk/surp_app/)
   
@@ -170,10 +170,8 @@ title: summer-res
 
 ### 付费咨询
 
-暑期科研，免费邮件咨询：[hanlin.cai@ieee.org](mailto:hanlin.cai@ieee.org)，仅限回答2个（组织良好且有趣）的问题
+暑期科研，免费邮件咨询：[hanlin.cai@ieee.org](mailto:hanlin.cai@ieee.org)，仅限回答**2个**（组织良好且有趣）的问题。
 
-欢迎付费咨询，线上腾讯会议1v1，良心费用100元/每小时，保证你有所收获。欢迎加我微信。
-
-<br>
+欢迎付费咨询，线上腾讯会议1v1，良心费用100元/小时，保证有所收获，欢迎加我微信。
 
 <br>![wechat](yrs.assets/wechat.png)

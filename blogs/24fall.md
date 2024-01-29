@@ -178,4 +178,4 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 <br>
 
-![wechat](yrs.assets/wechat.png)
+<br>![wechat](yrs.assets/wechat.png)
