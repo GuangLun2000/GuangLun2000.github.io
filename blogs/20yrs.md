@@ -9,6 +9,8 @@ title: 20yrs
 > 暗中渐渐见分明，花开花谢结子成。
 >
 > 宽心且看月中桂，郎君即便见太平。
+>
+> ——泉州灵源寺
 
 忙碌中迎来了自己的第二十岁。
 
@@ -43,8 +45,6 @@ title: 20yrs
 <center>
 <img src="/blogs/yrs.assets/2022.jpg">
 </center>
-
-
-
+<br>
 
 <p align="right">2022年冬</p>
