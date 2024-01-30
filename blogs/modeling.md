@@ -52,16 +52,13 @@ title: Lance Club
 
 ### 美赛合作团队 2024
 
-- **Honglin Liao**, Jiacheng Huang, Wenzhuo Fan
+- HL team
+- ZZ team
   - 指导获得，2023年亚太杯，国家级二等奖
 
-- **Zhou Zhang**, Yiwei Zhang, Zhekai Yin
-
-- **Run Bai**, Yuechen Qiu, Yanru Chen
-
-- **Wei Wu**, Sijia Wang, Weibin Luo
-
-- Waiting for your team!
+- RB team
+- WW team
+- **Waiting for your team!**
 
 <br>
 
