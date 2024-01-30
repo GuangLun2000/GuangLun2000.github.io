@@ -29,7 +29,7 @@ title: 24Fall申请记录
 
 ## Background
 
-首先按照知乎惯例，说明一下笔者的申请背景 `截自2024/01/20`：
+首先按照知乎惯例，说明一下笔者的申请背景 `截自2024/01/01`：
 
 - **院校情况：**大陆中流211院校，中外合作，半海本背景
 - **中方成绩：**GPA 3.81 (~8%)，算数均分 88.38 (~5%)
@@ -135,7 +135,8 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 - 12.05 Major-2 Submitted
   - 12.05 Two References Reveived
   - 12.18 Under review by department
-
+  - **01.30 (DC)** Your application is under review by the Degree Committee
+  
 - 12.27 Major-2 Submitted
   - 12.27 Two References Reveived
   - 01.08 Under review by department
