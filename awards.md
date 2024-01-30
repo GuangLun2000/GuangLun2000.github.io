@@ -8,7 +8,7 @@ title: Awards
 
 ## Scholarships
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only [20 undergraduates](https://aaai-uc.github.io/) are selected around the world
+- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only [12 undergraduates](https://aaai-uc.github.io/) are selected around the world
 - Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU
 - May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
 - Oct 2023：Best Academic Performance of Maynooth (€100)
