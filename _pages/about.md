@@ -24,6 +24,8 @@ Academic Background
 
 
 
+---
+
 
 Research Interests
 ======
@@ -37,7 +39,7 @@ Research Interests
 
 
 
-
+----
 Academic Experience 
 ======
 * Teaching Assistant of **Engineering Probability & Statistics**, <small> Sep 2023- Jan 2023</small> 
@@ -72,10 +74,7 @@ Volunteer work & Affiliations
   * Logisia Magazine.
      * Author and translator on the topics of Artificial Intelligence and Software engineering in Logisia magazine in the university of Tabriz Electrical and Computer Engineering Faculty.
 
-
-
-<br>
-
+----
 
 
 
