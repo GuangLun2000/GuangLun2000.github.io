@@ -4,23 +4,18 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="./images/salar.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Salar Mokhtari Laleh**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+As a passionate student of computer engineering with a strong interest in Artificial Intelligence, I am eager to explore the frontiers of this rapidly growing field and contribute to innovative research and development projects. Throughout my academic career, I have gained a solid foundation in computer science, mathematics, and related disciplines, and have begun to develop expertise in areas such as machine learning, natural language processing, and computer vision. Through internships and coursework, I have also gained practical experience in applying AI to real-world problems and have demonstrated strong analytical, problem-solving, and communication skills.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *salarmokhtari0[at]gmail[dot]com*
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+- B.Sc. Computer Engineering, University of Tabriz, <small> Sep 2018- Oct 2023</small> 
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
 
 <br>
 
@@ -28,28 +23,72 @@ Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Look
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Industrial Automation
-- Network and Cybersecurity
-- Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+| :--------: | :-------: |
+| Machine Learning  |  Robotics |
+| IoT | Network and Cybersecurity |
+| Optimization    | Algorithm    |
 
 <br>
 
 ---
 
-## News and Updates
+## Academic Experience 
 
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department at Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan (online).
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+* Teaching Assistant of **Engineering Probability & Statistics**, <small> Sep 2023- Jan 2023</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Seyed Amir Mortazavi
+
+* Teaching Assistant of **Software Engineer 1**, <small> Sep 2023- Jan 2023</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Leili Farzinvash
+
+* Teaching Assistant of **Algorithm Design**, <small> Feb 2023- Jun 2023</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Pedram Salhpour
+
+* Teaching Assistant of **Linear Algebra and its applications**, <small> Apr 2021- Sep 2022</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Seyed Amir Mortazavi
+
+* Teaching Assistant of **Discrete Mathematics**, <small> Jan 2021- May 2022</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Seyed Amir Mortazavi
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m thrilled to share that I have been awarded the AAAI 2024 Undergraduate Scholarship and will be attending the AAAI Conference in Vancouver this coming February.<br><br>I am also looking for PhD to start in 2025 Fall. Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1738533328490463639?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Volunteer work & Affiliations 
+
+* Member of the Computer Engineering Association of Tabriz University , <small> Jan 2021 – Jan 2023</small> 
+  * Computer Engineering Association of Tabriz university.
+    * Responsible for proposing and arranging scientific and recreational events for students of Electrical and Computer Engineering faculty at the University of Tabriz.
+
+* Writer,  <small> Apr 2020 – Mar 2021</small>
+  * Logisia Magazine.
+     * Author and translator on the topics of Artificial Intelligence and Software engineering in Logisia magazine in the university of Tabriz Electrical and Computer Engineering Faculty.
+
+
+
+<br>
+
+
+
+
+## Tests
+
+* GRE General Test:
+  * Q: 168; V: 162; AW: 4.0
+  * Test date: August 30, 2023
+
+
+
+<br>
+
+
+
+
+## References 
+
+| :--------: | :-------: |
+| **Dr. Seyed Amir Mortazavi** <br>sa.mortezavi@tabrizu.ac.ir |  **Dr. Pedram Salehpour** <br>psalehpoor@tabrizu.ac.ir |
+| **Dr. Leili Farzinvash** <br>l.farzinvash@tabrizu.ac.ir | **Dr. Abdulhamid Moalemi Khayavi** <br>s moallemi@tabrizu.ac.ir   |
