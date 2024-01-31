@@ -23,10 +23,6 @@ Academic Background
 * B.Sc. Computer Engineering, University of Tabriz, <small> Sep 2018- Oct 2023</small> 
 
 
-<br>
-
----
-
 
 
 Research Interests
@@ -40,9 +36,6 @@ Research Interests
 | Optimization    | Algorithm    |
 
 
-<br>
-
----
 
 
 Academic Experience 
@@ -67,7 +60,7 @@ Academic Experience
   * Faculty of electrical and computer engineering, University of Tabriz, Iran.
   * Lecturer: Dr.Seyed Amir Mortazavi
   
-<br>
+
 
 Volunteer work & Affiliations 
 ======
@@ -83,7 +76,6 @@ Volunteer work & Affiliations
 
 <br>
 
----
 
 
 
@@ -97,9 +89,7 @@ Tests
 
 
 
-<br>
 
----
 
 
 
