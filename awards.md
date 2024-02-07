@@ -38,9 +38,9 @@ title: Awards
 - May 2023：XiamenAir Scholarship<br>Funded by Xiamen Airline, China
 - May 2023：Outstanding Student Leaders of FZU
 - May 2021：Merit Student of Fuzhou University
-- <font color='gray'>July 2023：*Nomination for Baosteel Scholarship*</font>
-- <font color='gray'>Sep 2022：*Nomination for China National Scholarship*</font>
-- <font color='gray'>June 2022：*Nomination for China Telecom Scholarship*</font><br>
+- *<font color='gray'>July 2023：Nomination for Baosteel Scholarship</font>*
+- *<font color='gray'>Sep 2022：Nomination for China National Scholarship</font>*
+- *<font color='gray'>June 2022：Nomination for China Telecom Scholarship</font>*<br>
 
 ## Services
 
