@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 28th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+> Lastest Update: 8th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
 ## Scholarships
 
@@ -33,22 +33,21 @@ title: Awards
 
 ## Honors
 
-- Dec 2023：AAAI 2024 UC Scholar
-- Aug 2023：FEPG Scholarship (Top 0.5%)<br>Funded by Fujian Energy Petrochemical Group (FEPG)
-- May 2023：XiamenAir Scholarship (Top 1%)<br>Funded by Xiamen Airline, 30 students each year
+- Dec 2023：AAAI 2024 UC Scholar<br>Mentor: Tozammel Hossain, University of North Texas
+- Aug 2023：FEPG Scholarship<br>Funded by Fujian Energy Petrochemical Group
+- May 2023：XiamenAir Scholarship<br>Funded by Xiamen Airline, China
 - May 2023：Outstanding Student Leaders of FZU
-- May 2022：Merit Student of Fuzhou University
 - May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+- <font color='gray'>July 2023：*Nomination for Baosteel Scholarship*</font>
+- <font color='gray'>Sep 2022：*Nomination for China National Scholarship*</font>
+- <font color='gray'>June 2022：*Nomination for China Telecom Scholarship*</font><br>
 
 ## Services
 
 - Dec 2023 - Present：AAAI Student Membership
 - Sep 2022 - Present：IEEE Student Membership
 - Sep 2022 - Present：CAAI Student Membership
-- April 2022：[Top 10 Best Volunteers (Only 10/30000) of Fuzhou University](https://mp.weixin.qq.com/s?__biz=MjM5ODIyNzIyMg==&mid=2652762645&idx=1&sn=3d58cdfb0fb26db7a2b82aee9726b172&chksm=bd24ae6c8a53277a8910f7336758100ec4d4c4f19b8de74c4ccebc9a95ace364c0faf2b2c0b3&scene=27)
+- [April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University](https://mp.weixin.qq.com/s?__biz=MjM5ODIyNzIyMg==&mid=2652762645&idx=1&sn=3d58cdfb0fb26db7a2b82aee9726b172&chksm=bd24ae6c8a53277a8910f7336758100ec4d4c4f19b8de74c4ccebc9a95ace364c0faf2b2c0b3&scene=27)
 - Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at [the 44th session of the World Heritage Committee](https://whc.unesco.org/en/sessions/44COM)
+- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
 - April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
