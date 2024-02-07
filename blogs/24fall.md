@@ -10,7 +10,7 @@ title: 24Fall申请记录
 >
 > 更新时间：2023/02/07
 
-笔者在2024Fall入学的申请季中，一共申请了英国的6所院校，共计7个项目。
+笔者在2024Fall入学的申请季中，一共申请了英国的6所院校，共计9个项目。
 
 <br>按照申请投递时间，排序如下：
 
@@ -91,7 +91,7 @@ title: 24Fall申请记录
 
 12月25号，圣诞假期了，UCL你让我等得好苦啊😭
 
-<br>2月7号，IC的留位费都要到due了，UCL还是没动静，这怎么招得到学生啊？真龟速（吐槽）
+<br>2月7号，IC的留位费都要到due了，UCL还是没动静，这怎么招得到学生啊？`真龟速（吐槽）`
 
 <br>
 
@@ -126,7 +126,7 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 <br>1月20号收到update邮件，然后在官网查到了录取，申请季的第四封offer🥳
 
-<br>笔者录取的专业是：MSc Signal Processing and Communications，在小红书上看，似乎很多学长姐在吐槽这个专业，读者如果想申请的话，可能需要注意一下。不过俺不会去啦！
+<br>笔者录取的专业是：MSc Signal Processing and Communications，在小红书上看，似乎很多学长姐在吐槽这个专业，读者如果想申请的话，可能需要注意一下。不过，俺不会去啦！
 
 <br>
 
@@ -135,23 +135,23 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 ## University of Cambridge
 
 - 12.05 Major-2 Submitted
+  - Programme: MPhil in Engineering (Research)
+    - Advisor: Özgur B. Akan
   - 12.05 Two References Reveived (before due)
   - 12.18 Under review by department
   - 01.30 (DC) Your application is under review by the Degree Committee
   - 02.01 (DP) Decision Pending - Your application is currently under review
-  - Programme: MPhil in Engineering (Research)
-  - Advisor: Özgur B. Akan
 - 12.27 Major-2 Submitted
+  - Programme: MPhil in Industrial Systems, Manufacture, and Management (ISMM)
   - 12.27 Two References Reveived
   - 01.08 Under review by department
   - 02.01 Unsuccessful
-  - Programme: MPhil in Industrial Systems, Manufacture, and Management (ISMM)
 
 12月5号，卡着Funding deadline提交了申请，写推荐信的教授们太给力了，当天两封reference全部集齐，顺利提交☺️
 
 <br>这个申请季**最喜欢、也最重要的一个项目**，希望一切顺利吧！静侯佳音。
 
-<br>12月25号，最近在办理[AAAI-24的签证🇨🇦](https://caihanlin.com/blogs/aaai-24/)，事情好多，希望赶快搞定剑桥第二专业的材料，加油！
+<br>12月25号，最近在办理[AAAI-24的签证🇨🇦](https://caihanlin.com/blogs/aaai-24/)，事情好多，希望赶快搞定剑桥第二个项目的材料，加油！
 
 <br>12月27号上午，完成了最后一个项目的投递。**至此，笔者的24Fall申请季结束🍻这段时间辛苦了，静候佳音！**
 
@@ -183,7 +183,5 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 申请哲学：好好努力，心平气和，静候佳音！
 
 <br>一切都是最好的安排 🥰
-
-<br>
 
 <br>![wechat](yrs.assets/wechat.png)
