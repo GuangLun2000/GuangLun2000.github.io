@@ -133,13 +133,17 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 ## University of Cambridge
 
 - 12.05 Major-2 Submitted
-  - 12.05 Two References Reveived
+  - 12.05 Two References Reveived (before due)
   - 12.18 Under review by department
-  - **01.30 (DC)** Your application is under review by the Degree Committee
-  
+  - 01.30 (DC) Your application is under review by the Degree Committee
+  - 02.01 (DP) Decision Pending - Your application is currently under review
+  - Programme: MPhil in Engineering (Research)
+  - Advisor: Özgur B. Akan
 - 12.27 Major-2 Submitted
   - 12.27 Two References Reveived
   - 01.08 Under review by department
+  - 02.01 Unsuccessful
+  - Programme: MPhil in Industrial Systems, Manufacture, and Management (ISMM)
 
 12月5号，卡着Funding deadline提交了申请，写推荐信的教授们太给力了，当天两封reference全部集齐，顺利提交☺️
 
@@ -165,7 +169,8 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
   - 两年制的研究型项目，很特殊。招生人数极少。笔者的套瓷导师基本上石沉大海。
   - 笔者在11月下旬才了解到，该专业近三年的招生人数都不超过5人！因此最后没有投递。
 - *MSc in Mathematical Modelling and Scientific Computing*
-  - 要求本科需要上过ODE和PDE的课程，因为笔者没有强数学背景，申请的成功概率和投入产出比都不高。
+  - 要求本科需要上过ODE和PDE的课程，因为笔者没有强数学背景
+  - 申请的成功概率和投入产出比都不高，最后没有投递。
 
 <br>
 
