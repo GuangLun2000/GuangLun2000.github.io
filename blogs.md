@@ -10,7 +10,7 @@ title: Blogs
 
 - [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
 - [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
-- 开源工作第一年，500Star，盈利五位数
+- [开源第一年，500Stars，盈利五位数]
 
 ### 2023
 
