@@ -16,11 +16,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
+- **Sep 2024 - Sep 2025：**Cambridge University (MPhil)
 - **Sep 2020 - June 2024:** Maynooth University (BSc)
+- **Sep 2020 - June 2024:** Fuzhou University (BEng)
 - **June 2022 - Nov 2022:** Cambridge University (Exchange)
-
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
 
 <br>
 
@@ -42,8 +41,9 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
+- **Feb 2024：**Got a MSc offer from the CS department of UCL.
 - **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department at Imperial College London.
+- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
 - **Aug 2023：**Happy to be awarded the FEPG Scholarship.
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Collected the Finalist Award in MCM**/**ICM 2023 (Top 1%).

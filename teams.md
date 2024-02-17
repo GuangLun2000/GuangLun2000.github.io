@@ -36,8 +36,6 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 
 > Our group website: https://fzuiot.site/
 
-<br>
-
 <left>
   <img src = "https://p.ipic.vip/l97lne.jpg">
 </left>
