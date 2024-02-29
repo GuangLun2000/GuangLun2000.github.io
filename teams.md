@@ -6,7 +6,7 @@ title: Teams
 
 ## Motivation
 
-As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the concept that one must become their own "boss" and setup their own business. In my heart, I firmly believe that I belong to the business world (maybe not the academic one).<br>
+As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the concept that one must become their own "boss" and setup their own business. In my heart, I firmly believe that I belong to the business world.<br>
 
 ## OpenIoT Team
 
@@ -16,7 +16,7 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 
 - **Jan 2024：**Our team won the Finalist Award (Top 3%) in China International College Students’ Innovation Competition.
 - **Sep 2023：**Our work [Defender](https://fzuiot.site/) has been reported by [Youth of FZU (News)](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **May 2023：**If you are interested in the IoT, robotics, or AIGC, we welcome you to [join OpenIoT](https://fzuiot.site/english/).
+- **May 2023：**If you are interested in the IoT, robotics, or AIGC, we welcome you to [join OpenIoT](https://fzuiot.site/english/).<br>
 
 <br>
 
