@@ -172,6 +172,6 @@ title: summer-res
 
 暑期科研，免费邮件咨询：[hanlin.cai@ieee.org](mailto:hanlin.cai@ieee.org)，仅限回答**2个**（组织良好且有趣）的问题。
 
-<br>欢迎付费咨询：线上腾讯会议1v1，良心费用100元/小时，保证有所收获，欢迎加我微信。
+<br>欢迎付费咨询：线上腾讯会议1v1咨询，费用100元/小时，欢迎联系我。
 
 <br>![wechat](yrs.assets/wechat.png)
