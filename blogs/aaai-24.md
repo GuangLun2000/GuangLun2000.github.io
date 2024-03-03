@@ -6,7 +6,7 @@ title: Lance的第一次AAAI参会实录
 
 ## AAAI-2024 参会实录
 
-> 更新时间：2024/02/07
+> 更新时间：2024/03/03
 
 本文记录了笔者参加AAAI 2024的心路历程，笔者在此之前没有签证经历（白本护照，福建户口，敏感专业+地区）
 
@@ -15,9 +15,8 @@ title: Lance的第一次AAAI参会实录
 - **12.15**：晚上10点，收到[AAAI-UC 2024](https://aaai.org/aaai-conference/undergraduate-consortium/)的中稿邮件
 - **12.17**：开始准备加拿大签证材料（各种流水）
 - **12.19**：旧护照过期，在福州市民中心办理新护照
-- **12.21**：在[getregistered](https://aaai.getregistered.net/conference-2024)注册了会议，全选，花了250刀
-  - 使用AAAI-UC的优惠码：*2024UC*，可以打折😎
-
+- **12.21**：在[getregistered](https://aaai.getregistered.net/conference-2024)注册了会议，全选花了250刀
+  
 - **12.26**：邮政EMS，收到新护照（正好7天到手）
 - **12.27**：收到AAAI发来的正式参会邀请函
 - **12.27**：整理好所有材料，提交[IRCC系统](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html)
@@ -25,7 +24,7 @@ title: Lance的第一次AAAI参会实录
 - **01.02**：在杭州完成指纹采集，开始等待IRCC审核，保佑顺利
 - **01.25**：上午收到了贴签信，IRCC approved🎊
 - **01.26**：从福州寄出护照贴签，希望是十年签
-- **02.07**：收到系统更新，visa就给到了24年8月，好小气哦！
+- **02.07**：收到系统更新，Visa就给到了24年8月，好小气哦！
 - **02.19**：出发，厦门，香港，温哥华！
 
 <br>
@@ -43,7 +42,7 @@ title: Lance的第一次AAAI参会实录
 <center>
 <img src="/blogs/aaai-24.assets/image-20240102233256486.png">
 </center>
-<br>0125更新，签证approved了，太开心！后面计划在@b站出一期经验视频：[如何从0到1注册一场境外国际会议](https://space.bilibili.com/594030035)
+<br>0125更新，签证approved了，太开心！后面计划在b站出一期经验视频：[@小白如何参与一场国际会议](https://space.bilibili.com/594030035)
 
 <br>
 
@@ -64,9 +63,7 @@ AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbour
 - CX888 — 2月20日 香港-温哥华 01:00-20:30 (-1)
 - CX865 — 2月28日 温哥华-香港 00:05-06:45 (+1)
 - CX990 — 2月29日 香港-福州 17:55-19:35
-- 有需要推荐可以加我哈（文末）
-
-
+- 有需要推荐机票中介可以联系笔者（无偿）
 
 <br>
 
@@ -75,6 +72,14 @@ AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbour
 #### 一些闲言碎语
 
 攒人品ing
+
+<br>
+
+---
+
+#### Wonderful Moment
+
+
 
 
 

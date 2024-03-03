@@ -8,7 +8,7 @@ title: 24Fall申请记录
 
 > **申请哲学：好好努力，心平气和，静候佳音**
 >
-> 更新时间：2023/02/17
+> 更新时间：2023/03/02
 
 笔者在2024Fall入学的申请季中，一共申请了英国的6所院校，共计7个项目。
 
@@ -19,7 +19,7 @@ title: 24Fall申请记录
 - University College London 🎊02.17
 - King’s College London 🎊12.22
 - University of Edinburgh 🎊01.20
-- University of Cambridge 🎊02.22
+- University of Cambridge 🎊03.02
 
 🎊 (表示已经拿到conditional offer)
 
@@ -38,7 +38,7 @@ title: 24Fall申请记录
 - **论文：**1篇水刊，2篇水会，1篇ccf-a会，1篇二区在审（均一作）
 - **竞赛：**数学建模美赛一等奖，4个国内比赛的国奖
 - **奖学金：**主持1项国家级大创基金SRT，厦航奖学金，能化奖学金，N个校内奖学金
-- **推荐信：**校内实验室大老板强推，海本院长强推，海本AP强推，剑桥教授模版推（只在套瓷的时候用到）
+- **推荐信：**校内实验室大老板强推，海本院长强推，海本AP强推
 - **整体经历：**校内科研2段，剑桥暑研1段，工业实习1段
 
 <br>
@@ -57,7 +57,7 @@ title: 24Fall申请记录
 
 <br>笔者第二专业投的是：MSc Advanced Manufacturing Technology & Systems Management
 
-<br>第一个录取了之后，另一个似乎会暂停审理 `到2024年都没有给消息`。2月15日给发了拒信，因为两个项目同属于工程学院，可能commitee看到第一个offer没有被相应，也不乐意发第二个offer。
+<br>第一个录取了之后，另一个似乎会暂停审理 `到2024年都没有给消息`。2月15日给发了拒信，因为两个项目同属于工程学院，可能commitee看到第一个offer没有响应，可能也不乐意发第二个offer。
 
 <br>所以读者朋友在申请曼大的时候，最好是选择两个不同学院的项目来申。但如果本身就是当作保底校的话，就无所谓了。笔者认为overqualified有可能会直接被拒，毕竟人家也知道你大概率不会去。
 
@@ -133,7 +133,7 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 <br>1月20号收到update邮件，然后在官网查到了录取，申请季的第四封offer🥳
 
-<br>笔者录取的专业是：MSc Signal Processing and Communications，在小红书上看，似乎很多学长姐在吐槽这个专业，读者如果想申请的话，可能需要注意一下，不过笔者不会去啦。
+<br>笔者录取的专业是：MSc Signal Processing and Communications，在小红书上似乎很多同学吐槽这个专业，读者如果想申请的话，可能需要注意一下。
 
 <br>
 
@@ -141,26 +141,25 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 ## University of Cambridge
 
-- 12.05 Major-1 Submitted
-  - *Programme: MPhil in Engineering (Research), advised by Prof. Özgur B. Akan*
+- 12.05 Programme: MPhil in Engineering (Research)
   - 12.05 Two References Reveived (before due)
   - 12.18 Under review by department
   - 01.30 (DC) Your application is under review by the Degree Committee
   - 02.01 (DP) Decision Pending - Your application is currently under review
   - 02.09 (PAO) Review by the Postgraduate Admissions Office
-- 12.27 Major-2 Submitted
-  - *Programme: MPhil in Industrial Systems, Manufacture, and Management (ISMM)*
+  - 03.02 Conditional offer made
+- 12.27 MPhil in Industrial Systems, Manufacture, and Management (ISMM)
   - 12.27 Two References Reveived
   - 01.08 Under review by department
   - 02.01 Unsuccessful
 
 12月5号，卡着Funding deadline提交了申请，写推荐信的教授们太给力了，当天两封reference全部集齐，顺利提交☺️
 
-<br>这个申请季**最喜欢、也最重要的一个项目**，希望一切顺利吧！静侯佳音。
+<br>这个申请季最重要、也最中意的一个项目，希望一切顺利！
 
-<br>12月25号，最近在办理[AAAI-24的签证🇨🇦](https://caihanlin.com/blogs/aaai-24/)，事情好多，希望赶快搞定剑桥第二个项目的材料，加油！
+<br>12月25号，最近在办理[AAAI-24加拿大签证🇨🇦](https://caihanlin.com/blogs/aaai-24/)，事情好多，希望赶快搞定剑桥第二个项目的材料。
 
-<br>12月27号上午，完成了最后一个项目的投递。**至此，笔者的24Fall申请季结束🍻这段时间辛苦了，静候佳音！**
+<br>12月27号上午，完成了最后一个项目的投递。至此，笔者的24Fall申请季结束🍻这段时间辛苦了，静候佳音！
 
 <br>
 
@@ -170,16 +169,15 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 12月24号，正在考虑要不要投递呢🧐没找到很合适的program
 
-<br>12月27号，最后和老师商量了一下，决定不投递牛津的申请，全力冲刺剑桥。
+<br>12月27号，最后和顾问商量了一下，决定不投递牛津的申请，全力冲刺剑桥。
 
 <br>原本方案中拟定的专业如下：
 
-- *MSc by Research in Engineering Science*
+- MSc by Research in Engineering Science
   - 两年制的研究型项目，很特殊。招生人数极少。笔者的套瓷导师基本上石沉大海
   - 笔者在11月下旬才了解到，该专业近三年的招生人数都不超过5人！因此最后没有投递。
-- *MSc in Mathematical Modelling and Scientific Computing*
-  - 要求本科需要上过ODE和PDE的课程，因为笔者没有强数学背景
-  - 申请的成功概率和投入产出比都不高，最后没有投递。
+- MSc in Mathematical Modelling and Scientific Computing
+  - 要求本科需要上过ODE和PDE的课程，因为笔者没有强数学背景，申请的成功概率和投入产出比都不高，最后没有投递。
 
 <br>
 
@@ -189,7 +187,7 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 申请哲学：好好努力，心平气和，静候佳音！
 
-<br>一切都是最好的安排 🥰
+<br>一切都是最好的安排🥰
 
 <br>欢迎通过微信与我交流～
 
