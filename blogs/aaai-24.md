@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /blogs/aaai-24/index.html
-title: Lance的第一次AAAI参会实录
+title: Lance的AAAI参会实录
 ---
 
 ## AAAI-2024 参会实录
 
-> 更新时间：2024/03/03
+> 更新时间：2024/03/05
 
 本文记录了笔者参加AAAI 2024的心路历程，笔者在此之前没有签证经历（白本护照，福建户口，敏感专业+地区）
 
@@ -71,18 +71,20 @@ AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbour
 
 #### 一些闲言碎语
 
-攒人品ing
+攒人品ing，希望今年KDD 2024顺利中稿，再玩一趟！
 
 <br>
 
 ---
 
-#### Wonderful Moment
+#### Wonderful Moments
 
+<br>![3_2](aaai-24.assets/3_2.jpg)
 
+<br>![1](aaai-24.assets/1.PNG)
 
+<br>![4](aaai-24.assets/4.JPG)
 
-
-<br>![wechat](aaai-24.assets/wechat.PNG)
+<br>![2](aaai-24.assets/2.JPG)
 
 <br>

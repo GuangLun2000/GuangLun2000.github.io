@@ -35,9 +35,9 @@ title: 24Fall申请记录
 - **中方成绩：**GPA 3.81 (~8%)，算数均分 88.38 (~5%)
 - **外方成绩：**78.3 --> 80.3 --> 88.7 (一等学位，第三年rank1)
 - **语言：**雅思 7.0 (6.5)，无GRE
-- **论文：**1篇水刊，2篇水会，1篇ccf-a会，1篇二区在审（均一作）
+- **论文：**1篇水刊，2篇水会，1篇ccf-a，1篇二区在审（均一作）
 - **竞赛：**数学建模美赛一等奖，4个国内比赛的国奖
-- **奖学金：**主持1项国家级大创基金SRT，厦航奖学金，能化奖学金，N个校内奖学金
+- **奖学金：**主持1项国家级大创基金SRT，厦航奖学金，能化奖学金，AAAI本科生奖学金
 - **推荐信：**校内实验室大老板强推，海本院长强推，海本AP强推
 - **整体经历：**校内科研2段，剑桥暑研1段，工业实习1段
 
@@ -53,7 +53,7 @@ title: 24Fall申请记录
 
 曼大今年不需要交申请费，也不要求PS文书和推荐信。非常友好，早早地发来了第一封offer🥰
 
-<br>第一专业录取：MSc Advanced Control and Systems Engineering，这个项目可以申请extended reserach，也就是多读一年做reserach（但是要交两年学费呀，不去）
+<br>第一专业录取：MSc Advanced Control and Systems Engineering，这个项目可以申请extended reserach，也就是多读一年做reserach（但是要交两年学费呀，不划算）
 
 <br>笔者第二专业投的是：MSc Advanced Manufacturing Technology & Systems Management
 
@@ -161,6 +161,10 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 <br>12月27号上午，完成了最后一个项目的投递。至此，笔者的24Fall申请季结束🍻这段时间辛苦了，静候佳音！
 
+<br>2月1号一早收到了ISMM的拒信，一早知道这个项目每年只录1-2个中国人，所以有心理预期，其实如果11月调研更充分的话，就不会申请这个项目了。似乎[Engineering for Sustainable Development](http://www.2024.postgraduate.study.cam.ac.uk/courses/directory/egegmpesd)这个项目更具性价比。
+
+<br>3月2号，MPhil in Engineering，在系统上查到了offer made，四个月漫漫等待，终于如愿以偿🥰 希望后续语言内测成功Pass，顺利解决所有condition!
+
 <br>
 
 ---
@@ -169,13 +173,13 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 12月24号，正在考虑要不要投递呢🧐没找到很合适的program
 
-<br>12月27号，最后和顾问商量了一下，决定不投递牛津的申请，全力冲刺剑桥。
+<br>12月27号，最后和顾问老师商量了一下，决定不投递牛津的申请，全力冲刺剑桥。
 
 <br>原本方案中拟定的专业如下：
 
 - MSc by Research in Engineering Science
   - 两年制的研究型项目，很特殊。招生人数极少。笔者的套瓷导师基本上石沉大海
-  - 笔者在11月下旬才了解到，该专业近三年的招生人数都不超过5人！因此最后没有投递。
+  - 笔者在11月下旬才了解到，该专业近三年的招生人数都不超过5人。因此最后没有投递。
 - MSc in Mathematical Modelling and Scientific Computing
   - 要求本科需要上过ODE和PDE的课程，因为笔者没有强数学背景，申请的成功概率和投入产出比都不高，最后没有投递。
 
