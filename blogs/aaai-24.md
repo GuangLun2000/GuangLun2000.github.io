@@ -37,8 +37,6 @@ title: Lance的AAAI参会实录
 
 <br>吐槽一句，加拿大签证的工作量比申请帝国理工大多了。下面这个图是个人陈述PS的附加材料表，大概是1/8的workloads
 
-<br>0103更新，今天吃完午饭在知乎随手答了一波：[有什么建议给第一次参加国际学术会议的本科生？](https://www.zhihu.com/question/50603131/answer/3348461907)结果一堆人围观，网站日访量直接破500了，*瑟瑟发抖*。
-
 <center>
 <img src="/blogs/aaai-24.assets/image-20240102233256486.png">
 </center>
