@@ -38,9 +38,12 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 
 > Our group website: [https://fzuiot.site/](https://fzuiot.site/)
 
-<div class="second">
+<div>
 <img src="https://caihanlin.com/images/teams/teams1.jpg">
-<img src="https://caihanlin.com/images/teams/teams2.jpg">
 </div>
 
 <br>
+
+<div>
+<img src="https://caihanlin.com/images/teams/teams2.jpg">
+</div>
