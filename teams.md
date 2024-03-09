@@ -22,8 +22,6 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 - **June 2023：**Our team won a national undergraduate research training grant (~$3000).
 - **May 2023：**If you are interested in the IoT, robotics, or AIGC, welcome to [join us](https://fzuiot.site/english/).<br>
 
-<br>
-
 ---
 
 ## Our Fundings
@@ -31,8 +29,6 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 - DefenderIoT — Leading the New Generation of Industrial Inspection<br>**Funding $2000** (Grant No. 20230357)<br>China International College Students’ Innovation Competition Award<br>Project Leader & Product Manager (2024)<br><br>
 - Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
 - Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
-
-<br>
 
 ---
 
@@ -43,8 +39,6 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 - **Members @2021:** Wenzhuo Fan, Jiacheng Huang, Xun Sun, Yujie Jiang, Zhongheng Sun, Yuxuan Zheng, Hongming Chen
 - **Members @2022:** Wenjing Chen, Roubing Yao
 - **Members @2023:** [Join us!](https://fzuiot.site/english/)<br>
-
-
 
 ---
 
@@ -71,3 +65,4 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 <div>
 <img src="https://caihanlin.com/images/teams/teams4.jpg">
 </div>
+<br>
