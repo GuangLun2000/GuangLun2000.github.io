@@ -36,16 +36,38 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 
 ---
 
-## Group Photos
+## Team Members
+
+- **Co-founders:** Hanlin Cai, Jiaqi Hu, Zheng Li
+- **Members @2020:** Linshi Li, Yuchen Fang, Shuying Liu, Xiang Fang, Jiankun Li, Xinguo Wang, Miaolan Zhou, Chaoyue Chen
+- **Members @2021:** Wenzhuo Fan, Jiacheng Huang, Xun Sun, Yujie Jiang, Zhongheng Sun, Yuxuan Zheng, Hongming Chen
+- **Members @2022:** Wenjing Chen, Roubing Yao
+- **Members @2023:** [Join us!](https://fzuiot.site/english/)<br>
+
+
+
+---
+
+## Some Group Photos
 
 > Our group website: [https://fzuiot.site/](https://fzuiot.site/)
 
 <div>
 <img src="https://caihanlin.com/images/teams/teams1.jpg">
 </div>
-
 <br>
 
 <div>
 <img src="https://caihanlin.com/images/teams/teams2.jpg">
+</div>
+<br>
+
+<div>
+<img src="https://caihanlin.com/images/teams/teams3.jpg">
+</div>
+
+<br>
+
+<div>
+<img src="https://caihanlin.com/images/teams/teams4.jpg">
 </div>
