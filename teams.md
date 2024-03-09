@@ -59,7 +59,6 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 <div>
 <img src="https://caihanlin.com/images/teams/teams3.jpg">
 </div>
-
 <br>
 
 <div>
