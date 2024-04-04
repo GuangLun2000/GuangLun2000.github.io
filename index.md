@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2024 - Sep 2025：**Cambridge University (Incoming EE MPhil, supervised by [Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
+- **Sep 2024 - Sep 2025：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
 - **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
 - **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
 - **June 2022 - Nov 2022:** Cambridge University (Intern)
