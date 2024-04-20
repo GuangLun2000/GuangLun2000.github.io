@@ -12,8 +12,6 @@ title: Publications
 
   <br>
 
-<br>
-
 ## Working Manuscript
 
 - Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
