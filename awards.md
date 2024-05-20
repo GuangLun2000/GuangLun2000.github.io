@@ -27,7 +27,7 @@ title: Awards
 - Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
 - June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
 
-## Misc
+## Services
 
 - Dec 2023 - Present：AAAI Student Membership
 - Sep 2022 - Present：IEEE Student Membership
