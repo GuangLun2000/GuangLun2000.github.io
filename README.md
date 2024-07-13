@@ -1,6 +1,6 @@
 # Personal web
 
-Here is **Zehua Min**. This is my personal web repo. 
+Here is **Zehua Min（闵则华）**. This is my personal web repo. 
 
 ## Statement
 
