@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xi-Jing Wang (王熹景)**.
 
-**This personal homepage has been under construction since July 21, 2024, which is sourced by this [website](https://caihanlin.com/).**
+**Notice that: This personal homepage has been under construction since July 21, 2024, which is sourced by this [website](https://caihanlin.com/).**
 
 I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
 
