@@ -2,7 +2,9 @@
 layout: page
 ---
 
-# About Me
+# Xi-Jing Wang’s Homepage
+
+<hr>
 
 <img src="https://wxj-gravity.github.io/caihanlin.png" class="floatpic" width="360" height="480">
 
