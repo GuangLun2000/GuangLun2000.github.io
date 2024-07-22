@@ -34,8 +34,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Gravity
 - Black Hole Physics
 
-
-  My research interests are gravity and black hole physics, including but not limited to blackhole shadow/images and their applications, hairy black holes, quasi-normal modes as well as any topics that interest me. 
+My research interests are gravity and black hole physics, including but not limited to blackhole shadow/images and their applications, hairy black holes, quasi-normal modes as well as any topics that interest me. 
 
 ---
 
