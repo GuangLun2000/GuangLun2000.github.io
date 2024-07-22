@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xi-Jing Wang (王熹景)**.
 
-**Notice that: This personal homepage has been under construction since July 21, 2024. The source code can be found [here]([https://caihanlin.com/](https://github.com/GuangLun2000/GuangLun2000.github.io)).**
+**Notice that: This personal homepage has been under construction since July 21, 2024. The source code can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).**
 
 I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
 
@@ -29,10 +29,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
+- Gravity
+- Black Hole Physics
 - [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
