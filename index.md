@@ -27,14 +27,14 @@ If you are interested in any aspect of me, do not hesitate to contact me at - *x
 ## Research Experience
 
 - **July 2024 - Now:** Astronomy Department, Wuhan University
-  Postdoctorial Fellow
+  Postdoctorial Fellow. Host Researcher: [Prof. Kai Liao](https://physics.whu.edu.cn/info/1272/6656.htm)
   
 ---
 
 
 ## News and Updates
 
-- **July 2024：Become a postdoctorial fellow in Astronomy Department, Wuhan University
-- **July 21, 2024: Create this homepage.
+- **July 2024:** Become a postdoctorial fellow in Astronomy Department, Wuhan University
+- **July 21, 2024:** Create this homepage.
 
 
