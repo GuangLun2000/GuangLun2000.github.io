@@ -25,7 +25,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Experience
 
 - **July 2024 - Now:** Astronomy Department, Wuhan University
-  Postdoctorial Fellow.
+  Postdoctorial Fellow
   
 ---
 
