@@ -12,7 +12,7 @@ Here is **Xi-Jing Wang (王熹景)**.
 
 **Notice that: This personal homepage has been under construction since July 21, 2024. The source code can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).**
 
-I am a postdoctorial fellow in Astronomy Department, Wuhan University. My research interests are gravity and black hole physics, including but not limited to blackhole shadow/images and their applications, hairy black holes, quasi-normal modes, as well as any topics that interest me. 
+I am a postdoctorial fellow in Astronomy Department, Wuhan University. My research interests are gravity and black hole physics, including but not limited to black hole shadow/images and their applications, hairy black holes, quasi-normal modes, as well as any topics that interest me. 
 
 My publication list can be found in [inspirehep](https://inspirehep.net/authors/1899373?ui-citation-summary=true).
 
