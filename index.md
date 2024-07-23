@@ -7,9 +7,7 @@ layout: page
 <hr>
 
 <img src="https://wxj-gravity.github.io/caihanlin.png" class="floatpic" width="360" height="480"> 
-
-
-<p align="right">2023年冬</p>
+<p align="right">Dec. 6th, 2021 in Yangzhou</p>
 
 Here is **Xi-Jing Wang (王熹景)**.
 
