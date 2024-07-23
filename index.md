@@ -6,7 +6,7 @@ layout: page
 
 <hr>
 
-<img src="https://wxj-gravity.github.io/caihanlin.png"  width="360" height="480">
+<img src="https://wxj-gravity.github.io/caihanlin.png" class="floatpic" width="360" height="480">
 
 Here is **Xi-Jing Wang (王熹景)**.
 
