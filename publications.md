@@ -2,45 +2,31 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
----
-
-> Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
-
-## Conference Paper
-
-- Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
-
-  <br>
-
 
 ---
 
-## Thesis (FYP)
+Lastest Update: 29th Sep 2023
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Best Project Award (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
+For full list of my papers, check [inspirehep]([INSPIRE](https://inspirehep.net/authors/1060905#with-citation-summary)) or [adsabs](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FPi%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22%20AND%20author_facet_hier%3A%220%2FPi%2C%20S%22)&p_=0&q=%20author%3A%22pi%2C%20shi%22&sort=date%20desc%2C%20bibcode%20desc).
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at [China Huading Tech](http://www.hdim.com.cn/) and [IIoT Lab](https://dqxy.fzu.edu.cn/en/)<br>
+## Selected Papers
 
-  <br>
+- <span style="color:blue;">*Gravitational Waves Induced by non-Gaussian Scalar Perturbations*</span>,<br>Rong-gen Cai, **Shi Pi**, Misao Sasaki. <br>Published in: [Phys.Rev.Lett. 122 (2019) 20, 201101](https://doi.org/10.1103/PhysRevLett.122.201101). ArXiv: [1810.11000](https://arxiv.org/abs/1810.11000).
 
----
+- <span style="color:blue;">*Logarithmic Duality of the Curvature Perturbation*</span>,<br>**Shi Pi**, Misao Sasaki. <br>Published in: [Phys.Rev.Lett. 131 (2023) 1, 011002](https://doi.org/10.1103/PhysRevLett.131.011002). ArXiv: [2211.13932](https://arxiv.org/abs/2211.13932).
 
-## Manuscript
+- <span style="color:blue;">*Universal infrared scaling of gravitational wave background spectra*</span>,<br>Rong-Gen Cai, **Shi Pi**, Misao Sasaki. <br>Published in: [Phys.Rev.D 102 (2020) 8, 083528](https://doi.org/10.1103/PhysRevD.102.083528). ArXiv: [1909.13728](https://arxiv.org/abs/1909.13728).
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
+- <span style="color:blue;">*NANOGrav hints on planet-mass primordial black holes*</span>,<br>Guillem Domènech, **Shi Pi**. <br>Published in: [Sci.China Phys.Mech.Astron. 65 (2022) 3, 230411](https://doi.org/10.1007/s11433-021-1839-6). ArXiv: [2010.03976](https://arxiv.org/abs/2010.03976).
 
-- Multi-objective Optimization Model Based on Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
+- <span style="color:blue;">*Scalaron from R<sup>2</sup>-gravity as a heavy field*</span>,<br>**Shi Pi**, Ying-li Zhang, Qing-Guo Huang, Misao Sasaki. <br>Published in: [JCAP 05 (2018) 042](https://doi.org/10.1088/1475-7516/2018/05/042). ArXiv: [1712.09896](https://arxiv.org/abs/1710.03054).
 
-  <br>
+## Books
 
----
+- **宇宙学的物理基础**<br>Vietcheslav Mukhanov著, **皮石**译. <br>科学出版社2023年9月第一版. ISBN: 978-7-03-076273-3.<br><img src="/images/SlavaBook.png" alt="SlavaBook" style="width:50%">
 
-## Early Project
+- **PRIMORDIAL BLACK HOLES**<br>
+Chapter 8: Non-Gaussianities. ArXiv: [2404.06151](https://arxiv.org/abs/2404.06151).
+<br>A monograph in Springer Series in Astrophysics and Cosmology, Springer (2024).<br>To appear. Ed. Chris Byrnes, Gabriele Franciolini, Tomohiro Harada, Paolo Pani, Misao Sasaki. 
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
-
-  <br>
+- **PERTURBATION THEORY OF COSMOLOGY**<br>Atsushi Naroko, **Shi Pi**, Misao Sasaki. In preparation.
