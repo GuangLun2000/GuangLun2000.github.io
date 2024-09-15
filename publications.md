@@ -4,16 +4,26 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Update: 3rd August 2024
+> Update: 27th August 2024
 >
 > (†: equal contribution, ~: corresponding author)
 
 ## Conference Paper
 
-- BLEGuard: Hybrid Detection Mechanism for Safeguarding Bluetooth Low Energy Networks Against Spoofing Attacks<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Also presented in MobiSys 2024 Poster Session.<br>Barcelona, Spain. June, 2024.
+- BLEGuard: Hybrid Detection Mechanism for Safeguarding Bluetooth Low Energy Networks Against Spoofing Attacks<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>Also presented in the 22nd ACM International Conference on Mobile Systems, Applications, and Services.<br>Tokyo, Japan. June, 2024.
 
   <br>
 
+---
+
+## Ongoing Project
+
+- Intelligent Communication Systems for Internet of Everything
+- Supervised by Prof. Özgür Akan
+
+To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. Internet of Nano Things (IoNT), for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. Internet of People and Senses (IoPS), as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We will design and implement new intelligent communication techniques for the Internet of Everything.
+
+<br>
 
 ---
 
@@ -27,17 +37,9 @@ title: Publications
 
 ---
 
-## Manuscript
-
-TBA.
-
-<br>
-
----
-
 ## Early Project
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
+- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence, Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
 
 - Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
 
