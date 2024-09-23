@@ -8,13 +8,9 @@ layout: page
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by Professor [Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with Professor [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+I am a graduate student in the Department of Engineering at the University of Cambridge, advised by Professor [Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with Professor [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with Professors [Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as an AAAI and SIGKDD Undergraduate Scholar.
 
-Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with Professors [Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as an AAAI and SIGKDD Undergraduate Scholar.
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations.
-
-Feel free to reach out to me at - hc663 [at] cam.ac.uk
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
 
 ## Academic Background
 
