@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 27th August 2024
+> Update: 20th Sep 2024
 
 ## Scholarships
 
@@ -17,7 +17,7 @@ title: Awards
 - Oct 2022：Best Course Project Award of Maynooth (€100)
 - First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
 
-## Competitions (Selected)
+## Competitions
 
 - Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
 - Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
@@ -26,12 +26,4 @@ title: Awards
 - Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
 - June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
 
-## Social Services
-
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+<br>
