@@ -18,10 +18,9 @@ title: Publications
 
 ## Ongoing Project
 
-- Intelligent Communication Systems for Internet of Everything
-- Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21)
+- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
 
-To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. Internet of Nano Things (IoNT), for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. Internet of People and Senses (IoPS), as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We will design and implement new intelligent communication techniques for the Internet of Everything.
+To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
 
 <br>
 
@@ -46,5 +45,3 @@ To match the ubiquitous connectivity and heterogeneous networking characteristic
 - An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
 
   <br>
-
-> Update: 15th Sep 2024
