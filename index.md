@@ -16,12 +16,12 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-**I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**
+<font color="#990000">**I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**</font>
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
+- AI-powered Systems
 - Molecular Communication
-- Cyber-Physical System
-- Applied Machine Learning
+- Bio-sensor and Bio-electronics
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
