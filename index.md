@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-<font color="#990000">**I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**</font>
+**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
 - AI-powered Systems
