@@ -50,7 +50,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: China/Beijing # For asian timezones: timezone: Asia/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown
