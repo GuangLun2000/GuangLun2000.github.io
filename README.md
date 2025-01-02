@@ -12,6 +12,38 @@ Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is the repository for my persona
 - **Dec. 2022:** My personal website have been implemented in [caihanlin.com](https://caihanlin.com)
 - **Oct. 2022:** This Github Page have been built based on [Jason Ansel's site](https://github.com/jansel/jansel.github.io).
 
+## Setup and Installation
+
+To set up and run this project locally, follow these steps:
+
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/GuangLun2000/GuangLun2000.github.io.git
+    cd GuangLun2000.github.io
+    ```
+
+2. **Install dependencies:**
+    Make sure you have [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [Bundler](https://bundler.io/) installed.
+    ```sh
+    bundle install
+    ```
+
+3. **Run the Jekyll server:**
+    ```sh
+    bundle exec jekyll serve
+    ```
+
+4. **Open your browser:**
+    Navigate to `http://localhost:4000` to see the website running locally.
+
+## Configuration
+
+Make sure to update the [_config.yml](http://_vscodecontentref_/2) file with your own settings. Specifically, you may want to change the timezone:
+
+```yml
+timezone: Asia/Shanghai # For Asian timezones: timezone: Asia/Shanghai
+```
+
 ## Star History
 
 **If you like it, please STAR it! 🥰**
