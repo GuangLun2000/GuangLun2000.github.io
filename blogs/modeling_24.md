@@ -1,8 +1,4 @@
----
-layout: page
-permalink: /blogs/modeling/index.html
-title: Lance Club
----
+backup
 
 ## Lance的数模训练营
 
