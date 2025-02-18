@@ -10,8 +10,6 @@ title: Publications
 
 - [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan<br>[arXiv](https://arxiv.org/abs/2502.08426). February, 2025.<br>
 
-<br>
-
 ---
 
 ## Conference Paper
