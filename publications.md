@@ -8,7 +8,7 @@ title: Publications
 
 ## Working Paper
 
-- Semantic Communication for the Internet of Space: Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to **IEEE Communications Standards Magazine**.
+- Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to **IEEE Communications Standards Magazine**.
 
 ---
 
