@@ -15,8 +15,7 @@ Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is the repository for my persona
 ## Star History
 
 **If you like it, please STAR it! 🥰**
-
-[![Star History Chart]([https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date](https://www.star-history.com/#GuangLun2000/GuangLun2000.github.io&Date))
+[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://www.star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
 
 ## Statement
 
