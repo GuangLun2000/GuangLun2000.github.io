@@ -6,20 +6,21 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Working Paper
+## Journal Paper
 
-- Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to **IEEE Communications Standards Magazine**.
-
----
+- Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>[arXiv](https://arxiv.org/abs/2503.23446). Submitted to IEEE Communications Standards Magazine.
 
 ## Conference Paper
 
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>
-  [arXiv](https://arxiv.org/abs/2502.08426). Catania, Italy. February, 2025.
+- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.
 
 - [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
 
 - [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.
+
+  <br>
+
+- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.
 
 - SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
 
