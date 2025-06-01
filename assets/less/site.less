@@ -39,3 +39,49 @@
 		list-style-type: none;
 	}
 }
+
+
+/* ============================================
+   Custom Layout Override: Center Main Content
+   Applied to Jekyll + Minimal Mistakes Theme
+   Author: Hanlin Cai
+   ============================================ */
+
+/* Desktop and Tablet Viewports */
+.page {
+  max-width: 900px;            // Limit content width for readability
+  margin-left: auto;           // Center horizontally
+  margin-right: auto;
+  float: none;                 // Reset any floating that may cause layout issues
+  padding: 1.5em 1em;          // Add horizontal and vertical padding for breathing space
+  box-sizing: border-box;     // Ensure padding does not affect width
+}
+
+/* Outer wrapper (if used by theme) */
+.wrapper {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  float: none;
+  box-sizing: border-box;
+}
+
+/* Optional: Center other major layout blocks */
+.main, .content, .post, .page-content {
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+  box-sizing: border-box;
+}
+
+/* Responsive Adjustment for Small Screens */
+@media screen and (max-width: 768px) {
+  .page {
+    max-width: 95%;            // Use almost full width on small screens
+    padding: 1em;
+  }
+
+  .wrapper {
+    max-width: 100%;
+    padding: 0 1em;
+  }
+}
