@@ -426,3 +426,14 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   #main      { display: block; max-width: 95%; }
   #main > *  { width: 100%;   max-width: 100%; }
 }
+
+/* ===== final override – centre two-column layout ===== */
+#main{          /* 抹掉 100% 宽，让 max-width 能生效 */
+  width:auto !important;
+}
+
+#main article{  /* 抹掉 float 和百分比宽度 */
+  float:none !important;
+  width:auto !important;
+  margin:0 !important;
+}
