@@ -437,3 +437,25 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   width:auto !important;
   margin:0 !important;
 }
+
+
+/* --- make <body> the centre flex box --- */
+body{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  margin:0;
+}
+.navigation-wrapper,
+#main,
+.footer-wrap{
+  width:100%;
+  max-width:1200px;    /* 统一居中宽度 */
+  padding-inline:24px;
+  box-sizing:border-box;
+}
+
+/* kill old floats / widths */
+.site-name,
+.top-navigation{float:none !important;width:auto !important;}
+#main article{float:none !important;width:auto !important;margin:0 !important;}
