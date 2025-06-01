@@ -391,22 +391,47 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 
 
 /* ============================================
-   Fix: Center content block to right of sidebar
-   ============================================ */
+   Custom override – centre the whole layout
+   (sidebar + content) with Flexbox            */
+/* Paste AFTER everything else in main.css     */
+.page {
+  /* ① turn the wrapper into a flex container   */
+  display: flex;
+  align-items: flex-start;     /* top-align the two columns            */
+  justify-content: center;     /* horizontally centre the flex group   */
 
-.page-content, .post, .content {
-  max-width: 900px;
+  /* ② cap the overall width & centre it        */
+  max-width: 1100px;           /* sidebar (≈220) + content (≈900) + gap */
   margin-left: auto;
   margin-right: auto;
-  padding: 1.5em 1em;
+  gap: 40px;                   /* space between sidebar and content    */
   box-sizing: border-box;
 }
 
-/* Optional: make it responsive on small devices */
-@media screen and (max-width: 768px) {
-  .page-content, .post, .content {
+/* ③ let the sidebar keep its fixed width      */
+.sidebar {
+  flex: 0 0 220px;             /* do NOT change its float in old CSS   */
+}
+
+/* ④ constrain the content column itself       */
+.page-content,
+.post,
+.content {                     /* different layouts use different classes */
+  flex: 1 1 760px;             /* may shrink a bit on very wide screens */
+  max-width: 760px;
+}
+
+/* ⑤ responsive fall-back: stack on small viewports */
+@media screen and (max-width: 900px) {
+  .page {
+    display: block;            /* revert to single column              */
     max-width: 95%;
-    padding: 1em;
+  }
+  .sidebar,
+  .page-content,
+  .post,
+  .content {
+    width: 100%;
+    max-width: 100%;
   }
 }
-/*2025.06.01*/
