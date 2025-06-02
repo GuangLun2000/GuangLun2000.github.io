@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/cambridge/index.html
+permalink: /blogs/cambridge-22/index.html
 title: Cambridge
 ---
 
