@@ -127,9 +127,9 @@ exclude:                         # Folders/files ignored during build
 # --------------------------------------------------
 #  OPTIONAL PLUG-INS (uncomment once gems are added)
 # --------------------------------------------------
-# plugins:
-#   - jekyll-feed          # Auto-generate RSS feed
-#   - jekyll-sitemap       # Auto-generate sitemap.xml
-#   - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
+plugins:
+  - jekyll-feed          # Auto-generate RSS feed
+  - jekyll-sitemap       # Auto-generate sitemap.xml
+  - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
 #   - jekyll-picture-tag   # Responsive images & WebP/AVIF
-#   - jekyll-archives      # Year/month archive pages
+  # - jekyll-archives      # Year/month archive pages
