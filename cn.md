@@ -8,35 +8,14 @@ title: 主页中文版
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-<br>感谢您的时间。我是蔡汉霖，福建泉州人，02年生。
+<br>感谢您的阅读。我是蔡汉霖，2002年生，福建泉州人。
 
-<br>我目前在剑桥大学工程系“万物互联研究组”攻读硕士学位，师从IEEE会士Ozgur Akan教授，我的研究方向为语义通信与无线通信。自2025年10月起，我将继续在该研究组攻读博士学位，我的博士研究获得剑桥信托基金会与中国国家留学基金委员会的联合资助。我预计将于2029年6月完成博士学位。
+<br>我目前在剑桥大学工程系“万物互联”研究组攻读硕士学位，师从IEEE会士Ozgur Akan教授，我的研究方向为语义通信与无线通信。自2025年10月，我继续在本研究组攻读博士学位，我的博士研究获得剑桥信托基金会与中国国家留学基金委员会的联合资助。我预计将于2029年6月完成博士学位，并计划回国寻找教职或工业界的机会。
 
-2024年6月，我在中国福州大学与爱尔兰国立梅努斯大学联合培养下获得了本科双学位，分别为自动化工学学士和机器人理学学士。2022年至2024年，我在福建省“工业自动化控制技术与信息处理”高校重点实验室担任研究助理，期间在徐哲壮教授和袁蒙博士的指导下从事科研工作。
+<br>2024年6月，我在福州大学与爱尔兰国立梅努斯大学联合培养下获得了本科双学位，包括自动化工学学士和机器人理学学士。2022年至2024年，我在福建省“工业自动化控制技术与信息处理”实验室担任研究助理，期间在徐哲壮教授和袁蒙博士的指导下从事科研工作。本科期间，我曾经获得人工智能领域顶级会议AAAI 2024所评选的“杰出本科生”荣誉，该奖项每年在全球范围内仅遴选15名学生。
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+<br>我对6G通信、空天地海一体化网络、星地融合以及通信大语言模型等前沿方向非常感兴趣。我相信6G的核心不再是简单追求更高带宽，而是迈向通信系统的智能化与标准化。具体来说，我的博士研究将聚焦于人工智能AI在无线通信中的深度融合，探索其在物理层与网络层的原生应用，尤其关注AI对信源与信道特性的理解与建模，从而实现干扰抑制、能效优化，以及核心网络对业务的智能适配。
 
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
-
----
-
-## 研究方向
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
-
----
-
-## 近期新闻
-
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+<br>最后，如果有任何我可以帮到您的事情，或是您觉得可以帮到我的建议，我都非常欢迎各种形式的交流与合作。我的常用邮箱是hc663[at]cam.ac.uk，我的微信号是lancecai2002
 
 <br>
