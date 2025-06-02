@@ -4,13 +4,13 @@ permalink: /cn/index.html
 title: 主页中文版
 ---
 
-## 蔡汉霖 Lance
+## 关于我
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-撰写中......
+<br>撰写中......
 
-感谢您来到我的个人站点，我是蔡汉霖，福建泉州人。
+<br>感谢您来到我的个人站点，我是蔡汉霖，福建泉州人。
 
 I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
 
