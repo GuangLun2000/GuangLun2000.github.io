@@ -6,7 +6,7 @@ title: 主页中文版
 
 ## 关于我
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://caihanlin.com/backup/caihalin(2025).JPG" class="floatpic">
 
 <br>首先感谢您的阅读。我是蔡汉霖，2002年生，福建泉州人。
 
