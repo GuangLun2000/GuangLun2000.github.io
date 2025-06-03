@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/24fall/index.html
-title: 24Fall申请记录
+permalink: /blogs/25phd/index.html
+title: 25Fall申请记录
 ---
 
 ## 2025 PhD 全球申请记录
