@@ -8,7 +8,8 @@ title: Blogs
 
 ### 2025
 
-- 剑桥全奖博士申请记录，经验之谈（撰写中）
+- [剑桥CSC国家公派奖学金申请指南](https://caihanlin.com/blogs/25csc)
+- [25Fall，全球博士项目混合申请实录]
 
 ### 2024
 

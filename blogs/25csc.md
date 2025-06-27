@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /blogs/25phd/index.html
-title: 25Fall申请记录
+permalink: /blogs/25csc/index.html
+title: 剑桥CSC国家公派申请指南
 ---
 
-## 剑桥CSC国家公派申请指南
+## 剑桥CSC国家公派奖学金申请指南
 
 > **申请哲学：好好努力，心平气和，静候佳音**
 >

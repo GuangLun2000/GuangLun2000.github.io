@@ -8,7 +8,8 @@ title: Publications
 
 ## Journal Paper
 
-- Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>[arXiv](https://arxiv.org/abs/2503.23446). Submitted to IEEE Communications Standards Magazine.
+- Graph Representation-based Model Poisoning on Federated Large Language Models<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.
+- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.
 
 ## Conference Paper
 
@@ -43,6 +44,8 @@ title: Publications
 ---
 
 ## Degree Thesis
+
+- Semantic Communication for the Internet of Everything<br>Hanlin Cai (Advisor: Ozgur B. Akan).
 
 - [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to ACM SIGKDD 2024.
 
