@@ -7,6 +7,8 @@ title: web
 ## 建站完全指南
 
 > Philosophy：极简、高效、免费
+>
+> 更新时间：2023/05/30
 
 <center>
 <img src = "/blogs/web.assets/github-logo.png">
