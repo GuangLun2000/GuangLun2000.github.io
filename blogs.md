@@ -9,7 +9,7 @@ title: Blogs
 ### 2025
 
 - [剑桥CSC国家公派奖学金申请指南](https://caihanlin.com/blogs/25csc)<br>
-- [25Fall，全球博士项目混合申请实录]<br>
+- [25Fall，全球博士项目混合申请实录](https://caihanlin.com/blogs/25fall/)<br>
 
 ### 2024
 
