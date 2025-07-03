@@ -261,14 +261,19 @@ title: 剑桥CSC国家公派申请指南
 
 ### 写在最后的话
 
-公派中奖与否，实在有太多的主客观因素。
+最后笔者想说的是，公派中奖与否，实在有太多的主客观因素，很多时候我们付出了巨大努力却不一定换来好的结果。但是，不管是有没有中奖的同学们，都不要担心，因为人生往往是一个长期的均值回归，人生各个阶段的升学也好，求职也罢。都只是这条长达几十年的均值回归线上的一点点小噪音，你最后一定会和你的付出、能力和野心匹配上。所以我们大可不必为了一些短期的噪音而过多地焦虑。
 
-<br>这篇文章应该是网络上大家可以找到的，关于牛剑CSC奖学金申请，最好的指导性文章。笔者毫无保留地分享了自己申请博士、申请公派奖学金一年来所有的心得与经验，希望对大家有所帮助。祝大家顺利中奖！
+<br>![live](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/25csc.assets/live.png)
 
-<br>最后的最后，如果这篇文章帮到您，请考虑请笔者喝杯咖啡吧！☺️
+<br>最后的最后，这篇文章应该是网络上大家可以找到的，关于英国CSC奖学金申请，**最好的指导性文章**。笔者毫无保留地分享了自己申请博士、申请公派奖学金一年来所有的心得与经验，希望对大家有所帮助。祝大家顺利中奖！
+
+<br>如果这篇文章帮到您，请考虑请笔者喝杯咖啡吧！☺️
 
 <br>![pay](25csc.assets/pay.png)
 
 ---
 
 ### Useful Links
+
+- 【CSC干货分享-中文研修计划怎么写 - 诺瓦不爱笑 | 小红书 - 你的生活指南】  https://www.xiaohongshu.com/discovery/item/67b552c9000000002803d84a?source=webshare&xhsshare=pc_web&xsec_token=ABJdTPnInoZFRaR7qLbnjtvnE1jhh6heGZA3wTCONMatU=&xsec_source=pc_share
+- 【一点CSC填报感悟 - 不当主唱的主唱不是好主唱 | 小红书 - 你的生活指南】  https://www.xiaohongshu.com/discovery/item/67cd7a5f0000000007036869?source=webshare&xhsshare=pc_web&xsec_token=AB0FTTUatF8cM2mcs9h_qybEcRcOQ-qsriDWmDiPhzFfQ=&xsec_source=pc_share
