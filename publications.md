@@ -8,7 +8,8 @@ title: Publications
 
 ## Journal Paper
 
-- Graph Representation-based Model Poisoning on Federated Large Language Models<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
+- Graph Representation-based Model Poisoning on Federated Large Language Models<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.
+  <br>
 - [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.<br>
 
 ## Conference Paper
@@ -21,10 +22,7 @@ title: Publications
 
 - Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.<br>
 
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.<br>
-
-
-<br>
+- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.<br><br>
 
 
 ---

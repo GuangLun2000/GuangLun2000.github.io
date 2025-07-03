@@ -6,7 +6,7 @@ title: Awards
 
 ## Scholarships
 
-- May 2025：**Cambridge CSC Trust Scholarship** (totally £190,000)
+- May 2025：**Cambridge CSC Trust Scholarship** (totally £190,000 for tuition waiver and stipend)
 - June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
 - Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
 - Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards
