@@ -8,8 +8,10 @@ title: Publications
 
 ## Journal Paper
 
-- Graph Representation-based Model Poisoning on Federated Large Language Models<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.
-  <br>
+- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
+  
+  
+  
 - [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.<br>
 
 ## Conference Paper
