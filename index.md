@@ -5,7 +5,7 @@ layout: page
 
 
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+
 
 你好👋我是**陈羽洁**.<br>
 
