@@ -1,29 +1,27 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+title: 陈羽洁   # Main site title (appears in browser tab & RSS)
+tagline: Here is personal website of Yujie Chen. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
 description: Two roads diverged in woods, I took the one less traveled by.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://yujie29800.github.io/
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
+  name: Yujie Chen
   avatar: hanlin.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
+  email: yujiechen29800@outlook.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
   github: GuangLun2000
-  linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   zhihu: https://www.zhihu.com/people/chlire
@@ -48,17 +46,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 #  `external: true` opens the link in a new tab.
 # --------------------------------------------------
 links:
-  - title: About Me
+  - title: 个人简介
     url: /
-  - title: Publications
+  - title: 科研成果
     url: /publications/
-  - title: Awards
+  - title: 科研项目
     url: /awards/
-  - title: Hobbies
+  - title: 奖项&育人
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-  - title: 中文
+  #- title: Blogs
+  #  url: /blogs/
+  - title: English
     url: /cn/
 
 
@@ -100,7 +98,7 @@ kramdown:
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
 disqus:
-  shortname: lancecai
+  shortname: YujieCHEN
 
 
 # include: [".htaccess"]
