@@ -2,8 +2,7 @@
 layout: page
 ---
 
-# 关于我
-<br/>
+
 
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
