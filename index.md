@@ -7,7 +7,7 @@ layout: page
 
 
 
-你好👋我是**陈羽洁**.<br>
+你好👋我是**陈羽洁**。<br>
 
 我是[湖州师范学院](https://www.zjhu.edu.cn)教育学院教育技术学系教师, 硕士生导师，毕业于南京师范大学教育技术学系。主要从事知识建构教学与实践、计算机支持的协作学习、人工智能教学创新等方面的研究。目前主持教育部人文社会科学青年课题一项，校级教学改革项目两项；参与多项省级、市厅级课题及一项省级一流本科课程建设项目。近年来，以第一作者在Educational Technology Research & Development、电化教育研究、职业技术教育等教育技术国际权威及核心期刊发表学术论文近十篇，担任The Asia-Pacific  Education Researcher审稿人。获得校级高校教师教学创新大赛二等奖、青年教师教学竞赛二等奖；作为第一指导老师指导学生参加大学生数字媒体科技作品及创意竞赛获得华东赛区三等奖；中国大学生计算机设计大赛三等奖以及“田家炳杯”教育硕士现代教育技术专业教学技能大赛三等奖。
 
@@ -36,5 +36,5 @@ layout: page
 - **2025年7月17日-19日**：参加第20届信息技术教育专委会年会，日照，山东。
 - **2025年7月11日**：关于“AI赋能《计算机支持的协作学习》课程知识建构教学应用与实践”的研究受到湖州师范学院校教学委员会的资助。
 - **2025年7月9日**：关于“生成式AI多智能体协同支持师范生教学资源设计的实践”的研究受到湖州师范学院校教学委员会的资助。
-- **2024年**：我们的论文“The use of distance-shortening strategies to enhance opportunistic collaboration in knowledge-building environments”已被Educational Technology Research & Development接收并发表。(ETRD.pdf)
+- **2024年**：我们的论文“The use of distance-shortening strategies to enhance opportunistic collaboration in knowledge-building environments”已被Educational Technology Research & Development接收并发表。<a href="{{ site.baseurl }}/ETRD.pdf" target="_blank" class="btn">查看我的论文 (PDF)</a >
 
