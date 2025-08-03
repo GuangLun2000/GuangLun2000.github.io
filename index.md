@@ -36,5 +36,5 @@ layout: page
 - **2025年7月17日-19日**：参加第20届信息技术教育专委会年会，日照，山东。
 - **2025年7月11日**：关于“AI赋能《计算机支持的协作学习》课程知识建构教学应用与实践”的研究受到湖州师范学院校教学委员会的资助。
 - **2025年7月9日**：关于“生成式AI多智能体协同支持师范生教学资源设计的实践”的研究受到湖州师范学院校教学委员会的资助。
-- **2024年**：我们的论文“The use of distance-shortening strategies to enhance opportunistic collaboration in knowledge-building environments”已被Educational Technology Research & Development接收并发表。
+- **2024年**：我们的论文“The use of distance-shortening strategies to enhance opportunistic collaboration in knowledge-building environments”已被Educational Technology Research & Development接收并发表。(ETRD.pdf)
 
