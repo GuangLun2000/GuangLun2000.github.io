@@ -2,38 +2,38 @@
 layout: page
 ---
 
-# About Me
+# 关于我
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+你好👋我是 **陈羽洁**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+我是 [湖州师范学院](https://www.zjhu.edu.cn)教育学院教育技术学系教师, 硕士生导师，毕业于南京师范大学教育技术学系。主要从事知识建构教学与实践、计算机支持的协作学习、人工智能教学创新等方面的研究。目前主持教育部人文社会科学青年课题一项，校级教学改革项目两项；参与多项省级、市厅级课题及一项省级一流本科课程建设项目。近年来，以第一作者在Educational Technology Research & Development、电化教育研究、职业技术教育等教育技术国际权威及核心期刊发表学术论文近十篇，担任The Asia-Pacific  Education Researcher审稿人。获得校级高校教师教学创新大赛二等奖、青年教师教学竞赛二等奖；作为第一指导老师指导学生参加大学生数字媒体科技作品及创意竞赛获得华东赛区三等奖；中国大学生计算机设计大赛三等奖以及“田家炳杯”教育硕士现代教育技术专业教学技能大赛三等奖。
 
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
 
 ---
 
-## Research Interests
+## 研究兴趣
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
+- 基于知识建构理论、教学与技术等设计与实证研究
+- 群体协作及群体智慧
+- 支持知识创新的协作学习机制
+- 基于人工智能技术的教学创新
 
 ---
 
-## News and Updates
+## 学习与工作经历
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+- **2021年8月 - 至今**：讲师，硕士生导师，教育技术学系，教育学院，湖州师范学院
+- **2016年9月 - 2021年6月**：教育学博士（硕博连读），教育技术学，教育科学学院，南京师范大学（导师：张义兵教授）
+- **2012年9月 - 2016年6月**：理学学士，教育技术学，教育学部，广西师范大学
 
-<br>
+---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## 近期动态
+
+- **2025年7月17日-19日**：参加第20届信息技术教育专委会年会，日照，山东。
+- **2025年7月11日**：关于“AI赋能《计算机支持的协作学习》课程知识建构教学应用与实践”的研究受到湖州师范学院校教学委员会的资助。
+- **2025年7月9日**：关于“生成式AI多智能体协同支持师范生教学资源设计的实践”的研究受到湖州师范学院校教学委员会的资助。
+- **2024年**：我们的论文“The use of distance-shortening strategies to enhance opportunistic collaboration in knowledge-building environments”已被Educational Technology Research & Development接收并发表。
 
