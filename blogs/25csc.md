@@ -270,22 +270,66 @@ title: 剑桥CSC国家公派申请指南
 
 首先是笔者在2025年剑桥CSC面试过程中被问到的4个问题：
 
-1. 使用英文说一下你博士期间的研究计划
-2. 说明一下你在CCF-A会议上发表的文章，做了什么工作，解决了什么问题？
-3. 说明一下硕士期间，你和导师一起合作发表的文章，都做了什么？
-4. 回国的问题，未来回国之后，打算如何发展？
+- 使用英文说一下你博士期间的研究计划
+- 解释一下你在xx会议上发表的文章，做了什么工作，解决了什么问题？
+- 说明一下硕士期间，你和导师一起合作发表的文章，都做了什么？
+- 回国的问题，未来回国之后，打算如何发展？
 
-笔者当时大致上的回答思路如下（四个问题笔者都提前准备到了）：
+**上述四个问题笔者其实都提前准备到了，笔者当时大致上的回答思路如下：**
 
-1. 针对第一个问题，关于Research Proposal，大概准备了1分30秒的
+- **针对第一个问题，使用英文说一下你博士期间的研究计划（英文）**
+
+以下是笔者当时所准备的素材，大部分的内容都烂熟于心了
+
+```python
+Thank you very much for having me today. My name is Hanlin Cai, and I come from Fujian.
+
+I am currently pursuing my master degree in electrical engineering at the University of Cambridge, under the supervision of IEEE Fellow - Professor Ozgur Akan. My research focuses on semantic communication and the Internet of Everything. So far, I have already published 5 research papers as the first author, which reflects my solid research foundation in this specific area.
+
+So, my PhD research project is “Semantic Communication Systems for Space-Air-Ground and Sea Integrated Networks.”
+
+This integrated network includes four components: satellites in space; air platform like aircraft and drones; ground-based station and underwater communication platform. This ambitious network aims to enable efficient communication across diverse environment and scenarios.
+
+So, my PhD research aims to develop a multi-modal semantic communication framework to support the integrated network. To achieve this, I will apply advanced deep learning models—like Transformers and Graph Neural Networks—to dynamically encode and decode semantic features from different input data types from diverse environment.
+
+Finally, I see my PhD research perfectly aligns with the techonology planning policy of China State Council for the future 10 years. So I really hope to continue my study in this meaningful area with the support of CSC Scholarship!
+
+So that’s my brief introduction, thank you!
+```
+
+- **解释一下你在xx会议上发表的文章，做了什么工作，解决了什么问题？**
+
+我当时其实没有完全准备对应的文本，基本上是依靠记忆把研究叙述了一遍，参考这份总结
+
+```python
+【目的】本研究聚焦蓝牙低功耗 BLE 通信协议中广泛存在的固件漏洞与协议缺陷，旨在设计一种高效轻量的伪造攻击检测机制，提升海量 BLE 设备在工业物联网环境下的通信安全性。
+【方法】提出一种融合物理层特征提取与机器学习算法的攻击检测方法，综合利用信号强度、发射频率、设备识别码等四类关键物理与网络特征。在自研物理测试平台上构建真实攻击场景，采集广播报文并构建训练样本，最终设计出可部署于边缘设备的轻量级检测模型。
+【成果】在典型伪造攻击场景下开展对比测试，所提出方法实现 98.2%的检测准确率，平均检测时延仅为 1.96 秒，在检测精度与响应效率上均优于现有同类工作。相关成果最终发表在领域顶级的国际会议上。
+```
+
+- 说明一下硕士期间，你和导师一起合作发表的文章，都做了什么？
+
+
+
+
+
+- 回国的问题，未来回国之后，打算如何发展？
+
+
 
 
 
 #### 3.2 面试准备方法
 
+
+
 #### 3.3 面试题库笔记
 
+
+
 #### 3.4 经验之谈
+
+
 
 <br>![phd042518s](25csc.assets/phd042518s.gif)
 
