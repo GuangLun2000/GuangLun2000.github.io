@@ -24,7 +24,7 @@ title: 在剑桥的第一年（年度总结）
 
 <br>我多么热爱闽南这片土地，这里有最勤劳的人民，有最热情的民俗，有最忠诚的信仰，有我爱的爸爸妈妈和家人们。我出生在一个最传统的闽南大家族，我的爷爷有11个兄弟姊妹。我从小见证了家族的兴起，父母辈们的精耕细作，我辈绝不让她衰败。谢谢你们毫无保留地供我读书，让我相信知识就是力量，信仰就是力量。当我站得越高，看得越远，走出去了，我才知道家乡是什么样。我不愿离开，但我也不愿妥协，我要改变，带着我的兄弟姊妹们一起改变——反思“闽南性”，拒绝“爹味”，捍卫“闽南女权”，守护“闽南语言”——兄弟姊妹们，你我共担当！
 
-<br>我是一个热爱写「致谢」的人，因为我热爱写作，热爱朋友，热爱家人，更热爱感恩。我的家风和教育让我相信世界是美好的。道路虽曲折，前程定光明。我不会忘记那位福州老先生（78英专）对我的教导：要学会感恩，因为我们的生活多么美好！他笑起来的容颜让我的灵魂都震撼，更引导我建立起了美好的世界观。
+<br>我是一个热爱写「致谢」的人，因为我热爱写作，热爱朋友，热爱家人，更热爱感恩。我的家风和教育让我相信世界是美好的。道路虽曲折，前程定光明。我不会忘记那位福州老先生（英专78）对我的教导：要学会感恩，因为我们的生活多么美好！他笑起来的容颜让我的灵魂都震撼，更引导我建立起了美好的世界观。
 
 <br>最后的最后，我要特别感谢一位美好的女孩，我们在一个美丽的仲夏相遇，我们相恋多年，彼此信任，共赴前程。你总是问我未来有没有你，其实，我人生里看到的每一寸世界，从福州到雷克雅未克，从伦敦到巴黎——所有的美好，都有你。
 
@@ -46,6 +46,8 @@ This thesis would not have been possible without the help and support of so many
 
 <br>I am also deeply grateful to the Cambridge Trust and the China Scholarship Council for their generous scholarships. Without their support, this dream would have remained just that—a dream. I am forever thankful for their belief in my huge potential.
 
-<br>A heartfelt thank you to my parents Huaxin Cai and Lianhong Xu, my little sister Xinyi Cai and my big family, whose unwavering support has empowered me to seize new chances and pursue my dreams. So what I always strive for is to make them proud of me. Lastly, to Linshi Li, the wonderful girl I met in a beautiful summer, who always believes in me a thousand times more than I do. I love you, forever.
+<br>A heartfelt thank you to my parents Huaxin Cai and Lianhong Xu, my little sister Xinyi Cai and my big family, whose unwavering support has empowered me to seize new chances and pursue my dreams. So what I always strive for is to make them proud of me. Lastly, to Linshi Li, the wonderful girl I met in a beautiful summer, who always believes in me a thousand times more than I do.
+
+<br>I love you, forever.
 
 <br>
