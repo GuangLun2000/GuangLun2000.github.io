@@ -264,27 +264,28 @@ title: 剑桥CSC国家公派申请指南
 >
 > 3.4 经验之谈
 
-前面两个章节中，笔者讨论了CSC前期准备，和申请材料撰写相关的经验和建议。在本章节中，我们将关注于CSC申请中的面试环节。2025年开始，几所英国高校的CSC申请陆续开始需要面试环节，包括布里斯托、根特大学等（其中剑桥、牛津、帝国理工是一直以来都需要面试）
+前面两个章节中，笔者讨论了CSC前期准备，和申请材料撰写相关的经验和建议。在本章节中，我们将关注于CSC申请中的面试环节。2025年开始，几所英国高校的CSC申请陆续开始需要面试环节，包括布里斯托、根特大学等等（其中剑桥、牛津、帝国理工是一直以来都需要第二轮面试）
 
-<br>流程上来看，近三年剑桥CSC申请者大概会在150-200人左右，具体数字和名单不公开。第一轮材料审核就会开始刷人（背景不具竞争力、剑桥要求的语言条件没过等原因为主），大概会有40%~50%的申请人进入第二轮的面试阶段。2024年，留基委在面试阶段拉了三个微信群来进行面试管理，其中分成了理科、工科、文社科。但在2025年，也就是笔者这一年，留基委不再拉微信群，而是在4月21号通知，25号进行测试，26-27号进行正式面试，其中不同专业的同学进入的腾讯会议房间也是不一样的。
+<br>流程上来看，近三年剑桥CSC申请者大概会在150-200人左右，具体数字和名单没有公开，因此笔者这里列出的数字仅供参考。第一轮材料审核就会开始刷人（原因：背景不具竞争力、剑桥要求的语言条件没过等等），之后大概会有40%~50%的申请人进入第二轮的面试阶段，也就是将近70-90人左右。
+
+<br>2024年，留基委在面试阶段拉了三个微信群来进行统一管理，其中分成了理科、工科、社科文科。但在2025年，也就是笔者申请的这一年，留基委不再拉微信群，而是在4月21号通知申请人进入面试，25号进行测试，26-27号进行正式面试，其中不同专业的申请人进入的腾讯会议房间是不一样的。
 
 #### 3.1 真实面经
 
-首先是笔者在2025年剑桥CSC面试过程中被问到的4个问题，面试大概持续9~10分钟：
+笔者在2025年CSC面试过程中，一个被问了4个问题，整场面试大概持续了9~10分钟，有三位面试官，其中两男一女，都在同一个房间里面，没有打开视频，笔者作为申请人需要打开自己的视频。听声音可以感到三位面试官约莫在40岁左右，因为笔者的专业是通信工程，三位面试官应该也都是理工科方面的专家（比如其中一位知道“CCF-A”），笔者当时被问到的问题包括：
 
-<<<<<<< Updated upstream
-- 使用英文说一下你博士期间的研究计划
-- 解释一下你在xx会议上发表的文章，做了什么工作，解决了什么问题？
+- 首先使用英文，解释一下你博士期间的研修计划？
+- 解释一下你在CCF-A级别的会议上所发表的文章，做了什么工作，解决了什么问题？
 - 说明一下硕士期间，你和导师一起合作发表的文章，都做了什么？
-- 回国的问题，未来回国之后，打算如何发展？
+- 考虑到回国的问题，未来回国之后，打算如何发展？
 
-**上述四个问题笔者其实都提前准备到了，笔者当时大致上的回答思路如下：**
+上述四个问题，笔者其实事先都准备过了，笔者当时大致上的回答思路如下：
 
-- **针对第一个问题，使用英文说一下你博士期间的研究计划（英文）**
+- 问题一：针对第一个问题，使用英文说一下你博士期间的研究计划？
 
-以下是笔者当时所准备的素材，大部分的内容都烂熟于心了
+以下是笔者提前准备的素材，大部分的内容都烂熟于心了，所以当时直接完整自然地背了下来。
 
-```python
+```tex
 Thank you very much for having me today. My name is Hanlin Cai, and I come from Fujian.
 
 I am currently pursuing my master degree in electrical engineering at the University of Cambridge, under the supervision of IEEE Fellow - Professor Ozgur Akan. My research focuses on semantic communication and the Internet of Everything. So far, I have already published 5 research papers as the first author, which reflects my solid research foundation in this specific area.
@@ -295,34 +296,28 @@ This integrated network includes four components: satellites in space; air platf
 
 So, my PhD research aims to develop a multi-modal semantic communication framework to support the integrated network. To achieve this, I will apply advanced deep learning models—like Transformers and Graph Neural Networks—to dynamically encode and decode semantic features from different input data types from diverse environment.
 
-Finally, I see my PhD research perfectly aligns with the techonology planning policy of China State Council for the future 10 years. So I really hope to continue my study in this meaningful area with the support of CSC Scholarship!
+Finally, I see my PhD research perfectly aligns with the techonology planning policy of China State Council for the future 10 years. So I really hope to continue my study in this meaningful area with the support of CSC Scholarship! 
 
 So that’s my brief introduction, thank you!
 ```
 
-- **解释一下你在xx会议上发表的文章，做了什么工作，解决了什么问题？**
+- 问题二：解释一下你在CCF-A级别的会议上所发表的文章，做了什么工作，解决了什么问题？
 
-我当时其实没有完全准备对应的文本，基本上是依靠记忆把研究叙述了一遍，参考这份总结
+笔者当时其实没有完全准备对应的文本，基本上是依靠记忆把研究叙述了一遍，参考这份总结
 
-```python
+```tex
 【目的】本研究聚焦蓝牙低功耗 BLE 通信协议中广泛存在的固件漏洞与协议缺陷，旨在设计一种高效轻量的伪造攻击检测机制，提升海量 BLE 设备在工业物联网环境下的通信安全性。
 【方法】提出一种融合物理层特征提取与机器学习算法的攻击检测方法，综合利用信号强度、发射频率、设备识别码等四类关键物理与网络特征。在自研物理测试平台上构建真实攻击场景，采集广播报文并构建训练样本，最终设计出可部署于边缘设备的轻量级检测模型。
 【成果】在典型伪造攻击场景下开展对比测试，所提出方法实现 98.2%的检测准确率，平均检测时延仅为 1.96 秒，在检测精度与响应效率上均优于现有同类工作。相关成果最终发表在领域顶级的国际会议上。
 ```
 
-- 说明一下硕士期间，你和导师一起合作发表的文章，都做了什么？
+- 问题三：说明一下硕士期间，你和导师一起合作发表的文章，都做了什么？
 
 
 
 
 
-- 回国的问题，未来回国之后，打算如何发展？
-=======
-1. 使用英文，解释一下你博士期间的研究计划
-2. 说明一下你在CCF-A级别的会议上所发表的文章，做了什么工作，解决了什么问题？
-3. 说明一下硕士期间，你和导师一起合作发表的文章，都做了什么？（我的硕导同时也是博导）
-4. 回国的问题，未来回国之后，打算如何发展？
->>>>>>> Stashed changes
+- 问题四：考虑到回国的问题，未来回国之后，打算如何发展？
 
 
 
@@ -334,19 +329,19 @@ So that’s my brief introduction, thank you!
 
 #### 3.3 面试题库笔记
 
-<<<<<<< Updated upstream
+
 
 
 #### 3.4 经验之谈
 
 
-=======
 笔者在准备4月面试前的一周，针对面试撰写了大概19000字左右的题库笔记，笔者
 
 #### 3.4 经验之谈
 
 笔者
->>>>>>> Stashed changes
+
+
 
 <br>![phd042518s](25csc.assets/phd042518s.gif)
 
