@@ -357,7 +357,7 @@ So that’s my brief introduction, thank you!
 
 <br>最后的最后，这篇文章应该是网络上大家可以找到的，关于英国CSC奖学金申请最好的指导性文章。笔者毫无保留地分享了自己申请博士、申请公派奖学金一年来最重要的心得，希望对大家有所帮助。祝大家顺利中奖！
 
-<br>如果这篇文章帮到您，请考虑请笔者喝杯咖啡吧！感谢您的慷慨 ☺️
+<br>如果这篇文章帮到您，请考虑请笔者喝杯咖啡吧～感谢您的慷慨 ☺️
 
-<br><img src="25csc.assets/pay.png" alt="pay" style="zoom:33%;" />
+<br>![pay](25csc.assets/pay.png)
 
