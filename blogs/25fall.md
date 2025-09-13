@@ -76,109 +76,21 @@ title: 25Fall申请记录
 
 ---
 
-## 1、University of Cambridge
+## 视频记录
 
+下面的视频详细讲解了笔者博士申请的全过程，以及相关PhD项目的具体信息，希望对大家有帮助！
 
+- 【剑桥全奖】聊聊史上最卷的25Fall博士申请季，我如何获得多个全奖录取（第一期：心得与方法论）
+  - [视频链接：https://www.bilibili.com/video/BV1PYuYzGEbK/](https://www.bilibili.com/video/BV1PYuYzGEbK)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
 ---
 
-## 2、University of Oxford
+## 支持我的开源创作
 
+如果这篇文章帮到您，请考虑请笔者喝杯咖啡吧～感谢您的慷慨 ☺️
 
+<br>![pay](25csc.assets/pay.png)
 
-
-
-
-
----
-
-## 3、Imperial College London
-
-
-
-
-
-
-
-
-
-
-
----
-
-## 4、University of Manchester
-
-
-
-
-
-
-
-
-
----
-
-## 5、Australian National University
-
-
-
-
-
-
-
----
-
-## 6、Hong Kong University
-
-
-
-
-
-
-
-
-
-
-
----
-
-## 7、University of British Columbia
-
-
-
-
-
-
-
-
-
----
-
-## 8、玛丽居里 HUAWEI Germany + TU/e
-
-
-
-
-
-
-
-
-
-
-
+<br>
