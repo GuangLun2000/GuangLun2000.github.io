@@ -189,6 +189,9 @@ KCL的申请系统设计得很丝滑，申请提交非常舒服
 
 ## Overall
 
+- 【剑桥MPhil博主】海外研究型硕士申请指南，全奖博士的“最佳敲门砖”】
+  - [视频链接： https://www.bilibili.com/video/BV12juPz8EVb/](https://www.bilibili.com/video/BV12juPz8EVb/)
+
 申请哲学：好好努力，心平气和，静候佳音！一切都是最好的安排🥰
 
 <br>如果这篇文章帮到您，请考虑请笔者喝杯咖啡吧～感谢您的慷慨 ☺️
