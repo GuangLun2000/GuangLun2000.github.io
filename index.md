@@ -19,10 +19,8 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ## Research Interests
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
+- Internet of Agents (powered by FedLLMs)
 - Wireless Communication
-- Semantic Communication
-- LLM for Networking
-- Large Language Model Agents
 
 ---
 
