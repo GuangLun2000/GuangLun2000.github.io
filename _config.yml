@@ -3,7 +3,7 @@
 # --------------------------------------------------
 title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Two roads diverged in woods, I took the one less traveled by.  # Strongly recommended for SEO & social cards
+description: Here is personal website of Hanlin Cai, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
@@ -17,8 +17,7 @@ owner:
   avatar: hanlin.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: hc663@cam.ac.uk
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-
+  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: lancecai2002
@@ -28,9 +27,9 @@ owner:
   researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   zhihu: https://www.zhihu.com/people/chlire
   xiaohongshu: 5c27848f0000000005030c6f
+  instagram: lancecai2002
   bilibili: 594030035
   # facebook: caihanlin2002
-  # instagram: lancecai2002
   # lastfm:
   # tumblr:
 
@@ -133,3 +132,4 @@ plugins:
   - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
 #   - jekyll-picture-tag   # Responsive images & WebP/AVIF
   # - jekyll-archives      # Year/month archive pages
+
