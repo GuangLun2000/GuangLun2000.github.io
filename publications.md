@@ -6,7 +6,7 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Journal Paper
+## Manuscripts
 
 - [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
 
@@ -16,13 +16,17 @@ title: Publications
 
   
 
+- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~<br>Submitted to IEEE Transactions on Wireless Communications.<br>
+
+  
+  
 - Perspectives on Visual Analytics for Advancing Imaginative Intelligence<br>Xiangxuan Zhang, **Hanlin Cai**, Xumeng Wang~<br>Submitted to Visual Informatics.<br>
 
   <br>
 
 ## Conference Paper
 
-- Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents (Submitted to IEEE ICC 2026).
+- Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents (Submitted to an IEEE ComSoc Conference). <br>
 
 - [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.<br>
 
