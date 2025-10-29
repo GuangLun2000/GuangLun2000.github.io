@@ -5,15 +5,18 @@ title: Services
 
 ---
 
-I am open to reviewing manuscripts in areas related to 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - hc663[at]cam.ac.uk.
+I am open to reviewing manuscripts in areas related to 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - hc663[at]cam.ac.uk
+
+<br>
 
 ## Academic Services
 
-- Elsevier Sustainable Cities and Society (2025)
 - IEEE Communications Letters (2025)
+- IEEE International Conference on Communications (2025)
 - IEEE Global Communications Conference (2025)
 - IEEE Conference on Local Computer Networks (2025)
 - AAAI Conference on Artificial Intelligence (2025)
+- Elsevier Sustainable Cities and Society (2025)
 
 <br>
 
