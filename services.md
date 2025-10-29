@@ -5,9 +5,7 @@ title: Services
 
 ---
 
-I am open to reviewing manuscripts in areas related to 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - hc663[at]cam.ac.uk
-
-<br>
+> I am always open to reviewing manuscripts in areas related to 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - hc663[at]cam.ac.uk
 
 ## Academic Services
 
