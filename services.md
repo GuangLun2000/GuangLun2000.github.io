@@ -5,6 +5,8 @@ title: Services
 
 ---
 
+I am open to reviewing manuscripts in areas related to 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - hc663[at]cam.ac.uk.
+
 ## Academic Services
 
 - Elsevier Sustainable Cities and Society (2025)
@@ -17,7 +19,7 @@ title: Services
 
 ## Teaching and Supervision
 
-- [Cambridge Undergraduate Part-IIB Project](https://teaching.eng.cam.ac.uk/content/part-iib-project-introduction)<br>Student: [Jon Tindal](https://www.linkedin.com/in/jon-tindal-a87668254/)<br>Topic: Spectrum Sensing with Deep Learning for Cognitive Radio
+- [Cambridge Undergraduate Part-IIB Project](https://teaching.eng.cam.ac.uk/content/part-iib-project-introduction)<br>Student: [Jon Tindal](https://www.linkedin.com/in/jon-tindal-a87668254/). Co-supervised with Prof. Ozgur Akan<br>Topic: Spectrum Sensing with Deep Learning for Cognitive Radio.
 
 <br>
 
