@@ -6,7 +6,7 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Manuscripts
+## Journal Manuscripts
 
 - [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine, 2025.<br>
 
@@ -20,7 +20,7 @@ title: Publications
 
   
   
-- Perspectives on Visual Analytics for Advancing Imaginative Intelligence<br>Xiangxuan Zhang, **Hanlin Cai**, Xumeng Wang~<br>Submitted to Visual Informatics, 2025.<br>
+- Perspectives on Visual Analytics for Advancing Imaginative Intelligence<br>Xiangxuan Zhang, **Hanlin Cai**, Xumeng Wang~<br>Submitted to Visual Informatics, 2026.<br>
 
   <br>
 
@@ -53,11 +53,11 @@ title: Publications
 
 ## Degree Thesis
 
-- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks](https://caihanlin.com/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Ozgur B. Akan).<br>Examiners: Sasitharan Balasubramaniam, Qixiang Cheng.<br>Thesis awarded Distinction.<br>
+- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks](https://caihanlin.com/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Ozgur B. Akan).<br>Examiners: [Dr. Sasitharan Balasubramaniam](https://computing.unl.edu/person/sasitharan-balasubramaniam/), [Dr. Qixiang Cheng](https://www.eng.cam.ac.uk/profiles/qc223).<br>Thesis awarded Distinction.<br>
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu).<br>Best Bachelor Thesis Award (Top 1/300).<br>
+- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Zhezhuang Xu).<br>Best Bachelor Thesis Award (Top 1/300).<br>
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia).<br>Industrial Placement at China Fujian Huading Tech.<br>
+- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Dr. Zhezhuang Xu, Yuxiong Xia).<br>Industrial Placement Report at China Huading Tech.<br>
 
   <br>
 
