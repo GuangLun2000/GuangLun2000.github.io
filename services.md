@@ -9,6 +9,8 @@ title: Services
 
 ## Academic Services
 
+#### Reviewer
+
 - IEEE Communications Letters (2025)
 - IEEE International Conference on Communications (2025)
 - IEEE Global Communications Conference (2025)
@@ -16,11 +18,16 @@ title: Services
 - AAAI Conference on Artificial Intelligence (2025)
 - Elsevier Sustainable Cities and Society (2025)
 
+#### Program Committee
+
+- PC Member, AAAI Undergraduate Consortium (2026)
+
 <br>
 
 ## Teaching and Supervision
 
 - [Cambridge Undergraduate Part-IIB Project](https://teaching.eng.cam.ac.uk/content/part-iib-project-introduction)<br>Student: [Jon Tindal](https://www.linkedin.com/in/jon-tindal-a87668254/). Co-supervised with Prof. Ozgur Akan<br>Topic: Spectrum Sensing with Deep Learning for Cognitive Radio.
+- [AAAI 2026 Conference: Undergraduate Consortium](https://aaai.org/conference/aaai/aaai-26/uc-call/)<br>Student: Jarin Tasneem (Bangladesh University of Engineering and Technology)<br>Topic: Byzantine Model Poisoning Attack against Vertical Federated Learning.
 
 <br>
 
