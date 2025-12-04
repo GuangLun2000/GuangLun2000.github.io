@@ -28,7 +28,7 @@ title: Publications
 
 - [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to an IEEE ComSoc Conference, 2026. <br>
 
-- A Policy-Aware, Cross-Layer Methodology for Auditing Service Tiering and Throttling in Starlink<br>Houtianfu Wang, **Hanlin Cai~**, Haofan Dong, Kai Li, Ozgur B. Akan<br>Submitted to an ACM Measurement Conference, 2026.
+- A Policy-Aware, Cross-Layer Methodology for Auditing Service Tiering and Throttling in Starlink<br>Houtianfu Wang, **Hanlin Cai~**, Haofan Dong, Kai Li, Ozgur B. Akan<br>Submitted to an ACM Conference, 2026.
 
 - [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications (IEEE MolCom 2025)<br>Catania, Italy. February, 2025.<br>
 
