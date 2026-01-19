@@ -8,7 +8,7 @@ title: Publications
 
 ## Journal Manuscripts
 
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine, 2025.<br>
+- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Haofan Dong, Houtianfu Wang, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine, 2025.<br>
 
   
 
@@ -16,7 +16,11 @@ title: Publications
 
   
 
-- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~<br>Submitted to IEEE Transactions on Wireless Communications, 2025.<br>
+- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~<br>Submitted to IEEE Transactions on Wireless Communications, 2026.<br>
+
+  
+  
+- [Environment-to-Link ISAC with Space-Weather Sensing for Ka-Band LEO Downlinks](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to IEEE Transactions on Wireless Communications, 2026.<br>
 
   
   
@@ -29,6 +33,8 @@ title: Publications
 - [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to an IEEE ComSoc Conference, 2026. <br>
 
 - A Policy-Aware, Cross-Layer Methodology for Auditing Service Tiering and Throttling in Starlink<br>Houtianfu Wang, **Hanlin Cai~**, Haofan Dong, Kai Li, Ozgur B. Akan<br>Submitted to an ACM Conference, 2026.
+
+- Deadline Feasibility of AI Background Workloads over LEO RF and Optical Links<br>Houtianfu Wang, Osman Tansel Baydas, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE ComSoc Conference, 2026. <br>
 
 - [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications (IEEE MolCom 2025)<br>Catania, Italy. February, 2025.<br>
 
