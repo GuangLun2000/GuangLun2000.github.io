@@ -26,6 +26,8 @@
 
 <body class="articles" itemscope itemtype="http://schema.org/WebPage">
 
+<div class="page-wrapper">
+
 {% include chrome-frame.html %}
 
 {% include navigation.html %}
@@ -47,7 +49,7 @@
   {% unless post.next %}
     <h3>{{ post.date | date: '%Y' }}</h3>
     <hr />
-    {% else %}
+  {% else %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
       {% if year != nyear %}
@@ -67,6 +69,8 @@
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrap -->
+
+</div><!-- /.page-wrapper -->
 
 {% include scripts.html %}
   

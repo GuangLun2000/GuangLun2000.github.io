@@ -248,6 +248,8 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .form-search .radio,.form-search .checkbox,.form-inline .radio{padding-left:0;margin-bottom:0;vertical-align:middle;}
 .form-search .radio input[type="radio"],.form-search .checkbox input[type="checkbox"]{float:left;margin-left:0;margin-right:3px;}
 html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;font-size:90%;}
+/* 页面整体居中：宽屏下限制最大宽度并水平居中 */
+.page-wrapper{width:100%;max-width:1280px;margin-left:auto;margin-right:auto;}
 .navigation-wrapper{margin:0 auto;width:100%;padding:2em 0 3em;font-family:'PT Sans Narrow',sans-serif;font-weight:700;text-transform:uppercase;}
 .site-name{margin:0 auto;width:100%;display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:1em;}
 .top-navigation{margin:0 auto;width:100%;display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;margin-bottom:1em;}
