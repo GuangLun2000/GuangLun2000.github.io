@@ -39,8 +39,23 @@ title: Services
 ## Voluntary Service
 
 - Student Volunteer in the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (2024)
+
 - Student Volunteer in the 22nd ACM International Conference on Mobile Systems, Applications, and Services (2024)
+
 - Student Volunteer in the 38th Annual AAAI Conference on Artificial Intelligence (2024)
+
 - Student volunteer in the 44th session of the World Heritage Committee (2021)
 
-<br>
+  <br>
+
+---
+
+## Chat with me
+
+**Dec 2025:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Feel free to reach out!
+
+<!-- Calendly inline widget begin -->
+
+<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->

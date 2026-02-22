@@ -20,8 +20,8 @@ I am always open to academic discussions and potential collaborations. Please fe
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
 - Internet of Agents
-- Wireless Communication
-- Federated Learning
+- Federated LLMs
+- Poisoning Attack & Defense
 - Graph Representation
 
 ---
@@ -35,17 +35,4 @@ I am always open to academic discussions and potential collaborations. Please fe
 - **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
 
-
----
-
 <br>
-
-## Chat with me
-
-**Dec 2025:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Feel free to reach out!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
