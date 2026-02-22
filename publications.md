@@ -20,21 +20,17 @@ title: Publications
 
   
   
-- [Environment-to-Link ISAC with Space-Weather Sensing for Ka-Band LEO Downlinks](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to IEEE Transactions on Wireless Communications, 2026.<br>
-
-  
-  
-- Perspectives on Visual Analytics for Advancing Imaginative Intelligence<br>Xiangxuan Zhang, **Hanlin Cai**, Xumeng Wang~<br>Submitted to Visual Informatics, 2026.<br>
+- [Environment-to-Link ISAC with Space-Weather Sensing for Ka-Band LEO Downlinks](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2026.<br>
 
   <br>
 
 ## Conference Paper
 
-- [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to an IEEE ComSoc Conference, 2026. <br>
+- [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Sai Zou, Ozgur B. Akan~<br>Submitted to the 22nd International Wireless Communications & Mobile Computing Conference (IWCMC), 2026. <br>
 
   
 
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications (IEEE MolCom 2025)<br>Catania, Italy. February, 2025.<br>
+- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications (MolCom 2025)<br>Catania, Italy. February, 2025.<br>
 
   
 
@@ -53,6 +49,8 @@ title: Publications
 - SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (IEEE ICEIT 2025).<br>Guangzhou, China. March, 2025.<br><br>
 
 
+
+
 ---
 
 ## Early Project
@@ -62,6 +60,8 @@ title: Publications
 - Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics.
 
   <br>
+
+
 
 ---
 

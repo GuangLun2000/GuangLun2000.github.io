@@ -281,7 +281,7 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 .article-author-top h4,.article-author-bottom h4{margin-bottom:0.5em;}
 .article-author-top p,.article-author-bottom p{font-size:80%;font-style:italic;}
 .article-author-top a,.article-author-bottom a,.article-author-top a:hover,.article-author-bottom a:hover{border-bottom:0 solid transparent;}
-.article-author-top img.bio-photo,.article-author-bottom img.bio-photo{-webkit-border-radius:100px;-moz-border-radius:100px;border-radius:100px;}
+.article-author-top img.bio-photo,.article-author-bottom img.bio-photo{-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
 .article-author-top{display:none;}
 .article-author-bottom .bio-photo{float:left;margin-right:25px;}
 .toc{display:none;font-size:95%;-webkit-opacity:0.7;-moz-opacity:0.7;opacity:0.7;-webkit-transition:opacity 0.2s ease-in-out;-moz-transition:opacity 0.2s ease-in-out;-ms-transition:opacity 0.2s ease-in-out;-o-transition:opacity 0.2s ease-in-out;transition:opacity 0.2s ease-in-out;}.toc:hover{-webkit-opacity:1;-moz-opacity:1;opacity:1;}
