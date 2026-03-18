@@ -8,25 +8,37 @@ title: Publications
 
 ## Journal Manuscripts
 
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Haofan Dong, Houtianfu Wang, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine, 2025.<br>
+- Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>Submitted to an IEEE Transaction, 2026.<br>
 
   
 
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine, 2025.<br>
+- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Haofan Dong, Houtianfu Wang, Kai Li, Ozgur B. Akan~<br>Submitted to an IEEE ComSoc Magazine, 2025.<br>
 
   
 
-- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~<br>Submitted to IEEE Transactions on Wireless Communications, 2026.<br>
+- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>
+
+  
+
+- [A Policy-Aware Cross-Layer Auditing Service for Tiering and Throttling in Starlink](https://arxiv.org/abs/2603.08990)<br>Houtianfu Wang, **Hanlin Cai~**, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE ComSoc Letter, 2025.<br>
 
   
   
-- [Environment-to-Link ISAC with Space-Weather Sensing for Ka-Band LEO Downlinks](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2026.<br>
+- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~<br>Submitted to an IEEE ComSoc Transaction, 2026.<br>
+
+  
+  
+- [Environment-to-Link ISAC with Space-Weather Sensing for Ka-Band LEO Downlinks](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan~<br>Submitted to an IEEE ComSoc Transaction, 2026.<br>
 
   <br>
 
 ## Conference Paper
 
-- [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Sai Zou, Ozgur B. Akan~<br>Submitted to the 22nd International Wireless Communications & Mobile Computing Conference (IWCMC), 2026. <br>
+- [Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling](https://arxiv.org/pdf/2603.11280)](https://arxiv.org/abs/2511.07176)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~<br>Submitted to an IEEE ComSoc Conference, 2026. <br>
+
+  
+
+- [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~, Sai Zou, Ozgur B. Akan<br>Submitted to the 22nd International Wireless Communications & Mobile Computing Conference (IWCMC), 2026. <br>
 
   
 
@@ -49,8 +61,6 @@ title: Publications
 - SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (IEEE ICEIT 2025).<br>Guangzhou, China. March, 2025.<br><br>
 
 
-
-
 ---
 
 ## Early Project
@@ -60,8 +70,6 @@ title: Publications
 - Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics.
 
   <br>
-
-
 
 ---
 
