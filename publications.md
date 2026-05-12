@@ -10,13 +10,13 @@ title: Publications
 
 *The people listed below have deeply influenced my research and growth. Their contributions have greatly enriched the work presented here. I am always open to collaboration and fully committed to every project I undertake!*
 
-- Edge LLMs: [Falko Dressler (TU Berlin)](https://www.tkn.tu-berlin.de/team/dressler/), [Kai Li (CMU)](https://sites.google.com/site/lukasunsw/), [Zheng Lin (HKU)](https://xianhaochen.net/people)
+- Edge LLMs: [Falko Dressler (TU Berlin)](https://www.tkn.tu-berlin.de/team/dressler/), [Kai Li (CMU)](https://sites.google.com/site/lukasunsw/), [Yichen Li (HUST)](https://yichenli-hust.github.io/), [Zheng Lin (HKU)](https://xianhaochen.net/people)
 - Wireless Communications: [Ozgur B. Akan](https://oba.eco/), [Haofan Dong](https://scholar.google.com/citations?user=tuhdAK0AAAAJ&hl=zh-CN), [Houtianfu Wang](https://ioe.eng.cam.ac.uk/staff/houtianfu-wang)
 - Wireless Networks: [Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22/), [Zhezhuang Xu (FZU)](https://scholar.google.com/citations?hl=zh-CN&user=iZ7LQRkAAAAJ&view_op=list_works&sortby=pubdate), [Meng Yuan (VUW)](https://myuan27.github.io/), [Junfei Zhan (UPenn)](https://junfei-z.github.io/)<br><br>
 
 ## Submitted Paper (with arXiv links)
 
-- Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>**Hanlin Cai**, Kai Li~~, Haofan Dong, Houtianfu Wang, Falko Dressler, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- [Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961)<br>**Hanlin Cai**, Kai Li~~, Houtianfu Wang, Haofan Dong, Yichen Li, Falko Dressler, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
 
   
 
