@@ -277,6 +277,17 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 .headline-wrap h2{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;text-transform:uppercase;}
 .article-wrap h2{font-size:36px;font-size:2rem;margin-bottom:0.825rem;}
 .article-wrap h3{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;}
+/* Services (/services/): nested reviewer lists + section rhythm */
+body.page-services .article-wrap blockquote{margin-bottom:1.25em;}
+body.page-services .article-wrap h2{margin-bottom:0.5em;}
+body.page-services .article-wrap h3{margin-top:1.35em;margin-bottom:0.55em;line-height:1.3;}
+body.page-services .article-wrap h2 + h3{margin-top:0.35em;}
+body.page-services .article-wrap ul{margin-bottom:0.65em;}
+body.page-services .article-wrap > ul > li{margin-bottom:0.55em;line-height:1.5;}
+body.page-services .article-wrap ul ul{margin:0.25em 0 0.35em 0;padding-left:1.35em;list-style-type:disc;}
+body.page-services .article-wrap ul ul li{margin-bottom:0.2em;line-height:1.45;}
+body.page-services .article-wrap hr{margin:1.75em 0;}
+body.page-services .article-wrap li p{margin:0.35em 0 0;}
 .byline{clear:both;font-size:80%;}
 .article-author-top h4,.article-author-bottom h4{margin-bottom:0.5em;}
 .article-author-top p,.article-author-bottom p{font-size:80%;font-style:italic;}
