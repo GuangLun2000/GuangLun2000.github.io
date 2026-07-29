@@ -28,15 +28,19 @@ title: Publications
 
   
 
-- [A Policy-Aware Cross-Layer Auditing Service for Tiering and Throttling in Starlink](https://arxiv.org/abs/2603.08990)<br>Houtianfu Wang, **Hanlin Cai~~**, Haofan Dong, Ozgur B. Akan<br>Submitted to IEEE Networking Letter, 2026.<br>
+- [Edge-Side Fingerprints of Service Tiering and Quota Throttling in Starlink](https://arxiv.org/abs/2603.08990)<br>Houtianfu Wang, **Hanlin Cai~~**, Haofan Dong, Ozgur B. Akan<br>Submitted to IEEE Networking Letter, 2026.<br>
 
   
   
-- [Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC](https://arxiv.org/abs/2604.10830)<br>Haofan Dong~~, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- Staying Online Costs More Energy Than Sending Bits in a Starlink Mini Terminal<br>Houtianfu Wang, Shaojie Zhang, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
 
   
   
-- [Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- [Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC](https://arxiv.org/abs/2604.10830)<br>Haofan Dong~~, Houtianfu Wang, **Hanlin Cai**, O. Tansel Baydas, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+
+  
+  
+- [Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>IEEE Transactions on Aerospace and Electronic Systems, 2026.<br>
 
   
   
@@ -44,7 +48,11 @@ title: Publications
 
   
   
-- [Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness in Remote Sensing Image Classification](https://arxiv.org/abs/2604.14643)<br>Weiwei Zhang, Wangze Xie, Qi Zhang, Xia Du, Zihan Lin, Zheng Lin, **Hanlin Cai**, Jizhe Zhou, Zihan Fang, Chi-man Pun, Wei Ni, Jun Luo<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- [Deadline-Bound Finite-Object Delivery over Intermittent LEO Satellite Contact Plans under Residual-Service Accounting](https://arxiv.org/abs/2607.04405)<br>Houtianfu Wang, O. Tansel Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+
+  
+  
+- [Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness in Remote Sensing Image Classification](https://arxiv.org/abs/2604.14643)<br>Weiwei Zhuang, Wangze Xie, Qi Zhang, Xia Du, Zihan Lin, Zheng Lin, **Hanlin Cai**, Jizhe Zhou, Zihan Fang, Chi-man Pun, Wei Ni, Jun Luo<br>Submitted to an IEEE Transaction Journal, 2026.<br>
 
   
   
@@ -61,6 +69,10 @@ title: Publications
 ## Conference Paper
 
 - [Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling](https://arxiv.org/pdf/2603.11280)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to the IEEE 27th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). <br>Athens, Greece. September, 2026.<br>
+
+  
+
+- [Poster: Graph Learning-based Update Manipulation Attack on Federated Fine-Tuning of LLMs over Wireless Networks](https://dl.acm.org/doi/10.1145/3812835.3814863)<br>**Hanlin Cai**, Junfei Zhan, Zheng Lin, Xinyi Cai<br>Proceedings of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys).<br>Cambridge, United Kingdom. June, 2026.<br>
 
   
 

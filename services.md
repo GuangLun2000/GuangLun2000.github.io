@@ -15,6 +15,10 @@ title: Services
 
 - **Journal:**
   - IEEE Communications Letters (2025)
+  - IEEE Transactions on Mobile Computing (2026)
+  - IEEE Internet of Things Journal (2026)
+  - IEEE Transactions on Cognitive Communications and Networking (2026)
+  - IEEE Transactions on Network Science and Engineering (2026)
   - Elsevier: Sustainable Cities and Society (2025, 2026)
   - Elsevier: Computers in Human Behavior Reports (2026)
 - **Conference:**
