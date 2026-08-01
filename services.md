@@ -5,33 +5,35 @@ title: Services
 
 ---
 
-> **Open to paper review for all top-level journals and conferences!**
+> **Open to paper review for top-level journals and conferences!**
 >
-> I am always open to reviewing manuscripts in areas related to LLMs, 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - hc663[at]cam.ac.uk
+> I am always open to reviewing manuscripts in areas related to LLMs, 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - **hc663 [at] cam.ac.uk**
 
 ## Academic Services
 
 ### Reviewer
 
 - **Journal:**
-  - IEEE Communications Letters (2025)
-  - IEEE Transactions on Mobile Computing (2026)
-  - IEEE Internet of Things Journal (2026)
-  - IEEE Transactions on Cognitive Communications and Networking (2026)
-  - IEEE Transactions on Network Science and Engineering (2026)
-  - Elsevier: Sustainable Cities and Society (2025, 2026)
-  - Elsevier: Computers in Human Behavior Reports (2026)
+  - IEEE Transactions on Mobile Computing
+  - IEEE Transactions on Cognitive Communications and Networking
+  - IEEE Transactions on Network Science and Engineering
+  - IEEE Internet of Things Journal
+  - IEEE Communications Letters
+  - Elsevier: Sustainable Cities and Society
+  - Elsevier: Computers in Human Behavior Reports
 - **Conference:**
+  - Neural Information Processing Systems (NeurIPS)
   - AAAI Conference on Artificial Intelligence (AAAI)
   - IEEE Global Communications Conference (Globecom)
   - IEEE International Conference on Communications (ICC)
   - IEEE Vehicular Technology Conference (TVC)
   - IEEE International Wireless Communications & Mobile Computing Conference (IWCMC)
-  - IEEE WoWMoM, IEEE ICN, IEEE IMWS-AMP, etc.
+  - IEEE ICN, IEEE WoWMoM, IEEE IMWS-AMP, *etc.*
 
 ### Program Committee
 
-- TPC Member for IEEE Vehicular Technology Conference
+- TPC Member for IEEE VTC
+- TPC Member for IEEE IWCMC
 - TPC Member for AAAI Undergraduate Consortium
 
 ---
