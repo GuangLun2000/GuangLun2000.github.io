@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2026
 
-- [我在剑桥创办了一个很特别的AI协会（Cambridge AI for Wellbeing Society）](/blogs/ai-for-wellbeing/)<br>
+- [我在剑桥创办了一个很特别的AI协会...](/blogs/ai-for-wellbeing/)<br>
 
 ### 2025
 

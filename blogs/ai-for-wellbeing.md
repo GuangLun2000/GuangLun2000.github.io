@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/ai-for-wellbeing/index.html
-title: 我在剑桥创办了一个很特别的AI协会（Cambridge AI for Wellbeing Society）
+title: 我在剑桥创办了一个很特别的AI协会...
 ---
 
 ## 我在剑桥创办了一个很特别的AI协会（Cambridge AI for Wellbeing Society）
