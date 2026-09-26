@@ -112,20 +112,20 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
 
       <path class="scene-sparkle" d="M700 78 L702 86 L710 88 L702 90 L700 98 L698 90 L690 88 L698 86 Z" aria-hidden="true" />
 
-      <!-- ==== fig.05 · CV folder ==== -->
-      <a href="https://xuanyuzhou.org/file/Xuanyu_Zhou_CV.pdf" target="_blank" rel="noopener" class="scene-link" aria-label="Download CV (PDF)">
+      <!-- ==== fig.01 · CV folder ==== -->
+      <a href="https://xuanyuzhou.org/file/Xuanyu_Zhou_CV.pdf" target="_blank" rel="noopener" class="scene-link" aria-label="cv fig.01: download CV, PDF">
         <rect class="hit" x="172" y="170" width="150" height="125" />
         <g class="scene-obj" transform="translate(190,200)">
           <path pathLength="1" d="M4 26 Q4 20 10 20 L38 18 Q42 18 44 22 L47 26 L104 23 Q109 23 109.5 28 L112 74 Q112 79 107 79.3 L10 83 Q5 83.2 4.8 78 Z" />
           <path pathLength="1" d="M12 19 L84 16" />
           <circle pathLength="1" class="ink" cx="94" cy="66" r="5.5" />
-          <text class="svg-hand" x="40" y="60" font-size="22">CV</text>
+          <text class="svg-hand" aria-hidden="true" x="40" y="60" font-size="22">CV</text>
         </g>
-        <text class="obj-label" x="246" y="192"><tspan>cv</tspan><tspan class="obj-fig" dx="7">fig.05</tspan></text>
+        <text class="obj-label" x="246" y="192"><tspan>cv</tspan><tspan class="obj-fig" dx="7">fig.01</tspan></text>
       </a>
 
-      <!-- ==== fig.01 · laptop → projects ==== -->
-      <a href="/projects/" class="scene-link scene-link--projects" aria-label="Research projects">
+      <!-- ==== fig.02 · laptop → projects ==== -->
+      <a href="/projects/" class="scene-link scene-link--projects" aria-label="projects fig.02: research projects">
         <rect class="hit" x="305" y="98" width="300" height="228" />
         <g class="scene-obj" transform="translate(342,138)">
           <path pathLength="1" d="M10 8 Q10 2 16 2 L206 0 Q212 0 212.5 6 L215 132 L8 135 Z" />
@@ -136,11 +136,11 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <path pathLength="1" d="M92 162 L136 160.5 L138 172 L94 173.5 Z" />
           <circle pathLength="1" class="ink" cx="-12" cy="170" r="5.5" />
         </g>
-        <text class="obj-label" x="468" y="122"><tspan>projects</tspan><tspan class="obj-fig" dx="7">fig.01</tspan></text>
+        <text class="obj-label" x="468" y="122"><tspan>projects</tspan><tspan class="obj-fig" dx="7">fig.02</tspan></text>
       </a>
 
-      <!-- ==== fig.02 · paper stack → publication ==== -->
-      <a href="/publication/" class="scene-link" aria-label="Publications">
+      <!-- ==== fig.03 · paper stack → publications ==== -->
+      <a href="/publication/" class="scene-link" aria-label="publications fig.03: publications page">
         <rect class="hit" x="612" y="182" width="155" height="132" />
         <g class="scene-obj" transform="translate(630,195)">
           <path pathLength="1" d="M8 14 L92 8 L100 78 L16 84 Z" />
@@ -149,13 +149,13 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <path pathLength="1" d="M22 38 L84 33.5" />
           <path pathLength="1" d="M24 50 L86 45.5" />
           <path pathLength="1" class="ink-stroke" d="M30 74 Q42 62 52 66 Q62 70 70 60" />
-          <text class="svg-hand" x="76" y="26" font-size="17">&dagger;</text>
+          <text class="svg-hand" aria-hidden="true" x="76" y="26" font-size="17">&dagger;</text>
         </g>
-        <text class="obj-label" x="688" y="306"><tspan>publication</tspan><tspan class="obj-fig" dx="7">fig.02</tspan></text>
+        <text class="obj-label" x="688" y="306"><tspan>publications</tspan><tspan class="obj-fig" dx="7">fig.03</tspan></text>
       </a>
 
-      <!-- ==== fig.03 · medal & certificate → awards ==== -->
-      <a href="/awards/" class="scene-link" aria-label="Awards">
+      <!-- ==== fig.04 · medal & certificate → awards ==== -->
+      <a href="/awards/" class="scene-link" aria-label="awards fig.04: awards page">
         <rect class="hit" x="758" y="178" width="158" height="140" />
         <g class="scene-obj" transform="translate(775,190)">
           <path pathLength="1" d="M0 8 L96 3 L101 62 L6 68 Z" />
@@ -166,7 +166,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <circle pathLength="1" cx="88" cy="62" r="15" />
           <path pathLength="1" class="ink" d="M88 53 L90.7 58.4 L96.5 59.2 L92.3 63.3 L93.4 69 L88 66.3 L82.6 69 L83.7 63.3 L79.5 59.2 L85.3 58.4 Z" />
         </g>
-        <text class="obj-label" x="858" y="306"><tspan>awards</tspan><tspan class="obj-fig" dx="7">fig.03</tspan></text>
+        <text class="obj-label" x="858" y="306"><tspan>awards</tspan><tspan class="obj-fig" dx="7">fig.04</tspan></text>
       </a>
 
       <!-- ==== deco: teacup (was the chinese-version link; now just set dressing) ==== -->
@@ -180,8 +180,8 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
         <path pathLength="1" d="M56 33 Q61 24 55 16" />
       </g>
 
-      <!-- ==== fig.04 · blueprint roll → courseworks ==== -->
-      <a href="/courseworks/" class="scene-link" aria-label="Course works">
+      <!-- ==== fig.05 · blueprint roll → coursework ==== -->
+      <a href="/courseworks/" class="scene-link" aria-label="coursework fig.05: coursework page">
         <rect class="hit" x="325" y="305" width="170" height="130" />
         <g class="scene-obj" transform="translate(340,318)">
           <path pathLength="1" d="M0 14 L112 6 L118 64 L8 72 Z" />
@@ -192,11 +192,11 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <path pathLength="1" class="ink" d="M76 44 Q88 40 93 47 Q96 54 87 57 Q77 59 74 52 Z" />
           <path pathLength="1" d="M98 14 L98 24 M94 18 L98 14 L102 18" />
         </g>
-        <text class="obj-label" x="426" y="424"><tspan>courseworks</tspan><tspan class="obj-fig" dx="7">fig.04</tspan></text>
+        <text class="obj-label" x="426" y="424"><tspan>coursework</tspan><tspan class="obj-fig" dx="7">fig.05</tspan></text>
       </a>
 
-      <!-- ==== fig.07 · envelope → email ==== -->
-      <a href="mailto:xuanyuz@design.upenn.edu" class="scene-link" aria-label="Email Xuanyu">
+      <!-- ==== fig.06 · envelope → email ==== -->
+      <a href="mailto:xuanyuz@design.upenn.edu" class="scene-link" aria-label="write to me fig.06: email Xuanyu">
         <rect class="hit" x="558" y="286" width="145" height="148" />
         <g class="scene-obj" transform="translate(575,322)">
           <path pathLength="1" d="M0 8 L106 4 L110 62 Q110 66 106 66.2 L4 70 Q0.4 70 0.3 66 Z" />
@@ -209,11 +209,11 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
             <circle pathLength="1" class="ink" cx="53" cy="-8" r="4.5" />
           </g>
         </g>
-        <text class="obj-label" x="630" y="424"><tspan>write to me</tspan><tspan class="obj-fig" dx="7">fig.07</tspan></text>
+        <text class="obj-label" x="630" y="424"><tspan>write to me</tspan><tspan class="obj-fig" dx="7">fig.06</tspan></text>
       </a>
 
-      <!-- ==== fig.06 · portfolio tube ==== -->
-      <a href="https://personal-web-tangyuan.oss-cn-hangzhou.aliyuncs.com/Portfolio_Xuanyu_Zhou.pdf" target="_blank" rel="noopener" class="scene-link" aria-label="Digital portfolio (PDF)">
+      <!-- ==== fig.07 · portfolio tube ==== -->
+      <a href="https://personal-web-tangyuan.oss-cn-hangzhou.aliyuncs.com/Portfolio_Xuanyu_Zhou.pdf" target="_blank" rel="noopener" class="scene-link" aria-label="portfolio fig.07: digital portfolio, PDF">
         <rect class="hit" x="722" y="312" width="170" height="122" />
         <g class="scene-obj" transform="translate(735,330)">
           <path pathLength="1" d="M18 6 L142 0 Q150 0 150.5 8 L153 44 Q153.5 52 145 52.5 L24 58" />
@@ -223,11 +223,11 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <path pathLength="1" d="M62 4 L62 -4 Q62 -9 67 -9 L97 -10.5 Q102 -11 102 -6 L102 2" />
           <circle pathLength="1" class="ink" cx="122" cy="28" r="6" />
         </g>
-        <text class="obj-label" x="812" y="424"><tspan>portfolio</tspan><tspan class="obj-fig" dx="7">fig.06</tspan></text>
+        <text class="obj-label" x="812" y="424"><tspan>portfolio</tspan><tspan class="obj-fig" dx="7">fig.07</tspan></text>
       </a>
 
-      <!-- ==== fig.09 · hobbies: gamepad + shuttlecock ==== -->
-      <a href="/hobbies/" class="scene-link" aria-label="Hobbies">
+      <!-- ==== fig.08 · hobbies: gamepad + shuttlecock ==== -->
+      <a href="/hobbies/" class="scene-link" aria-label="hobbies fig.08: hobbies page">
         <rect class="hit" x="925" y="315" width="145" height="119" />
         <g class="scene-obj" transform="translate(940,330)">
           <path pathLength="1" d="M6 20 Q4 6 18 5 L74 1.5 Q88 0.5 90 13 Q94 34 85 38 Q77 42 72 34 L66 26 L36 28.5 L32 38 Q28 46 19 42 Q8 37 6 20 Z" />
@@ -258,13 +258,13 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
   <!-- compact index shown on small screens instead of the scene -->
   <div class="desk-index">
     <ul>
-      <li><a href="/projects/"><span>projects</span> <span class="index-fig">fig.01</span></a></li>
-      <li><a href="/publication/"><span>publication</span> <span class="index-fig">fig.02</span></a></li>
-      <li><a href="/awards/"><span>awards</span> <span class="index-fig">fig.03</span></a></li>
-      <li><a href="/courseworks/"><span>courseworks</span> <span class="index-fig">fig.04</span></a></li>
-      <li><a href="https://xuanyuzhou.org/file/Xuanyu_Zhou_CV.pdf" target="_blank" rel="noopener"><span>cv</span> <span class="index-fig">fig.05</span></a></li>
-      <li><a href="https://personal-web-tangyuan.oss-cn-hangzhou.aliyuncs.com/Portfolio_Xuanyu_Zhou.pdf" target="_blank" rel="noopener"><span>portfolio</span> <span class="index-fig">fig.06</span></a></li>
-      <li><a href="mailto:xuanyuz@design.upenn.edu"><span>write to me</span> <span class="index-fig">fig.07</span></a></li>
+      <li><a href="https://xuanyuzhou.org/file/Xuanyu_Zhou_CV.pdf" target="_blank" rel="noopener"><span>cv</span> <span class="index-fig">fig.01</span></a></li>
+      <li><a href="/projects/"><span>projects</span> <span class="index-fig">fig.02</span></a></li>
+      <li><a href="/publication/"><span>publications</span> <span class="index-fig">fig.03</span></a></li>
+      <li><a href="/awards/"><span>awards</span> <span class="index-fig">fig.04</span></a></li>
+      <li><a href="/courseworks/"><span>coursework</span> <span class="index-fig">fig.05</span></a></li>
+      <li><a href="mailto:xuanyuz@design.upenn.edu"><span>write to me</span> <span class="index-fig">fig.06</span></a></li>
+      <li><a href="https://personal-web-tangyuan.oss-cn-hangzhou.aliyuncs.com/Portfolio_Xuanyu_Zhou.pdf" target="_blank" rel="noopener"><span>portfolio</span> <span class="index-fig">fig.07</span></a></li>
       <li><a href="/hobbies/"><span>hobbies</span> <span class="index-fig">fig.08</span></a></li>
     </ul>
   </div>

@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /courseworks/index.html
-title: Course Works
+title: Coursework
 body_class: page-wide
 ---
 
-# Course Works
+# Coursework
 
 Studio and course projects from Zhejiang University and UC Berkeley, from GIS analysis to landscape and regulatory planning.
 

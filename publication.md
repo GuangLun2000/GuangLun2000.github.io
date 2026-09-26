@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publication/index.html
-title: Publication
+title: Publications
 body_class: page-publication
 ---
 

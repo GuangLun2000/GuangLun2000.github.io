@@ -18,9 +18,9 @@
           {% assign is_active = false %}
           {% if link.url == "/" and current_url == "/" %}
             {% assign is_active = true %}
-          {% elsif link.title == "Projects" and page.section == "projects" %}
+          {% elsif link.url == "/projects/" and page.section == "projects" %}
             {% assign is_active = true %}
-          {% elsif link.title == "Courseworks" and page.section == "courseworks" %}
+          {% elsif link.url == "/courseworks/" and page.section == "courseworks" %}
             {% assign is_active = true %}
           {% elsif link.url != "/" and current_url == link.url %}
             {% assign is_active = true %}
