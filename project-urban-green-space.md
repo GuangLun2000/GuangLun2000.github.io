@@ -13,6 +13,8 @@ This study examines Pittsburgh, a city that has shrunk severely. We used machine
 
 This work was presented at the ACSP 2024 Annual Meeting in Seattle, Washington.
 
+**My role:** First author. I led the study and carried it out from start to finish.
+
 <img src="/mypaper/urban-green-space/framework.png" alt="Urban green space research framework" class="img-full-width" loading="lazy" decoding="async">
 
 <div class="project-links">

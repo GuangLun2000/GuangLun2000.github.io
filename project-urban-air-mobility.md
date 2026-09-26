@@ -13,6 +13,8 @@ The study builds on LPSim, a large-scale parallel simulation framework that uses
 
 This work started at the 2025 MIT-UF-NEU joint summer research program, was presented at the 2026 Transportation Research Board Annual Meeting, and is under review at IEEE Transactions on Intelligent Transportation Systems.
 
+**My role:** I led the data analysis and wrote the final manuscript. I also deployed and ran the simulation in the cloud, working with AI tools, to produce the additional results reviewers asked for.
+
 **Preprint paper can be found <a href="https://arxiv.org/abs/2510.04186" target="_blank" rel="noopener">here</a>.**
 
 <img src="/mypaper/urban-air-mobility/AAM_poster_and_elevator_pitch_1_web.jpg" alt="Elevator Pitch" class="img-full-width" loading="lazy" decoding="async">
