@@ -14,7 +14,7 @@ Investigated the efficacy of Hangzhou’s Park-and-Ride system in reducing carbo
 **Tech Stack:** Random Forest, SHAP Analysis, GIS, Statistical Analysis, Field Survey
 
 <div class="project-image">
-  <picture><source type="image/webp" srcset="/assets/responsive/06_web-45089e019801-320.webp 320w, /assets/responsive/06_web-45089e019801-480.webp 480w, /assets/responsive/06_web-45089e019801-960.webp 960w, /assets/responsive/06_web-45089e019801-1600.webp 1600w" sizes="(max-width: 800px) calc(100vw - 2.5rem), 760px"><img src="/courseworks_file/course-wupen/06_web.jpg" alt="Hangzhou P+R System Analysis" loading="lazy" decoding="async" width="1800" height="1010"></picture>
+  <picture><source type="image/webp" srcset="/assets/responsive/06_web-45089e019801-320.webp 320w, /assets/responsive/06_web-45089e019801-480.webp 480w, /assets/responsive/06_web-45089e019801-640.webp 640w, /assets/responsive/06_web-45089e019801-960.webp 960w, /assets/responsive/06_web-45089e019801-1280.webp 1280w, /assets/responsive/06_web-45089e019801-1600.webp 1600w" sizes="(max-width: 800px) calc(100vw - 2.5rem), 760px"><img src="/courseworks_file/course-wupen/06_web.jpg" alt="Hangzhou P+R System Analysis" loading="lazy" decoding="async" width="1800" height="1010"></picture>
 </div>
 
 <div class="project-links">

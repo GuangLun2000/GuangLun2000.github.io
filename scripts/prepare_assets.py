@@ -2,7 +2,7 @@
 
 For each local JPEG/PNG referenced by an <img> tag it:
   * adds width/height (from the file) and decoding="async" so the layout doesn't shift;
-  * writes WebP copies at 320/480/960/1600 px (never upscaled) to assets/responsive/,
+  * writes WebP copies at 320/480/640/960/1280/1600 px (never upscaled) to assets/responsive/,
     named <stem>-<content hash>-<width>.webp, and wraps the tag in a <picture> whose
     <source> lists them; the original file stays as the <img> fallback;
   * marks the one above-the-fold image per page (hero portrait, first Projects /
@@ -24,13 +24,13 @@ from PIL import Image, ImageOps
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'assets' / 'responsive'
 CHECK = '--check' in sys.argv
-WIDTHS = (320, 480, 960, 1600)
+WIDTHS = (320, 480, 640, 960, 1280, 1600)
 changes = []
 
 # rendered width of each image slot, matched to main.css
 SIZES = {
     'portrait': '(max-width: 900px) 200px, 300px',
-    'card': '(max-width: 767px) calc(100vw - 2.5rem), 480px',
+    'card': '(max-width: 767px) calc(100vw - 4.5rem), 450px',  # gutters + the card's image padding
     'feature': '(max-width: 900px) calc(100vw - 2.5rem), 360px',
     'article': '(max-width: 800px) calc(100vw - 2.5rem), 760px',
 }
