@@ -26,8 +26,6 @@ body_class: page-publication
 
 - <span class="pub-title"><a href="https://arxiv.org/abs/2510.04186v1" target="_blank" rel="noopener">From Patchwork to Network: A Comprehensive Framework for Demand Analysis and Fleet Optimization of Urban Air Mobility</a></span><br>Xuan Jiang~, **Xuanyu Zhou**, Yibo Zhao, Shangqing Cao, Haoze He, Jinhua Zhao, Mark Hansen, Raja Sengupta<br>Transportation Research Board Annual Meeting<br>Washington, D.C., January 2026<br>
 
-- <span class="pub-title">PedSVF: Multimodal Aerial-Street Grounding for Pedestrian-Scale Sky View Factor Estimation</span><br>Yuye Zhou, **Xuanyu Zhou**, Julian Stangl, Peimin Chen, Maryam Hosseini, Lu Liang~<br>34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2026, Under Review)<br>
-
 - <span class="pub-title">Perceiving the Street from Where People Stand: Pedestrian-Centered Multi-View-Factor Mapping via Street View Imagery and Monocular 3D Reconstruction</span><br>Yuye Zhou, **Xuanyu Zhou**, Lu Liang~<br>33rd International Conference on Geoinformatics (Geoinformatics 2026)<br>National University of Singapore, Singapore, July 2026<br>
   
 - <span class="pub-title">Greening the Gap: Examining Urban Greenery Equity in Shrinking Cities</span><br>**Xuanyu Zhou**, Mingze Chen~<br>Association of Collegiate Schools of Planning Annual Meeting<br>Seattle, USA, November 2024<br>

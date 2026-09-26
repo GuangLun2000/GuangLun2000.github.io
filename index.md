@@ -287,7 +287,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
     </li>
     <li>
       <time datetime="2026-07">Jul 2026</time>
-      <p>Presented PedSVF: Multimodal Aerial&ndash;Street Grounding for Pedestrian-Scale Sky View Factor Estimation at Geoinformatics 2026, National University of Singapore. The paper is under review at ACM SIGSPATIAL 2026.</p>
+      <p>Presented PedSVF: Multimodal Aerial&ndash;Street Grounding for Pedestrian-Scale Sky View Factor Estimation at Geoinformatics 2026, National University of Singapore.</p>
     </li>
     <li>
       <time datetime="2026-06">Jun 2026</time>
