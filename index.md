@@ -34,7 +34,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
     <svg class="portrait__frame" viewBox="0 0 100 125" preserveAspectRatio="none" aria-hidden="true">
       <path d="M4 1.5 Q50 0.4 96.5 1.8 Q99 2 98.8 5 Q99.6 62 98.6 120 Q98.4 123.4 95 123.3 Q50 124.6 4.6 123.2 Q1.2 123 1.3 119.5 Q0.5 62 1.2 4.8 Q1.3 1.6 4 1.5" />
     </svg>
-    <img src="/images/xuanyu_web.jpg" alt="Portrait of Xuanyu Zhou" width="494" height="791" decoding="async" fetchpriority="high">
+    <picture><source type="image/webp" srcset="/assets/responsive/xuanyu_web-abcbd8eab217-320.webp 320w, /assets/responsive/xuanyu_web-abcbd8eab217-480.webp 480w, /assets/responsive/xuanyu_web-abcbd8eab217-494.webp 494w" sizes="(max-width: 900px) 200px, 300px"><img src="/images/xuanyu_web.jpg" alt="Portrait of Xuanyu Zhou" width="494" height="791" fetchpriority="high" decoding="async"></picture>
   </figure>
 </section>
 

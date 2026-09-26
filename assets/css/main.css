@@ -142,6 +142,12 @@ img {
   display: block;
 }
 
+/* responsive-image wrappers (scripts/prepare_assets.py) stay out of layout,
+   so the <img> keeps its grid/flex placement */
+picture {
+  display: contents;
+}
+
 a {
   color: inherit;
   text-decoration: none;

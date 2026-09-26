@@ -15,7 +15,7 @@ This work was presented at the ACSP 2024 Annual Meeting in Seattle, Washington.
 
 **My role:** First author. I led the study and carried it out from start to finish.
 
-<img src="/mypaper/urban-green-space/framework.png" alt="Urban green space research framework" class="img-full-width" loading="lazy" decoding="async">
+<picture><source type="image/webp" srcset="/assets/responsive/framework-ff19ec617844-320.webp 320w, /assets/responsive/framework-ff19ec617844-480.webp 480w, /assets/responsive/framework-ff19ec617844-568.webp 568w" sizes="(max-width: 800px) calc(100vw - 2.5rem), 760px"><img src="/mypaper/urban-green-space/framework.png" alt="Urban green space research framework" class="img-full-width" loading="lazy" decoding="async" width="568" height="240"></picture>
 
 <div class="project-links">
     <a href="/mypaper/urban-green-space/PDF_ASCP2024_Xuanyu_Zhou.pdf" class="learn-more-btn">Presentation</a>

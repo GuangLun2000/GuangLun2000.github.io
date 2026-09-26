@@ -9,7 +9,7 @@ title: "[Landscape Design] Qiushi Road"
 A streetscape redesign of Qiushi Road, focused on making the street easier and more pleasant to walk. The design works through planting, paving, and site furniture to improve accessibility and the everyday experience along the road. The report collects the site analysis, master plan, and renderings.
 
 <div class="project-image">
-  <img src="/courseworks_file/landscape-design/landscape_cover_2_web.jpg" alt="Landscape Design of Qiushi Road" loading="lazy" decoding="async">
+  <picture><source type="image/webp" srcset="/assets/responsive/landscape_cover_2_web-29682b7b309c-320.webp 320w, /assets/responsive/landscape_cover_2_web-29682b7b309c-480.webp 480w, /assets/responsive/landscape_cover_2_web-29682b7b309c-960.webp 960w, /assets/responsive/landscape_cover_2_web-29682b7b309c-1600.webp 1600w" sizes="(max-width: 800px) calc(100vw - 2.5rem), 760px"><img src="/courseworks_file/landscape-design/landscape_cover_2_web.jpg" alt="Landscape Design of Qiushi Road" loading="lazy" decoding="async" width="1800" height="1012"></picture>
 </div>
 
 <div class="project-links">

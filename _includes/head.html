@@ -20,7 +20,9 @@
 
 <link rel="preload" href="/assets/fonts/source-serif-4-display-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/instrument-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/main.css?v={{ site.time | date: '%s' }}">
+{% if page.layout == 'home' %}<!-- portrait-preload: written by scripts/prepare_assets.py -->
+<link rel="preload" as="image" type="image/webp" imagesrcset="/assets/responsive/xuanyu_web-abcbd8eab217-320.webp 320w, /assets/responsive/xuanyu_web-abcbd8eab217-480.webp 480w, /assets/responsive/xuanyu_web-abcbd8eab217-494.webp 494w" imagesizes="(max-width: 900px) 200px, 300px" fetchpriority="high">
+{% endif %}<link rel="stylesheet" href="/assets/css/main.css?v={{ site.time | date: '%s' }}">
 
 <link rel="icon" href="/images/fav.ico" sizes="any">
 <link rel="icon" href="/images/fav.png" type="image/png">
