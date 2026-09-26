@@ -114,9 +114,37 @@
     [projectsLink, popup].forEach(function (el) {
       el.addEventListener("mouseenter", show);
       el.addEventListener("mouseleave", hide);
+      el.addEventListener("focusin", show);
+      el.addEventListener("focusout", hide);
     });
-    projectsLink.addEventListener("focus", show);
-    projectsLink.addEventListener("blur", hide);
+
+    // The popup sits outside the SVG in the DOM, so route Tab through it by
+    // hand: laptop -> popup links -> the next object on the desk (and back).
+    var popupLinks = popup.querySelectorAll("a");
+    var sceneLinks = Array.prototype.slice.call(document.querySelectorAll(".scene-link"));
+    var afterProjects = sceneLinks[sceneLinks.indexOf(projectsLink) + 1];
+    var first = popupLinks[0];
+    var last = popupLinks[popupLinks.length - 1];
+
+    projectsLink.addEventListener("keydown", function (event) {
+      if (event.key === "Tab" && !event.shiftKey && first) {
+        event.preventDefault();
+        show();
+        first.focus();
+      }
+    });
+    popup.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") {
+        projectsLink.focus();
+        wrap.classList.remove("show-popup");
+      } else if (event.key === "Tab" && event.shiftKey && event.target === first) {
+        event.preventDefault();
+        projectsLink.focus();
+      } else if (event.key === "Tab" && !event.shiftKey && event.target === last && afterProjects) {
+        event.preventDefault();
+        afterProjects.focus();
+      }
+    });
   }
 
   /* ---- hand-drawn burst on click ------------------------------------ */
