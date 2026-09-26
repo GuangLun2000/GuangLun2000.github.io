@@ -32,7 +32,7 @@ body_class: page-publication
 
 ## Degree Thesis
 
-**Title: Study on Urban Pluvial Flood Risk and Planning Response in Hangzhou under Shared Socioeconomic Pathways**
+**Title: Study on Urban Pluvial Flood Risk and Planning Response in Hangzhou under Shared Socioeconomic Pathways**<br>
 Supervisor: <a href="https://person.zju.edu.cn/en/yonghuali" target="_blank" rel="noopener">Prof. Yonghua Li</a>
 
 Using Hangzhou as a case study, this thesis asks how urban pluvial flood risk evolves under four Shared Socioeconomic Pathway (SSP) climate scenarios, and whether current planning measures can still mitigate flooding under future climates. Bias-corrected CMIP6 precipitation (BCC-CSM2-MR, corrected with Empirical Quantile Mapping) was converted into design storms through IDF curve fitting and the Chicago method, then used to drive a two-dimensional HEC-RAS hydraulic model across nine combined climate-planning scenarios. Mean annual maximum daily precipitation rises 33%-49% relative to the baseline in all four scenarios. Planning measures cut the total inundated area by about half and clearly compress deep-water zones, but they do little for shallow inundation and shift risk into some localized areas. Exposure also differs by land use: parks take the deepest water while serving as stormwater retention, residential land mostly sees widespread shallow flooding, and transportation hubs show node-level vulnerability.

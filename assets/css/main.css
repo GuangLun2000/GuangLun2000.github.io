@@ -586,6 +586,19 @@ select {
   gap: 0.55rem;
 }
 
+/* line icons drawn with the same pen as the desk */
+.focus-list__icon {
+  width: 46px;
+  height: 46px;
+  margin: 0 0 0.35rem -3px;
+  overflow: visible;
+  fill: none;
+  stroke: var(--color-stroke);
+  stroke-width: 1.9;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 .focus-list__num {
   color: var(--color-accent);
   font-family: var(--font-mono);
@@ -622,7 +635,7 @@ select {
    ========================================================================== */
 
 .desk-board {
-  padding: clamp(0.75rem, 2.5vw, 2rem) clamp(0.5rem, 2vw, 1.5rem) clamp(0.5rem, 1.5vw, 1rem);
+  padding: clamp(0.75rem, 2.5vw, 1.75rem) clamp(0.5rem, 2vw, 1.5rem) 0;
   border: 1px solid var(--color-line);
   border-radius: calc(var(--radius) + 6px);
   background-color: var(--color-surface);
@@ -683,15 +696,23 @@ select {
   cursor: pointer;
 }
 
-.scene-link:focus-visible {
-  outline: 2px solid var(--color-accent);
-  outline-offset: 4px;
+/* keyboard focus: outline the object's hit area in cobalt, dashed like a
+   selection box on a drawing (browser outlines on SVG links are unreliable) */
+.scene-link:focus {
+  outline: none;
+}
+
+.scene-link:focus-visible .hit {
+  stroke: var(--color-accent);
+  stroke-width: 2;
+  stroke-dasharray: 7 5;
+  rx: 10px;
 }
 
 /* generous invisible hit area per object (strokes alone are hard to click) */
 .scene-link .hit {
   fill: transparent;
-  stroke: none;
+  stroke: transparent;
   pointer-events: all;
 }
 
@@ -767,13 +788,13 @@ select {
 }
 
 /* typewriter terminal over the laptop screen
-   (percentages are relative to the SVG viewBox 60 60 1080 540) */
+   (percentages are relative to the SVG viewBox 60 74 1080 412) */
 .laptop-screen {
   position: absolute;
   left: 28.45%;
-  top: 17.3%;
+  top: 19.5%;
   width: 16.2%;
-  height: 19.9%;
+  height: 26.1%;
   display: flex;
   align-items: flex-start;
   padding: 0.8% 0.7%;
@@ -808,7 +829,7 @@ select {
 .desk-popup {
   position: absolute;
   left: 49%;
-  top: -2%;
+  top: -6%;
   z-index: 6;
   width: 210px;
   padding: 0.8rem 1rem 0.85rem;
@@ -845,7 +866,8 @@ select {
   transition: color 0.15s ease;
 }
 
-.desk-popup a:hover {
+.desk-popup a:hover,
+.desk-popup a:focus-visible {
   color: var(--color-accent);
 }
 
@@ -1498,10 +1520,15 @@ select {
   text-transform: uppercase;
 }
 
+/* card titles are h2 (page h1 -> card h2), styled like the old h3 */
+.article-wrap .work-card__title,
 .article-wrap .work-card h3 {
   margin: 0;
+  padding: 0;
+  border: 0;
   font-size: 1.35rem;
   line-height: 1.2;
+  letter-spacing: 0;
 }
 
 .article-wrap .work-card p {
@@ -1571,6 +1598,11 @@ select {
   margin-top: 0;
 }
 
+/* the next section's h2 rule closes the list; avoid a double line */
+.page-publication .article-wrap li:last-child {
+  border-bottom: 0;
+}
+
 .page-publication .article-wrap li p {
   margin: 0;
 }
@@ -1609,7 +1641,7 @@ select {
 
 .site-footer__title {
   margin: 0.6rem 0 0;
-  max-width: 30ch;
+  max-width: 34ch;
   color: var(--color-ink);
   font-family: var(--font-serif);
   font-size: clamp(1.5rem, 2.8vw, 2.05rem);
@@ -1807,6 +1839,18 @@ select {
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
+  }
+
+  /* no hover lifts or nudges either */
+  .work-card:hover,
+  .desk-popup,
+  .desk-scene-wrap.show-popup .desk-popup,
+  .work-card:hover .work-card__link::after {
+    transform: none;
+  }
+
+  .laptop-screen__cursor {
+    animation: none;
   }
 
   *,

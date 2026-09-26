@@ -46,21 +46,25 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
 
   <ul class="focus-list">
     <li>
+      <svg class="focus-list__icon" viewBox="0 0 48 48" aria-hidden="true"><circle cx="8" cy="38" r="3"/><circle cx="40" cy="34" r="3"/><path d="M10 35 Q22 8 38 31" stroke-dasharray="2.5 3.5"/><path d="M21 17 L29 14 L27 18 L31 21 L27 21 L24 24 L24 20 L20 19 Z"/><path d="M4 42 H44"/></svg>
       <span class="focus-list__num">01</span>
       <h3><a href="/urban-air-mobility/">Mobility systems</a></h3>
       <p>Simulation-first frameworks for urban air mobility and shared mobility, tested against real metropolitan demand.</p>
     </li>
     <li>
+      <svg class="focus-list__icon" viewBox="0 0 48 48" aria-hidden="true"><path d="M6 42 V14 H15 V42"/><path d="M33 42 V19 H42 V42"/><path d="M9 20 H12 M9 26 H12 M9 32 H12 M36 25 H39 M36 31 H39"/><path d="M15 34 Q24 18 33 34" stroke-dasharray="2.5 3"/><circle cx="24" cy="10" r="3.2"/><path d="M4 42 H44"/></svg>
       <span class="focus-list__num">02</span>
       <h3><a href="/sky-view-factor/">Street microclimate</a></h3>
       <p>Pedestrian-scale sky view factor, estimated from LiDAR and street-level imagery and mapped along San Francisco&rsquo;s sidewalks.</p>
     </li>
     <li>
+      <svg class="focus-list__icon" viewBox="0 0 48 48" aria-hidden="true"><path d="M18 40 V28"/><path d="M18 29 C9 29 8 17 14 15 C15 9 23 9 24 15 C30 17 28 29 18 29 Z"/><path d="M28 36 H42 M30 36 V40 M40 36 V40 M28 32 H42"/><path d="M4 40 H44"/></svg>
       <span class="focus-list__num">03</span>
       <h3><a href="/urban-green-space/">Green space &amp; equity</a></h3>
       <p>Who has green space and who actually uses it, tracked with satellite imagery and visitation data in shrinking cities.</p>
     </li>
     <li>
+      <svg class="focus-list__icon" viewBox="0 0 48 48" aria-hidden="true"><path d="M8 40 V18 L17 11 L26 18 V40"/><path d="M13 24 H15 M19 24 H21 M13 31 H15 M19 31 H21"/><path d="M24 29 H29 L32 22 L36 36 L39 29 H44"/><path d="M4 40 H44"/></svg>
       <span class="focus-list__num">04</span>
       <h3><a href="/urban-built-environment/">Resilience &amp; health</a></h3>
       <p>Geospatial machine learning that links urban form to post-pandemic recovery, everyday vitality, and public health.</p>
@@ -80,7 +84,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
 <div class="desk" role="navigation" aria-label="Site sections drawn as objects on a desk">
   <div class="desk-board">
   <div class="desk-scene-wrap">
-    <svg class="desk-scene" viewBox="60 60 1080 540" role="presentation">
+    <svg class="desk-scene" viewBox="60 74 1080 412" role="presentation">
 
       <!-- ==== the desk itself (back edge gaps where laptop & plant sit) ==== -->
       <g class="scene-desk">
@@ -91,9 +95,8 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
         <path pathLength="1" d="M1105 394 Q600 401 95 400" />
         <path pathLength="1" d="M95 400 L210 168" />
         <path pathLength="1" d="M95 400 L95 436 Q600 442 1105 436 L1105 394" />
-        <path pathLength="1" d="M115 438 L117 588 M138 438 L139 588" />
-        <path pathLength="1" d="M1062 437 L1063 588 M1085 437 L1086 588" />
-        <path pathLength="1" d="M139 536 L1062 532 M139 547 L1062 543" />
+        <path pathLength="1" d="M115 438 L116 486 M138 438 L138.5 486" />
+        <path pathLength="1" d="M1062 437 L1062.5 486 M1085 437 L1085.5 486" />
       </g>
 
       <!-- ==== deco: plant (back-right, clear of the corner), bird, ring, sparkle ==== -->
@@ -254,7 +257,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
     <span class="laptop-screen" aria-hidden="true"><span class="laptop-screen__prompt">$</span><span class="laptop-screen__text"></span><span class="laptop-screen__cursor"></span></span>
 
     <!-- hover popup: selected projects -->
-    <div class="desk-popup" role="note">
+    <div class="desk-popup" role="group" aria-label="Selected work">
       <p>selected work &rarr;</p>
       <a href="/urban-air-mobility/">urban air mobility</a>
       <a href="/sky-view-factor/">sky view factor</a>
