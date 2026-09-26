@@ -1,24 +1,47 @@
 <meta charset="utf-8">
-<title>{% if page.title and page.title != site.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+{% capture page_title %}{% if page.title and page.title != site.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}{% endcapture %}
+{% assign page_description = page.description | default: site.description | strip_newlines | strip %}
+{% comment %} one URL for canonical and og:url: absolute, no trailing index.html {% endcomment %}
+{% assign canonical = page.url | remove: 'index.html' | prepend: site.url %}
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ page_description }}">
 {% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
+<link rel="canonical" href="{{ canonical }}">
 <!-- Open Graph meta -->
 <meta property="og:locale" content="en_US">
-<meta property="og:type" content="website">
-<meta property="og:title" content="{% if page.title and page.title != site.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:type" content="{% if page.layout == 'home' %}profile{% else %}website{% endif %}">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:description" content="{{ page_description }}">
+<meta property="og:url" content="{{ canonical }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/xuanyu_web.jpg{% endif %}">
-
-{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
-<link rel="canonical" href="{{ canonical }}">
+<meta name="twitter:card" content="summary">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link rel="preload" href="/assets/fonts/source-serif-4-display-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/instrument-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/css/main.css?v={{ site.time | date: '%s' }}">
 
-<link rel="icon" href="{{ site.url }}/images/fav.ico" sizes="any">
-<link rel="icon" href="{{ site.url }}/images/fav.png" type="image/png">
-<link rel="apple-touch-icon" href="{{ site.url }}/images/fav.png">
+<link rel="icon" href="/images/fav.ico" sizes="any">
+<link rel="icon" href="/images/fav.png" type="image/png">
+<link rel="apple-touch-icon" href="/images/fav.png">
+{% if page.layout == 'home' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ site.owner.name | jsonify }},
+  "url": {{ site.url | append: '/' | jsonify }},
+  "image": {{ site.url | append: '/images/xuanyu_web.jpg' | jsonify }},
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": {{ site.owner.affiliation | jsonify }}
+  },
+  "sameAs": [
+    {{ site.owner.scholar | jsonify }},
+    {{ site.owner.ORCID | jsonify }},
+    {{ 'https://github.com/' | append: site.owner.github | jsonify }}
+  ]
+}
+</script>
+{% endif %}
