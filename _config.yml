@@ -14,6 +14,7 @@ url: https://xuanyuzhou.org
 # --------------------------------------------------
 owner:
   name: Xuanyu Zhou
+  affiliation: University of Pennsylvania
   avatar: fav.png
   cv: https://xuanyuzhou.org/file/Xuanyu_Zhou_CV.pdf
   github: DOGZzl1xy
@@ -68,6 +69,10 @@ exclude:                         # Folders/files ignored during build
   - "tmp"
   - "vendor"
   - "portfolio/SVF/DATA_2022_2024_final.csv"
+  - "README.md"
+  - "LICENSE"
+  - "scripts"
+  - "tests"
 
 
 # --------------------------------------------------

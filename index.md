@@ -207,7 +207,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
       </a>
 
       <!-- ==== fig.06 · envelope → email ==== -->
-      <a href="mailto:xuanyuz@design.upenn.edu" class="scene-link" aria-label="write to me fig.06: email Xuanyu">
+      <!--email_off--><a href="mailto:xuanyuz@design.upenn.edu" class="scene-link" aria-label="write to me fig.06: email Xuanyu">
         <rect class="hit" x="558" y="286" width="145" height="148" />
         <g class="scene-obj" transform="translate(575,322)">
           <path pathLength="1" d="M0 8 L106 4 L110 62 Q110 66 106 66.2 L4 70 Q0.4 70 0.3 66 Z" />
@@ -221,7 +221,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           </g>
         </g>
         <text class="obj-label" x="630" y="424"><tspan>write to me</tspan> <tspan class="obj-fig">fig.06</tspan></text>
-      </a>
+      </a><!--/email_off-->
 
       <!-- ==== fig.07 · portfolio tube ==== -->
       <a href="https://personal-web-tangyuan.oss-cn-hangzhou.aliyuncs.com/Portfolio_Xuanyu_Zhou.pdf" target="_blank" rel="noopener" class="scene-link" aria-label="portfolio fig.07: digital portfolio, PDF">
@@ -286,7 +286,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
       <li><a href="/publication/"><span>publications</span> <span class="index-fig">fig.03</span></a></li>
       <li><a href="/awards/"><span>awards</span> <span class="index-fig">fig.04</span></a></li>
       <li><a href="/courseworks/"><span>coursework</span> <span class="index-fig">fig.05</span></a></li>
-      <li><a href="mailto:xuanyuz@design.upenn.edu"><span>write to me</span> <span class="index-fig">fig.06</span></a></li>
+      <!--email_off--><li><a href="mailto:xuanyuz@design.upenn.edu"><span>write to me</span> <span class="index-fig">fig.06</span></a></li><!--/email_off-->
       <li><a href="https://personal-web-tangyuan.oss-cn-hangzhou.aliyuncs.com/Portfolio_Xuanyu_Zhou.pdf" target="_blank" rel="noopener"><span>portfolio</span> <span class="index-fig">fig.07</span></a></li>
       <li><a href="/hobbies/"><span>hobbies</span> <span class="index-fig">fig.08</span></a></li>
     </ul>
