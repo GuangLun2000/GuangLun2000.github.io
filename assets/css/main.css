@@ -1,7 +1,7 @@
 /* ==========================================================================
-   Xuanyu Zhou — architect's sketchbook
-   Crisp paper · editorial serif headings · one pen-drawn illustration.
-   Line drawings are fountain-pen blue; vermilion is a markup accent only.
+   Xuanyu Zhou — drafting paper
+   White sheet · navy ink for text and line drawings · one cobalt accent.
+   Every colour lives in the tokens below; dark mode only swaps tokens.
    ========================================================================== */
 
 @font-face {
@@ -45,20 +45,26 @@
 }
 
 :root {
-  --color-bg: #faf9f6;
-  --color-bg-soft: #f2f0ea;
+  color-scheme: light;
+  --color-bg: #ffffff;
+  --color-bg-soft: #f6f8fb;        /* image wells, code, quotes — no soft text on it */
   --color-surface: #ffffff;
-  --color-ink: #15171c;
-  --color-text: #23262d;
-  --color-text-muted: #5b606b;
-  --color-text-soft: #8d919a;
-  --color-line: #e4e1d9;
-  --color-line-strong: #cdc9bf;
-  /* pen-drawn illustration: fountain-pen blue, with a lighter pencil tone */
-  --color-stroke: #2f4a72;
-  --color-pencil: #a9b7ca;
-  --color-accent: #e0572b;
-  --color-accent-soft: rgba(224, 87, 43, 0.1);
+  --color-ink: #1b2a4a;            /* navy: headings, primary text, line drawings */
+  --color-text: #1b2a4a;
+  --color-text-muted: #4a5670;     /* body copy, secondary text   7.35:1 */
+  --color-text-soft: #6a7690;      /* labels, dates, fig. numbers  4.56:1 */
+  --color-line: #edf0f5;           /* rules and the drafting grid */
+  --color-line-strong: #d5dbe5;
+  --color-grid: #edf0f5;
+  /* pen-drawn illustration: navy ink, with a lighter pencil tone for props */
+  --color-stroke: #1b2a4a;
+  --color-pencil: #aeb8c8;
+  --color-accent: #2f5bea;         /* cobalt, the only accent      5.52:1 */
+  --color-accent-soft: rgba(47, 91, 234, 0.1);
+  --color-on-accent: #ffffff;
+  --color-selection: rgba(47, 91, 234, 0.16);
+  --color-header-bg: rgba(255, 255, 255, 0.86);
+  --color-shadow: rgba(27, 42, 74, 0.28);
 
   --radius: 14px;
   --radius-sm: 8px;
@@ -71,6 +77,31 @@
   --font-sans: "Space Grotesk", "Avenir Next", "Helvetica Neue",
     "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
   --font-mono: "Space Mono", ui-monospace, monospace;
+}
+
+/* dark mode: same roles, night-drafting palette; line drawings turn light */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --color-bg: #10151c;
+    --color-bg-soft: #171e27;
+    --color-surface: #151b23;
+    --color-ink: #e4e8ec;
+    --color-text: #e4e8ec;
+    --color-text-muted: #a3adb8;
+    --color-text-soft: #8b96a3;
+    --color-line: #222a35;
+    --color-line-strong: #33404f;
+    --color-grid: #1a212b;
+    --color-stroke: #c7d2de;
+    --color-pencil: #5b6878;
+    --color-accent: #8fd694;
+    --color-accent-soft: rgba(143, 214, 148, 0.12);
+    --color-on-accent: #10151c;
+    --color-selection: rgba(143, 214, 148, 0.22);
+    --color-header-bg: rgba(16, 21, 28, 0.86);
+    --color-shadow: rgba(0, 0, 0, 0.5);
+  }
 }
 
 *,
@@ -114,12 +145,12 @@ select {
 }
 
 :focus-visible {
-  outline: 2px solid var(--color-stroke);
+  outline: 2px solid var(--color-accent);
   outline-offset: 3px;
 }
 
 ::selection {
-  background: rgba(47, 74, 114, 0.16);
+  background: var(--color-selection);
 }
 
 .visually-hidden {
@@ -155,7 +186,7 @@ select {
   position: sticky;
   top: 0;
   z-index: 40;
-  background: rgba(250, 249, 246, 0.85);
+  background: var(--color-header-bg);
   -webkit-backdrop-filter: saturate(1.4) blur(12px);
   backdrop-filter: saturate(1.4) blur(12px);
   border-bottom: 1px solid var(--color-line);
@@ -227,7 +258,7 @@ select {
 }
 
 .site-nav-toggle:focus-visible + .site-nav-button {
-  outline: 2px solid var(--color-stroke);
+  outline: 2px solid var(--color-accent);
   outline-offset: 3px;
 }
 
@@ -351,8 +382,8 @@ select {
 }
 
 .button--ink:hover {
-  background: var(--color-stroke);
-  border-color: var(--color-stroke);
+  background: var(--color-accent);
+  border-color: var(--color-accent);
 }
 
 .button--ghost {
@@ -387,8 +418,8 @@ select {
 }
 
 .arrow-link:hover {
-  color: var(--color-stroke);
-  border-color: var(--color-stroke);
+  color: var(--color-accent);
+  border-color: var(--color-accent);
 }
 
 /* ==========================================================================
@@ -430,9 +461,20 @@ select {
 
 /* a single pen-scribbled underline, the only hand-drawn mark outside the desk */
 .scribble {
+  position: relative;
   padding-bottom: 0.06em;
-  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 14' preserveAspectRatio='none'%3E%3Cpath d='M3 9 Q50 3 100 7 T197 5' fill='none' stroke='%23e0572b' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E")
-    left bottom / 100% 0.22em no-repeat;
+}
+
+.scribble::after {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.04em;
+  height: 0.22em;
+  background: var(--color-accent);
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 14' preserveAspectRatio='none'%3E%3Cpath d='M3 9 Q50 3 100 7 T197 5' fill='none' stroke='black' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 14' preserveAspectRatio='none'%3E%3Cpath d='M3 9 Q50 3 100 7 T197 5' fill='none' stroke='black' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
+  content: "";
 }
 
 .hero__lede {
@@ -560,7 +602,7 @@ select {
 }
 
 .focus-list h3 a:hover {
-  color: var(--color-stroke);
+  color: var(--color-accent);
 }
 
 /* ==========================================================================
@@ -572,9 +614,11 @@ select {
   border: 1px solid var(--color-line);
   border-radius: calc(var(--radius) + 6px);
   background-color: var(--color-surface);
-  background-image: radial-gradient(rgba(47, 74, 114, 0.13) 1px, transparent 1.2px);
-  background-size: 22px 22px;
-  background-position: 11px 11px;
+  background-image:
+    linear-gradient(var(--color-grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--color-grid) 1px, transparent 1px);
+  background-size: 24px 24px;
+  background-position: -1px -1px;
 }
 
 .desk-scene-wrap {
@@ -628,7 +672,7 @@ select {
 }
 
 .scene-link:focus-visible {
-  outline: 2px solid var(--color-stroke);
+  outline: 2px solid var(--color-accent);
   outline-offset: 4px;
 }
 
@@ -759,7 +803,7 @@ select {
   background: var(--color-surface);
   border: 1px solid var(--color-line-strong);
   border-radius: var(--radius-sm);
-  box-shadow: 0 10px 30px -12px rgba(21, 23, 28, 0.25);
+  box-shadow: 0 10px 30px -12px var(--color-shadow);
   transform: translateY(6px);
   opacity: 0;
   visibility: hidden;
@@ -1092,7 +1136,7 @@ select {
 }
 
 .news-list a:hover {
-  color: var(--color-stroke);
+  color: var(--color-accent);
   text-decoration-color: currentColor;
 }
 
@@ -1288,8 +1332,8 @@ select {
 }
 
 .article-wrap a:not([class]):hover {
-  color: var(--color-stroke);
-  text-decoration-color: var(--color-stroke);
+  color: var(--color-accent);
+  text-decoration-color: var(--color-accent);
 }
 
 .article-wrap img {
@@ -1408,7 +1452,7 @@ select {
 .work-card:hover {
   border-color: var(--color-line-strong);
   transform: translateY(-3px);
-  box-shadow: 0 18px 40px -24px rgba(21, 23, 28, 0.35);
+  box-shadow: 0 18px 40px -24px var(--color-shadow);
 }
 
 .article-wrap .work-card__media {
@@ -1479,7 +1523,7 @@ select {
 }
 
 .work-card:hover .work-card__link {
-  color: var(--color-stroke);
+  color: var(--color-accent);
 }
 
 .work-card:hover .work-card__link::after {
@@ -1646,7 +1690,7 @@ select {
     border: 1px solid var(--color-line);
     border-radius: var(--radius);
     background: var(--color-surface);
-    box-shadow: 0 18px 40px -20px rgba(21, 23, 28, 0.3);
+    box-shadow: 0 18px 40px -20px var(--color-shadow);
   }
 
   .site-nav__list {
