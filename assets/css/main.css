@@ -255,6 +255,14 @@ select {
   border: 0;
 }
 
+/* the menu checkbox only exists where the menu button does (phones);
+   on desktop it would be an invisible tab stop */
+@media (min-width: 768px) {
+  .site-nav-toggle {
+    display: none;
+  }
+}
+
 .site-nav-button {
   display: none;
   align-items: center;

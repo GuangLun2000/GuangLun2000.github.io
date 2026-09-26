@@ -124,15 +124,15 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
       <path class="scene-sparkle" d="M700 78 L702 86 L710 88 L702 90 L700 98 L698 90 L690 88 L698 86 Z" aria-hidden="true" />
 
       <!-- ==== fig.01 · CV folder ==== -->
-      <a href="https://xuanyuzhou.org/file/Xuanyu_Zhou_CV.pdf" target="_blank" rel="noopener" class="scene-link" aria-label="cv fig.01: download CV, PDF">
+      <a href="https://xuanyuzhou.org/file/Xuanyu_Zhou_CV.pdf" target="_blank" rel="noopener" class="scene-link" aria-label="cv fig.01 CV, PDF download">
         <rect class="hit" x="172" y="170" width="150" height="125" />
+        <text class="obj-label" x="246" y="192"><tspan>cv</tspan> <tspan class="obj-fig">fig.01</tspan></text>
         <g class="scene-obj" transform="translate(190,200)">
           <path pathLength="1" d="M4 26 Q4 20 10 20 L38 18 Q42 18 44 22 L47 26 L104 23 Q109 23 109.5 28 L112 74 Q112 79 107 79.3 L10 83 Q5 83.2 4.8 78 Z" />
           <path pathLength="1" d="M12 19 L84 16" />
           <circle pathLength="1" class="ink" cx="94" cy="66" r="5.5" />
           <text class="svg-hand" aria-hidden="true" x="40" y="60" font-size="22">CV</text>
         </g>
-        <text class="obj-label" x="246" y="192"><tspan>cv</tspan><tspan class="obj-fig" dx="7">fig.01</tspan></text>
       </a>
 
       <!-- ==== fig.02 · laptop → projects ==== -->
@@ -147,7 +147,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <path pathLength="1" d="M92 162 L136 160.5 L138 172 L94 173.5 Z" />
           <circle pathLength="1" class="ink" cx="-12" cy="170" r="5.5" />
         </g>
-        <text class="obj-label" x="468" y="122"><tspan>projects</tspan><tspan class="obj-fig" dx="7">fig.02</tspan></text>
+        <text class="obj-label" x="468" y="122"><tspan>projects</tspan> <tspan class="obj-fig">fig.02</tspan></text>
       </a>
 
       <!-- ==== fig.03 · paper stack → publications ==== -->
@@ -162,7 +162,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <path pathLength="1" class="ink-stroke" d="M30 74 Q42 62 52 66 Q62 70 70 60" />
           <text class="svg-hand" aria-hidden="true" x="76" y="26" font-size="17">&dagger;</text>
         </g>
-        <text class="obj-label" x="688" y="306"><tspan>publications</tspan><tspan class="obj-fig" dx="7">fig.03</tspan></text>
+        <text class="obj-label" x="688" y="306"><tspan>publications</tspan> <tspan class="obj-fig">fig.03</tspan></text>
       </a>
 
       <!-- ==== fig.04 · medal & certificate → awards ==== -->
@@ -177,7 +177,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <circle pathLength="1" cx="88" cy="62" r="15" />
           <path pathLength="1" class="ink" d="M88 53 L90.7 58.4 L96.5 59.2 L92.3 63.3 L93.4 69 L88 66.3 L82.6 69 L83.7 63.3 L79.5 59.2 L85.3 58.4 Z" />
         </g>
-        <text class="obj-label" x="858" y="306"><tspan>awards</tspan><tspan class="obj-fig" dx="7">fig.04</tspan></text>
+        <text class="obj-label" x="858" y="306"><tspan>awards</tspan> <tspan class="obj-fig">fig.04</tspan></text>
       </a>
 
       <!-- ==== deco: teacup (was the chinese-version link; now just set dressing) ==== -->
@@ -203,7 +203,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <path pathLength="1" class="ink" d="M76 44 Q88 40 93 47 Q96 54 87 57 Q77 59 74 52 Z" />
           <path pathLength="1" d="M98 14 L98 24 M94 18 L98 14 L102 18" />
         </g>
-        <text class="obj-label" x="426" y="424"><tspan>coursework</tspan><tspan class="obj-fig" dx="7">fig.05</tspan></text>
+        <text class="obj-label" x="426" y="424"><tspan>coursework</tspan> <tspan class="obj-fig">fig.05</tspan></text>
       </a>
 
       <!-- ==== fig.06 · envelope → email ==== -->
@@ -220,7 +220,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
             <circle pathLength="1" class="ink" cx="53" cy="-8" r="4.5" />
           </g>
         </g>
-        <text class="obj-label" x="630" y="424"><tspan>write to me</tspan><tspan class="obj-fig" dx="7">fig.06</tspan></text>
+        <text class="obj-label" x="630" y="424"><tspan>write to me</tspan> <tspan class="obj-fig">fig.06</tspan></text>
       </a>
 
       <!-- ==== fig.07 · portfolio tube ==== -->
@@ -234,7 +234,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <path pathLength="1" d="M62 4 L62 -4 Q62 -9 67 -9 L97 -10.5 Q102 -11 102 -6 L102 2" />
           <circle pathLength="1" class="ink" cx="122" cy="28" r="6" />
         </g>
-        <text class="obj-label" x="812" y="424"><tspan>portfolio</tspan><tspan class="obj-fig" dx="7">fig.07</tspan></text>
+        <text class="obj-label" x="812" y="424"><tspan>portfolio</tspan> <tspan class="obj-fig">fig.07</tspan></text>
       </a>
 
       <!-- ==== fig.08 · hobbies: gamepad + shuttlecock ==== -->
@@ -248,7 +248,7 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
           <circle pathLength="1" cx="112" cy="42" r="4.5" />
           <path pathLength="1" d="M109 39 L101 26 M112 38 L109 24 M115 39 L117 25" />
         </g>
-        <text class="obj-label" x="998" y="424"><tspan>hobbies</tspan><tspan class="obj-fig" dx="7">fig.08</tspan></text>
+        <text class="obj-label" x="998" y="424"><tspan>hobbies</tspan> <tspan class="obj-fig">fig.08</tspan></text>
       </a>
 
     </svg>
