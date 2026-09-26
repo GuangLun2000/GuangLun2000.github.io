@@ -47,17 +47,22 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
   <ul class="focus-list">
     <li>
       <span class="focus-list__num">01</span>
-      <h3>Built environment &amp; equity</h3>
-      <p>Green space, heat exposure, and street-level conditions across communities, read from satellite imagery, LiDAR, and street view.</p>
-    </li>
-    <li>
-      <span class="focus-list__num">02</span>
-      <h3>Mobility systems</h3>
+      <h3><a href="/urban-air-mobility/">Mobility systems</a></h3>
       <p>Simulation-first frameworks for urban air mobility and shared mobility, tested against real metropolitan demand.</p>
     </li>
     <li>
+      <span class="focus-list__num">02</span>
+      <h3><a href="/sky-view-factor/">Street microclimate</a></h3>
+      <p>Pedestrian-scale sky view factor, estimated from LiDAR and street-level imagery and mapped along San Francisco&rsquo;s sidewalks.</p>
+    </li>
+    <li>
       <span class="focus-list__num">03</span>
-      <h3>Resilience &amp; health</h3>
+      <h3><a href="/urban-green-space/">Green space &amp; equity</a></h3>
+      <p>Who has green space and who actually uses it, tracked with satellite imagery and visitation data in shrinking cities.</p>
+    </li>
+    <li>
+      <span class="focus-list__num">04</span>
+      <h3><a href="/urban-built-environment/">Resilience &amp; health</a></h3>
       <p>Geospatial machine learning that links urban form to post-pandemic recovery, everyday vitality, and public health.</p>
     </li>
   </ul>
@@ -66,7 +71,10 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
 <section class="home-section" aria-labelledby="desk-title">
   <div class="home-section__head">
     <h2 class="home-section__title" id="desk-title">On my desk</h2>
-    <p class="home-section__hint home-section__hint--desk">Everything here is a link &mdash; hover the laptop for selected projects.</p>
+    <p class="home-section__hint home-section__hint--desk">
+      <span class="hint-hover">Everything here is a link &mdash; hover the laptop for selected work.</span>
+      <span class="hint-touch">Everything here is a link &mdash; tap any object to open it.</span>
+    </p>
   </div>
 
 <div class="desk" role="navigation" aria-label="Site sections drawn as objects on a desk">
@@ -249,11 +257,23 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
     <div class="desk-popup" role="note">
       <p>selected work &rarr;</p>
       <a href="/urban-air-mobility/">urban air mobility</a>
+      <a href="/sky-view-factor/">sky view factor</a>
       <a href="/urban-green-space/">urban green space</a>
       <a href="/urban-built-environment/">urban built environment</a>
     </div>
   </div>
   </div>
+
+  <!-- touch screens can't hover the laptop, so the popup's links are shown inline -->
+  <nav class="desk-selected" aria-label="Selected work">
+    <p>selected work &rarr;</p>
+    <ul>
+      <li><a href="/urban-air-mobility/">urban air mobility</a></li>
+      <li><a href="/sky-view-factor/">sky view factor</a></li>
+      <li><a href="/urban-green-space/">urban green space</a></li>
+      <li><a href="/urban-built-environment/">urban built environment</a></li>
+    </ul>
+  </nav>
 
   <!-- compact index shown on small screens instead of the scene -->
   <div class="desk-index">
@@ -283,11 +303,11 @@ description: Urban analytics researcher exploring equity, mobility, resilience, 
     </li>
     <li>
       <time datetime="2026-07">Jul 2026</time>
-      <p>Submitted a systematic review of 1,446 planning studies to <em>Landscape and Urban Planning</em> as corresponding author.</p>
+      <p>Submitted a <a href="/publication/#journal-papers">systematic review</a> of 1,446 planning studies to <em>Landscape and Urban Planning</em> as corresponding author.</p>
     </li>
     <li>
       <time datetime="2026-07">Jul 2026</time>
-      <p>Presented PedSVF: Multimodal Aerial&ndash;Street Grounding for Pedestrian-Scale Sky View Factor Estimation at Geoinformatics 2026, National University of Singapore.</p>
+      <p>Presented <a href="/sky-view-factor/">PedSVF: Multimodal Aerial&ndash;Street Grounding for Pedestrian-Scale Sky View Factor Estimation</a> at Geoinformatics 2026, National University of Singapore.</p>
     </li>
     <li>
       <time datetime="2026-06">Jun 2026</time>

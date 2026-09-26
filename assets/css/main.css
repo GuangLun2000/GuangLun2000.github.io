@@ -519,7 +519,7 @@ select {
 /* research directions */
 .focus-list {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: clamp(1.5rem, 3vw, 2.5rem);
   margin: 0;
   padding: 0;
@@ -555,10 +555,12 @@ select {
   line-height: 1.65;
 }
 
-.focus-list a {
-  margin-top: 0.35rem;
-  justify-self: start;
-  font-size: 0.88rem;
+.focus-list h3 a {
+  transition: color 0.15s ease;
+}
+
+.focus-list h3 a:hover {
+  color: var(--color-stroke);
 }
 
 /* ==========================================================================
@@ -789,6 +791,60 @@ select {
 
 .desk-popup a:hover {
   color: var(--color-accent);
+}
+
+/* desk hint: hover wording for mouse, tap wording for touch;
+   touch screens also get the selected-work links inline */
+.hint-touch {
+  display: none;
+}
+
+.desk-selected {
+  display: none;
+  margin-top: 1rem;
+}
+
+.desk-selected p {
+  margin: 0 0 0.4rem;
+  color: var(--color-text-muted);
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.desk-selected ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.desk-selected a {
+  font-size: 0.95rem;
+  text-decoration: underline;
+  text-decoration-color: var(--color-line-strong);
+  text-underline-offset: 3px;
+}
+
+.desk-selected a:hover {
+  color: var(--color-accent);
+}
+
+@media (hover: none) {
+  .hint-hover {
+    display: none;
+  }
+
+  .hint-touch {
+    display: inline;
+  }
+
+  .desk-selected {
+    display: block;
+  }
 }
 
 /* compact index for small screens */
@@ -1025,6 +1081,19 @@ select {
   color: var(--color-text);
   font-size: 1.02rem;
   line-height: 1.6;
+}
+
+.news-list a {
+  text-decoration: underline;
+  text-decoration-color: var(--color-line-strong);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: color 0.18s ease, text-decoration-color 0.18s ease;
+}
+
+.news-list a:hover {
+  color: var(--color-stroke);
+  text-decoration-color: currentColor;
 }
 
 .news-list em {
@@ -1383,6 +1452,18 @@ select {
   line-height: 1.6;
 }
 
+/* one mono block for venue / role under the finding */
+.article-wrap .work-card p.work-card__meta {
+  display: grid;
+  gap: 0.15rem;
+  margin: 0.2rem 0 0;
+  color: var(--color-text-muted);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+}
+
 .work-card__link {
   margin-top: auto;
   padding-top: 0.6rem;
@@ -1539,7 +1620,7 @@ select {
   }
 
   .focus-list {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .project-feature {
@@ -1611,6 +1692,15 @@ select {
 
   .desk-index {
     display: block;
+  }
+
+  .desk-selected {
+    display: block;
+    margin: 0 0 1.25rem;
+  }
+
+  .focus-list {
+    grid-template-columns: 1fr;
   }
 
   .home-section__hint--desk {
