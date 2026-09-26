@@ -462,6 +462,7 @@ select {
 /* a single pen-scribbled underline, the only hand-drawn mark outside the desk */
 .scribble {
   position: relative;
+  display: inline-block; /* one box, so the underline never splits at a line end */
   padding-bottom: 0.06em;
 }
 
