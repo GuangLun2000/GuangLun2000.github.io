@@ -2,6 +2,7 @@
 layout: page
 section: courseworks
 title: "[CY PLAN 110] Introduction to City Planning"
+description: "UC Berkeley CY PLAN 110 project: GIS kernel density analysis of Bay Wheels stations against Census income data reveals a mobility gap in West Berkeley."
 ---
 
 # [CY PLAN 110] Introduction to City Planning

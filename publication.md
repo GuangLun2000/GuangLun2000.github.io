@@ -2,6 +2,7 @@
 layout: page
 permalink: /publication/index.html
 title: Publications
+description: "Papers by Xuanyu Zhou on urban air mobility, street-level sensing, green space, and the built environment and health, plus a thesis on pluvial flood risk in Hangzhou."
 body_class: page-publication
 ---
 

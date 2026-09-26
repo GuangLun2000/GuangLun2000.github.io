@@ -2,6 +2,7 @@
 layout: page
 section: courseworks
 title: "[Landscape Design] Island of Lake of Zijingang Campus"
+description: "Landscape design studio at Zhejiang University: turning the island in the Zijingang campus lake into a barrier-free healing garden with lawns and woven retreat pods."
 ---
 
 # [Landscape Design] Island of Lake of Zijingang Campus

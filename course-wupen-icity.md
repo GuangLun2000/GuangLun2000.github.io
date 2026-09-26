@@ -2,6 +2,7 @@
 layout: page
 section: courseworks
 title: "[WUPENiCity] Field Research on Optimization of Park-and-Ride (P+R) Systems in Hangzhou"
+description: "Field research at five Hangzhou metro stations on Park-and-Ride use, with a Random Forest and SHAP model of commuters' willingness to use it."
 ---
 
 # [WUPENiCity] Field Research on Optimization of Park-and-Ride (P+R) Systems in Hangzhou

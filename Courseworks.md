@@ -2,6 +2,7 @@
 layout: page
 permalink: /courseworks/index.html
 title: Coursework
+description: "Studio and course projects by Xuanyu Zhou from Zhejiang University and UC Berkeley, from GIS analysis of bike-share equity to landscape design and regulatory planning."
 body_class: page-wide
 ---
 

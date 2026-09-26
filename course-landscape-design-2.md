@@ -2,6 +2,7 @@
 layout: page
 section: courseworks
 title: "[Landscape Design] Qiushi Road"
+description: "Landscape design studio at Zhejiang University: a streetscape redesign of Qiushi Road on campus, using planting, paving and site furniture to make it more walkable."
 ---
 
 # [Landscape Design] Qiushi Road

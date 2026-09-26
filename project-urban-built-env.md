@@ -3,6 +3,7 @@ layout: page
 section: projects
 permalink: /urban-built-environment/index.html
 title: Urban Built Environment
+description: "Three studies on the built environment and wellbeing: post-COVID recovery in Nagoya, health effects of bike-sharing in Shenzhen, and emotions on Weibo in Beijing."
 ---
 
 # Urban Built Environment

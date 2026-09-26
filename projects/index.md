@@ -2,6 +2,7 @@
 layout: page
 permalink: /projects/index.html
 title: Projects
+description: "Research projects by Xuanyu Zhou: urban air mobility, pedestrian-scale sky view factor, green space in shrinking cities, and how the built environment shapes health."
 body_class: page-wide
 ---
 

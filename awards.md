@@ -2,6 +2,7 @@
 layout: page
 permalink: /awards/index.html
 title: Awards
+description: "Scholarships and honors received by Xuanyu Zhou at Zhejiang University, including the Zhejiang Provincial Government Scholarship and Outstanding Graduate (2026)."
 ---
 
 # Awards

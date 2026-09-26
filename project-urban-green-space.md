@@ -3,6 +3,7 @@ layout: page
 section: projects
 permalink: /urban-green-space/index.html
 title: Urban Green Space
+description: "Green space and community vitality in Pittsburgh, 2019–2022: satellite imagery, visitation data and GWR show green space quality matters as much as quantity."
 ---
 
 # Urban Green Space in Shrinking Cities

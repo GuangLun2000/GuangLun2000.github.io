@@ -3,6 +3,7 @@ layout: page
 section: projects
 permalink: /urban-air-mobility/index.html
 title: Urban Air Mobility
+description: "Urban air mobility on the SF Bay Area's existing regional airports: a mixed-fleet network, simulated with multi-GPU LPSim, saves over 20 minutes on 230,000 trips."
 ---
 
 # Urban Air Mobility

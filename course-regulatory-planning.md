@@ -2,6 +2,7 @@
 layout: page
 section: courseworks
 title: "[Regulatory Detailed Planning] Tangbei Unit, Hangzhou"
+description: "Regulatory detailed plan for Tangbei Unit, a 315.87-hectare block in northwest Hangzhou next to Zhejiang University, organized as one core, two rings and three districts."
 ---
 
 # [Regulatory Detailed Planning] Tangbei Unit, Hangzhou

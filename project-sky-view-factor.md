@@ -3,6 +3,7 @@ layout: page
 section: projects
 permalink: /sky-view-factor/index.html
 title: Sky View Factor
+description: "Measuring sky view factor from the sidewalk, not the roadway: across 15,630 San Francisco images, pedestrian SVF averages 0.16 lower. Includes an interactive SF map."
 ---
 
 # Sky View Factor
