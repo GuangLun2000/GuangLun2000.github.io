@@ -18,6 +18,10 @@ title: Publications
 
 ## Journal Paper
 
+- ORBIT: Online Robust Battery-Aware Scheduling for Collaborative VLM Inference over Solar-Powered LEO Satellite Networks<br>Junfei Zhan, **Hanlin Cai**, Tengjiao He, Ozgur B. Akan<br>Submitted to IEEE Transactions on Mobile Computing, 2026.<br>
+
+  
+
 - [Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961)<br>**Hanlin Cai**, Kai Li, Houtianfu Wang, Haofan Dong, Yichen Li, Falko Dressler, Ozgur B. Akan<br>**IEEE Transactions on Network Science and Engineering**, 2026.<br>
 
   
@@ -74,7 +78,15 @@ title: Publications
 
 ## Conference Paper
 
-- [Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling](https://arxiv.org/pdf/2603.11280)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to the IEEE 27th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). <br>Athens, Greece. September, 2026.<br>
+- Utility-Driven Clustered Federated Learning via Class-wise Interaction Attribution<br>Zhongxu Wang, Yichen Li, Haozhao Wang, **Hanlin Cai**, Qi Chen, Ruixuan Li, Ozgur B. Akan<br>Advances in Neural Information Processing Systems (NeurIPS).<br>Sydney, Australia. December, 2026.<br>
+
+  
+
+- Personalized Safety in Federated Fine-Tuning of Large Language Models<br>Tianzhe Xiao, Gaozhuo Liu, Yichen Li, Haozhao Wang, **Hanlin Cai**, Ruixuan Li, Ozgur B. Akan<br>Advances in Neural Information Processing Systems (NeurIPS).<br>Sydney, Australia. December, 2026.<br>
+
+  
+
+- [Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling](https://arxiv.org/pdf/2603.11280)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Proceedings of the IEEE 27th International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC).<br>Athens, Greece. September, 2026.<br>
 
   
 
