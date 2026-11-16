@@ -5,9 +5,7 @@ title: Services
 
 ---
 
-> **Open to paper review for top-level journals and conferences!**
->
-> I am always open to reviewing manuscripts in areas related to LLMs, 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - **hc663 [at] cam.ac.uk**
+> Opening: I am always open to reviewing manuscripts in areas related to distributed ML, LLM, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - **hc663 [at] cam.ac.uk**
 
 ## Academic Services
 
@@ -19,22 +17,18 @@ title: Services
   - IEEE Transactions on Network Science and Engineering
   - IEEE Internet of Things Journal
   - IEEE Communications Letters
-  - Elsevier: Sustainable Cities and Society
-  - Elsevier: Computers in Human Behavior Reports
 - **Conference:**
-  - Neural Information Processing Systems (NeurIPS)
-  - AAAI Conference on Artificial Intelligence (AAAI)
-  - IEEE Global Communications Conference (Globecom)
-  - IEEE International Conference on Communications (ICC)
-  - IEEE Vehicular Technology Conference (TVC)
-  - IEEE International Wireless Communications & Mobile Computing Conference (IWCMC)
-  - IEEE ICN, IEEE WoWMoM, IEEE IMWS-AMP, *etc.*
+  - NeurIPS
+  - AAAI
+  - MobiSys
+  - IEEE Globecom, IEEE ICC, IEEE TVC, IEEE IWCMC
 
 ### Program Committee
 
-- TPC Member for IEEE VTC
-- TPC Member for IEEE IWCMC
-- TPC Member for AAAI Undergraduate Consortium
+- IEEE VTC, IEEE IWCMC, AAAI Undergraduate Consortium
+- *Open to more positions.*
+
+<br>
 
 ---
 
@@ -44,6 +38,8 @@ title: Services
 - [Supervision: Cambridge Undergraduate Part-IIB Project](https://teaching.eng.cam.ac.uk/content/part-iib-project-introduction)<br>Student: [Mr. Jon Tindal](https://www.linkedin.com/in/jon-tindal-a87668254/). Co-supervised with Dr. Ozgur Akan<br>Topic: Spectrum Sensing with Deep Learning for Cognitive Radio.
 - [Supervision: AAAI 2026 Conference: Undergraduate Consortium](https://aaai.org/conference/aaai/aaai-26/uc-call/)<br>Student: Ms. Jarin Tasneem (Bangladesh University of Engineering and Technology)<br>Topic: Byzantine Model Poisoning Attack against Vertical Federated Learning.
 
+<br>
+
 ---
 
 ## Voluntary Service
@@ -52,6 +48,8 @@ title: Services
 - Student Volunteer in the 22nd ACM International Conference on Mobile Systems, Applications, and Services (2024)
 - Student Volunteer in the 38th Annual AAAI Conference on Artificial Intelligence (2024)
 - Student volunteer in the 44th session of the World Heritage Committee (2021)
+
+<br>
 
 ---
 
