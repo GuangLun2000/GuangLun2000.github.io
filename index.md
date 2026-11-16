@@ -8,7 +8,7 @@ layout: page
 
 <br>Here is **Hanlin Cai** (Lance, 蔡汉霖). I am the founder of the [Cambridge AI for Wellbeing Soceity](https://ai4wellbeing.github.io/).
 
-<br>I am a first-year PhD student at the [Centre for neXt Communications](https://oba.eco/people/) at the **University of Cambridge**, where I am fortunate to be supervised by [Ozgur B. Akan](https://oba.eco/), and advised by [Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Kai Li](https://sites.google.com/site/lukasunsw/Home).
+<br>I am a 2nd-year PhD student at the [Centre for neXt Communications](https://oba.eco/people/) at the **University of Cambridge**, where I am fortunate to be advised by [Ozgur B. Akan](https://oba.eco/) and [Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22). I also work closely with [Falko Dressler](https://www.tkn.tu-berlin.de/team/dressler/) and [Kai Li](https://sites.google.com/site/lukasunsw/Home).
 
 <br>My research is supported by the [Cambridge Trust](https://www.cambridgetrust.org/), [China Scholarship Council](https://www.student-funding.cam.ac.uk/fund/csc-cambridge-scholarship-2024) and [Wolfson College](https://www.wolfson.cam.ac.uk/). Previously, I was very pleased to undertake summer research with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
 
@@ -22,7 +22,8 @@ layout: page
 
 - Edge AI System
 - Distributed ML
-- Attack, Defense, Resilience
+- Resilience for AI models (red and blue teaming)
+- Satellite Intelligence (e.g., Starlink, StarMind)
 
 
 ---
@@ -35,3 +36,5 @@ layout: page
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+
+<br>
