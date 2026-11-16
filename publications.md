@@ -12,15 +12,13 @@ title: Publications
 
 - **Edge AI:** [Falko Dressler (TU Berlin)](https://www.tkn.tu-berlin.de/team/dressler/), [Wei Ni (UNSW)](https://scholar.google.com/citations?user=GMS201gAAAAJ&hl=en), [Kai Li (CMU)](https://sites.google.com/site/lukasunsw/), [Yichen Li (HUST)](https://yichenli-hust.github.io/), [Zheng Lin (HKU)](https://xianhaochen.net/people)
 - **Wireless Communications:** [Ozgur B. Akan (Cam)](https://oba.eco/), [Haofan Dong (Cam)](https://scholar.google.com/citations?user=tuhdAK0AAAAJ&hl=zh-CN), [Houtianfu Wang (Cam)](https://ioe.eng.cam.ac.uk/staff/houtianfu-wang)
-- **Mobile Networks:** [Jon Crowcroft (Cam)](https://www.cl.cam.ac.uk/~jac22/), [Junfei Zhan (UPenn)](https://junfei-z.github.io/), [Zhezhuang Xu (FZU)](https://scholar.google.com/citations?hl=zh-CN&user=iZ7LQRkAAAAJ&view_op=list_works&sortby=pubdate), [Meng Yuan (VUW)](https://myuan27.github.io/)<br><br>
-
-
+- **Mobile Networks:** [Jon Crowcroft (Cam)](https://www.cl.cam.ac.uk/~jac22/), [Junfei Zhan (UPenn)](https://junfei-z.github.io/), [Zhezhuang Xu (FZU)](https://scholar.google.com/citations?hl=zh-CN&user=iZ7LQRkAAAAJ&view_op=list_works&sortby=pubdate)<br><br>
 
 ----
 
 ## Journal Paper
 
-- [Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961)<br>**Hanlin Cai**, Kai Li, Houtianfu Wang, Haofan Dong, Yichen Li, Falko Dressler, Ozgur B. Akan<br>**IEEE Transactions on Network Science and Engineering**, 2026.<br>
+- [Model Manipulation against Federated Fine-Tuning of LLMs: An Adversarial Graph Representation Learning Approach](https://arxiv.org/abs/2605.07961)<br>**Hanlin Cai**, Kai Li, Houtianfu Wang, Haofan Dong, Yichen Li, Falko Dressler, Ozgur B. Akan<br>**IEEE Transactions on Network Science and Engineering**, 2026.<br>
 
   
 
@@ -36,19 +34,15 @@ title: Publications
 
   
 
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE Magazine, 2026.<br>
-
-  
-
 - [Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC](https://arxiv.org/abs/2604.10830)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, O. Tansel Baydas, Ozgur B. Akan<br>**IEEE Transactions on Wireless Communications**, 2026.<br>
 
   
 
-- [Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>**IEEE Transactions on Aerospace and Electronic Systems**, 2026.<br>
+- [Risk-Aware Link Adaptation for Ka-Band LEO Satellite Downlinks Under Ionospheric Disturbances](https://ieeexplore.ieee.org/abstract/document/11581392)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>**IEEE Transactions on Aerospace and Electronic Systems**, 2026.<br>
 
   
 
-- Measurement-Grounded Deadline Feasibility over LEO RF and Optical Access Links<br>Houtianfu Wang, O. Tansel Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>**IEEE Transactions on Aerospace and Electronic Systems**, 2026.<br>
+- [Payload–Deadline Proxy Characterization for Isolated Transfers Over LEO RF and Optical Access Links](https://ieeexplore.ieee.org/document/11675855)<br>Houtianfu Wang, O. Tansel Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>**IEEE Transactions on Aerospace and Electronic Systems**, 2026.<br>
 
   
 
@@ -88,10 +82,6 @@ title: Publications
 
   
 
-- [Graph Learning-based Update Manipulation Attack on Federated Fine-Tuning of LLMs over Wireless Networks](https://dl.acm.org/doi/10.1145/3812835.3814863)<br>**Hanlin Cai**, Junfei Zhan, Zheng Lin, Xinyi Cai<br>Proceedings of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys).<br>Cambridge, United Kingdom. June, 2026.<br>
-
-  
-
 - [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Sai Zou, Ozgur B. Akan<br>Proceedings of the IEEE 22nd International Wireless Communications & Mobile Computing Conference (IWCMC). <br>Shanghai, China. June, 2026.<br>
 
   
@@ -100,20 +90,6 @@ title: Publications
 
   
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu<br>Presented at the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
-
-  
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys).<br>Tokyo, Japan. June, 2024.<br>
-
-  
-
-- [Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design](https://arxiv.org/abs/2504.20016)<br>Linshi Li, **Hanlin Cai~~**<br>Proceedings of the 24th Annual ACM Interaction Design and Children Conference (IDC).<br>Reykjavik, Iceland. June, 2025.<br>
-
-  
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~~**<br>Proceedings of the 14th IEEE International Conference on Educational and Information Technology.<br>Guangzhou, China. March, 2025.<br>
-
   <br>
 
 
@@ -121,11 +97,7 @@ title: Publications
 
 ## Early Project (during Undergrad)
 
-- [Securing Billion Bluetooth Devices Leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final-year project ([see thesis below]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
-
-  
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Third-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>Proceedings of the 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the *Journal of Advances in Artificial Life Robotics*.
+- [Securing Billion Bluetooth Devices Leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final-year project ([see thesis below]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/). Also presented at the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Vancouver, Canada. February, 2024.<br>
 
   <br>
 
@@ -133,13 +105,13 @@ title: Publications
 
 ## Degree Thesis
 
-- Towards Resilient and Trustworthy Internet of Agents<br>PhD First Year Report, 2026.
+- [Towards Resilient and Trustworthy Internet of Agents]({{ site.url }}/mypaper/thesis/PhD_FYR.pdf)<br>**Hanlin Cai** (Advisor: Ozgur B. Akan).<br>PhD First Year Report, 2026<br>Examiners: [Jon Crowcroft](https://en.wikipedia.org/wiki/Jon_Crowcroft) and [Hannah Joyce](https://elec.eng.cam.ac.uk/team/prof-hannah-joyce/).
 
-- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks]({{ site.url }}/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Ozgur B. Akan).<br>Examiners: [Dr. Sasitharan Balasubramaniam](https://computing.unl.edu/person/sasitharan-balasubramaniam/), [Dr. Qixiang Cheng](https://www.eng.cam.ac.uk/profiles/qc223).<br>Thesis awarded **High Distinction**.<br>
+- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks]({{ site.url }}/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Ozgur B. Akan).<br>MPhil Thesis (awarded the Highest Distinction), 2025<br>Examiners: [Sasitharan Balasubramaniam](https://computing.unl.edu/person/sasitharan-balasubramaniam/) and [Qixiang Cheng](https://www.eng.cam.ac.uk/profiles/qc223).<br>
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Zhezhuang Xu).<br>**Best Bachelor Thesis Award** (top 1/300, the highest score of year 2024).<br>
+- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu).<br>**Best Bachelor Thesis Award** (top 1/272, the highest score of year 2024).<br>
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot]({{ site.url }}/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Yuxiong Xia).<br>Industrial Placement Report at China Fuzhou Huading Tech. (Third-year industrial progrom).<br>
+- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot]({{ site.url }}/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Yuxiong Xia).<br>Industrial Placement Report at China Huading Tech (Third-year industrial progrom).<br>
 
   <br>
 
