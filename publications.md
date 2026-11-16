@@ -46,23 +46,23 @@ title: Publications
 
   
 
-- [Deadline-Bound Finite-Object Delivery over Intermittent LEO Satellite Contact Plans under Residual-Service Accounting](https://arxiv.org/abs/2607.04405)<br>Houtianfu Wang, O. Tansel Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to **IEEE Transactions on Mobile Computing**, 2026.<br>
-
-  
-
-- Fence-and-Flash: Sequential ISAC for Probabilistic LEO Debris Characterization over Inter-Satellite Links<br>Houtianfu Wang, O. Tansel Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to **IEEE Transactions on Wireless Communications**, 2026.<br>
-
-  
-
-- Active–Passive Spectrum Coexistence via Power Textures for Astronomical-Signal Identifiability<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, O. Tansel Baydas, Ozgur B. Akan<br>Submitted to **IEEE Transactions on Wireless Communications**, 2026.<br>
-
-  
-
 - [Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness in Remote Sensing Image Classification](https://arxiv.org/abs/2604.14643)<br>Weiwei Zhuang, Wangze Xie, Qi Zhang, Xia Du, Zihan Lin, Zheng Lin, **Hanlin Cai**, Jizhe Zhou, Zihan Fang, Chi-man Pun, Wei Ni, Jun Luo<br>**IEEE Transactions on Geoscience and Remote Sensing**, 2026.<br>
 
   
 
 - [A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2](https://arxiv.org/abs/2605.17150)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>**Publications of the Astronomical Society of Australia (PASA)**, 2026.<br>
+
+  
+  
+- [Deadline-Bound Finite-Object Delivery over Intermittent LEO Satellite Contact Plans under Residual-Service Accounting](https://arxiv.org/abs/2607.04405)<br>Houtianfu Wang, O. Tansel Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to **IEEE Transactions on Mobile Computing**, 2026.<br>
+
+  
+  
+- Fence-and-Flash: Sequential ISAC for Probabilistic LEO Debris Characterization over Inter-Satellite Links<br>Houtianfu Wang, O. Tansel Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to **IEEE Transactions on Wireless Communications**, 2026.<br>
+
+  
+
+- Active–Passive Spectrum Coexistence via Power Textures for Astronomical-Signal Identifiability<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, O. Tansel Baydas, Ozgur B. Akan<br>Submitted to **IEEE Transactions on Wireless Communications**, 2026.<br>
 
   <br>
 
