@@ -12,21 +12,22 @@ title: Services
 ### Reviewer
 
 - **Journal:**
-  - IEEE Transactions on Mobile Computing
-  - IEEE Transactions on Cognitive Communications and Networking
-  - IEEE Transactions on Network Science and Engineering
+  - IEEE Transactions on Mobile Computing (TMC)
+  - IEEE Transactions on Information Forensics and Security (TIFS)
+  - IEEE Transactions on Network Science and Engineering (TNSE)
+  - IEEE Transactions on Cognitive Communications and Networking (TCCN)
   - IEEE Internet of Things Journal
   - IEEE Communications Letters
 - **Conference:**
   - NeurIPS
   - AAAI
   - MobiSys
-  - IEEE Globecom, IEEE ICC, IEEE TVC, IEEE IWCMC
+  - IEEE Globecom, IEEE ICC, IEEE TVC, IEEE IWCMC...
 
 ### Program Committee
 
-- IEEE VTC, IEEE IWCMC, AAAI Undergraduate Consortium
-- *Open to more positions.*
+- IEEE ICC, IEEE IWCMC, IEEE VTC, IEEE WoWMoM
+- AAAI Workshop (Undergraduate Consortium)
 
 <br>
 
@@ -34,20 +35,9 @@ title: Services
 
 ## Teaching and Supervisions
 
-- [Teaching: Engineering Tripos Part IIA, 3B2: Integrated Digital Electronics, 2025-26](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3b2-integrated-digital-electronics-2025-26)<br>Student: 14 third-year undergrads. Co-supervised with Dr. Ozgur Akan and Dr M. Tang.<br>Teaching for four tutorial sessions and coursework materials preparation.
-- [Supervision: Cambridge Undergraduate Part-IIB Project](https://teaching.eng.cam.ac.uk/content/part-iib-project-introduction)<br>Student: [Mr. Jon Tindal](https://www.linkedin.com/in/jon-tindal-a87668254/). Co-supervised with Dr. Ozgur Akan<br>Topic: Spectrum Sensing with Deep Learning for Cognitive Radio.
-- [Supervision: AAAI 2026 Conference: Undergraduate Consortium](https://aaai.org/conference/aaai/aaai-26/uc-call/)<br>Student: Ms. Jarin Tasneem (Bangladesh University of Engineering and Technology)<br>Topic: Byzantine Model Poisoning Attack against Vertical Federated Learning.
-
-<br>
-
----
-
-## Voluntary Service
-
-- Student Volunteer in the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (2024)
-- Student Volunteer in the 22nd ACM International Conference on Mobile Systems, Applications, and Services (2024)
-- Student Volunteer in the 38th Annual AAAI Conference on Artificial Intelligence (2024)
-- Student volunteer in the 44th session of the World Heritage Committee (2021)
+- [**Teaching**: Engineering Tripos Part IIA, 3B2: Integrated Digital Electronics, 2025-26](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3b2-integrated-digital-electronics-2025-26)<br>Student: 14 third-year undergrads. Co-supervised with Dr. Ozgur Akan and Dr M. Tang<br>Teaching for four tutorial sessions and coursework materials preparation.
+- [**Supervision**: Cambridge Undergraduate Part-IIB Project](https://teaching.eng.cam.ac.uk/content/part-iib-project-introduction)<br>Student: [Mr. Jon Tindal](https://www.linkedin.com/in/jon-tindal-a87668254/) (University of Cambridge)<br>Topic: Spectrum Sensing with Deep Learning for Cognitive Radio.
+- [**Supervision**: AAAI 2026 Conference: Undergraduate Consortium](https://aaai.org/conference/aaai/aaai-26/uc-call/)<br>Student: Ms. Jarin Tasneem (Bangladesh University of Engineering and Technology)<br>Topic: Byzantine Model Poisoning Attack against Vertical Federated Learning.
 
 <br>
 
