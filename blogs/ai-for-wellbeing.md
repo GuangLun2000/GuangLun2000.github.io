@@ -4,13 +4,13 @@ permalink: /blogs/ai-for-wellbeing/index.html
 title: 我在剑桥创办了一个很特别的AI协会...
 ---
 
-## 我在剑桥创办了一个很特别的AI协会（Cambridge AI for Wellbeing Society）
+## 我在剑桥创办了一个很特别的AI协会
 
 > 我们真的还需要更多的伙伴们，加入到这项事业。
 >
 > 还需要更多的企业，为我们提供支持。
 >
-> 正因为有大家，我们才能一同，make things happen！
+> 正因为有大家，我们才能一同：“make things happen！”
 
 今天，实现了一直以来的心愿。我们在剑桥大学成立了 [Cambridge AI for Wellbeing Society协会](https://ai4wellbeing.github.io/)，并在圣约翰学院，举办了我们的第一届研讨会。
 
