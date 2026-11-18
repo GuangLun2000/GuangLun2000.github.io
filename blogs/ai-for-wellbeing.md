@@ -60,16 +60,22 @@ title: 我在剑桥创办了一个很特别的AI协会...
 
 2）促进AI研究传播。对接人才，分享最新成果。我们关注可信赖、负责任、以人为本的人工智能，为优秀的工作拓展更多曝光的机会。
 
-<br>七月，在剑桥，我们让愿景第一次落地。感谢哈尔滨工业大学，感谢华为，感谢六位真诚的讲者/前辈们，感谢CCRN。
+<br>七月，在剑桥，我们让愿景第一次落地。感谢哈尔滨工业大学，感谢华为，感谢六位真诚的讲者/前辈们，感谢CCRN的协助。
 
-我们真的还需要更多的伙伴们，加入到这项事业。我们还需要更多的企业，为我们提供支持。
+<br>我们真的还需要更多的伙伴们，加入到这项事业。我们还需要更多的企业，为我们提供支持。
 
-正因为有大家，我们才能一同，make things happen！
+<br>正因为有大家，我们才能一同，make things happen！
 
 <br>每一份支持都将汇聚成为更大的力量。
 
 <br>我们分享着同一片天空，也想拥抱同一个梦想。谢谢你读到这里🌍🕊️💙
 
-<br><br>Lance Cai，2026年于剑桥Wolfson College
+![IMG_5387 2](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/assets/IMG_5387 2.JPG)
+
+![20260718AIgroupphotos-2](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/assets/20260718AIgroupphotos-2.JPG)
+
+![020260718AIworkshop-13](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/assets/020260718AIworkshop-13.JPG)
+
+<br>Lance Cai，2026年于剑桥Wolfson College
 
 <br>
