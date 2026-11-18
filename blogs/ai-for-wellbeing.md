@@ -70,12 +70,14 @@ title: 我在剑桥创办了一个很特别的AI协会...
 
 <br>我们分享着同一片天空，也想拥抱同一个梦想。谢谢你读到这里🌍🕊️💙
 
-![IMG_5387 2](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/assets/IMG_5387 2.JPG)
+<br>
 
-![20260718AIgroupphotos-2](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/assets/20260718AIgroupphotos-2.JPG)
+![IMG_5387 2](assets/IMG_5387 2.JPG)
 
-![020260718AIworkshop-13](/Users/hanlincai/Desktop/Github/GuangLun2000.github.io/blogs/assets/020260718AIworkshop-13.JPG)
+![20260718AIgroupphotos-2](assets/20260718AIgroupphotos-2.JPG)
 
-<br>Lance Cai，2026年于剑桥Wolfson College
+![020260718AIworkshop-13](assets/020260718AIworkshop-13.JPG)
+
+<br>Lance in Wolfson College, July 2026.
 
 <br>
