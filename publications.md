@@ -10,8 +10,8 @@ title: Publications
 
 *The individuals listed below have profoundly shaped my research and personal development. Their invaluable contributions and guidance have greatly enriched all the work presented here.*
 
-- **Edge AI:** [Falko Dressler (TU Berlin)](https://www.tkn.tu-berlin.de/team/dressler/), [Wei Ni (UNSW)](https://scholar.google.com/citations?user=GMS201gAAAAJ&hl=en), [Kai Li (CMU)](https://sites.google.com/site/lukasunsw/), [Yichen Li (HUST)](https://yichenli-hust.github.io/), [Zheng Lin (HKU)](https://xianhaochen.net/people)
-- **Wireless Communications:** [Ozgur B. Akan (Cam)](https://oba.eco/), [Haofan Dong (Cam)](https://scholar.google.com/citations?user=tuhdAK0AAAAJ&hl=zh-CN), [Houtianfu Wang (Cam)](https://ioe.eng.cam.ac.uk/staff/houtianfu-wang)
+- **Edge AI:** [Falko Dressler (TU Berlin)](https://www.tkn.tu-berlin.de/team/dressler/), [Wei Ni (UNSW)](https://scholar.google.com/citations?user=GMS201gAAAAJ&hl=en), [Kai Li (CMU)](https://sites.google.com/site/lukasunsw/), [Yichen Li (HUST)](https://yichenli-hust.github.io/)
+- **Satellite Inteligence:** [Ozgur B. Akan (Cam)](https://oba.eco/), [Haofan Dong (Cam)](https://scholar.google.com/citations?user=tuhdAK0AAAAJ&hl=zh-CN), [Houtianfu Wang (Cam)](https://ioe.eng.cam.ac.uk/staff/houtianfu-wang)
 - **Mobile Networks:** [Jon Crowcroft (Cam)](https://www.cl.cam.ac.uk/~jac22/), [Junfei Zhan (UPenn)](https://junfei-z.github.io/), [Zhezhuang Xu (FZU)](https://scholar.google.com/citations?hl=zh-CN&user=iZ7LQRkAAAAJ&view_op=list_works&sortby=pubdate)<br><br>
 
 ----
@@ -50,19 +50,7 @@ title: Publications
 
   
 
-- [A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2](https://arxiv.org/abs/2605.17150)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>**Publications of the Astronomical Society of Australia (PASA)**, 2026.<br>
-
-  
-  
 - [Deadline-Bound Finite-Object Delivery over Intermittent LEO Satellite Contact Plans under Residual-Service Accounting](https://arxiv.org/abs/2607.04405)<br>Houtianfu Wang, O. Tansel Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to **IEEE Transactions on Mobile Computing**, 2026.<br>
-
-  
-  
-- Fence-and-Flash: Sequential ISAC for Probabilistic LEO Debris Characterization over Inter-Satellite Links<br>Houtianfu Wang, O. Tansel Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to **IEEE Transactions on Wireless Communications**, 2026.<br>
-
-  
-
-- Active–Passive Spectrum Coexistence via Power Textures for Astronomical-Signal Identifiability<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, O. Tansel Baydas, Ozgur B. Akan<br>Submitted to **IEEE Transactions on Wireless Communications**, 2026.<br>
 
   <br>
 
@@ -90,16 +78,9 @@ title: Publications
 
   
 
-  <br>
+- [Securing Billion Bluetooth Devices Leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/). Also presented at the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Vancouver, Canada. February, 2024.<br>
 
-
----
-
-## Early Project (during Undergrad)
-
-- [Securing Billion Bluetooth Devices Leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final-year project ([see thesis below]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/). Also presented at the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Vancouver, Canada. February, 2024.<br>
-
-  <br>
+<br>
 
 ---
 
